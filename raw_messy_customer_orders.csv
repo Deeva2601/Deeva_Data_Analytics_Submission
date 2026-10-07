@@ -1,0 +1,2086 @@
+Order_ID,Customer_ID,Customer_Age,Gender,Annual_Income,State,Order_Date,Product_Category,Quantity,Unit_Price,Discount_Applied,Payment_Method
+ORD-11404,CUST_1033,45.0,Female,"93,819.22",FL,2023-09-01,clothing,0,$206.85,0%,Debit Card
+ORD-10833,CUST_1344,23.0,Female,52684.95, CA ,2023-01-27, Electronics ,1, $431.88 USD ,15%,nan
+ORD-11296,CUST_1278,35.0,F,"95,531.06",California,"Dec 13, 2023", Electronics ,4,114.7,20%,CC
+ORD-11394,CUST_1424,18.0,male,81105.48,California,Invalid Date,Books,2,449.07,0%,credit card
+ORD-11665,CUST_1482,16.0,Male,$ 38715.80, CA ,01.11.2024,Books,-1,$162.43,5%,PAYPAL
+ORD-11557,CUST_1077,16.0,Male,"45,523.02",Washington,nan,CLOTHING,4,0.00,20%,CC
+ORD-11371,CUST_1410,50.0,Female,"$79,437.92",texas,"Jan 03, 2023",Beauty & Personal Care,1,$341.59,20%,Cash
+ORD-10933,CUST_1423,,F,80074.47,New York,"Nov 18, 2024",Books,1, $364.64 USD ,5%,PayPal
+ORD-11252,CUST_1579,47.0,male,72375.42, CA ,nan, Electronics ,2, $259.23 USD ,15%,credit card
+ORD-10410,CUST_1197,,Female,"$15,000.00", CA ,2023-10-03,Books,1, $428.57 USD ,5%,Cash
+ORD-10322,CUST_1336,52.0,Male,"$55,381.05",Florida,28.10.2023,Books,1,$187.16,0%,nan
+ORD-10998,CUST_1080,,F,"81,987.00",IL,08.11.2024,Home & Kitchen,1,218.5,15%,credit card
+ORD-10887,CUST_1382,31.0,unknown,"$56,861.88", CA ,07/08/2024,Books,5,$230.01,15%,Cash
+ORD-11803,CUST_1545,41.0,Male,"78,194.22",WA,nan,sports & outdoors,5,nan,10%,debit_card
+ORD-10101,CUST_1470,43.0,Female,"$38,359.09",Washington,"Jun 05, 2023",electronics,2,326.53,5%,Cash
+ORD-11563,CUST_1240,26.0,Male,"$114,146.45",nan,2024-07-24,CLOTHING,3,297.2,5%,PAYPAL
+ORD-10680,CUST_1150,52.0,M,$ 49860.30,TX,2023-03-04,clothing,2,354.41,0%,nan
+ORD-11034,CUST_1535,23.0,Male,"$36,585.40",WA,2023-10-20,Home & Kitchen,1, $159.16 USD ,20%,PayPal
+ORD-11870,CUST_1565,43.0,Male,$ 84704.51,New York,2024-09-10,CLOTHING,2,159.05,20%,nan
+ORD-10121,CUST_1190,41.0,male,"$40,745.74",Florida,23.11.2024,clothing,1, $418.72 USD ,10%,nan
+ORD-11722,CUST_1455,50.0,Female,"$84,883.84",texas,22.10.2024, Electronics ,4,TBD,0%,credit card
+ORD-10129,CUST_1118,51.0,M,56609.31, CA ,12.07.2024,CLOTHING,4,nan,10%,UPI / Wallet
+ORD-11407,CUST_1149,,male,"66,491.62",TX,2023-99-99,Beauty & Personal Care,2,nan,10%,cash
+ORD-10325,CUST_1155,50.0,Male,$ 37235.62,IL,Invalid Date,Home & Kitchen,2,100.47,20%,Cash
+ORD-10238,CUST_1238,27.0,Male,$ - ,FL,2024-09-15,electronics,2,0.00,15%,Credit Card
+ORD-10248,CUST_1564,,Female,"$65,719.17",TX,07/10/2023,sports & outdoors,2, $48.25 USD ,0%,Credit Card
+ORD-10839,CUST_1241,24.0,Female,"$57,725.26",nan,nan,clothing,1, $271.38 USD ,20%,paypal
+ORD-10568,CUST_1047,43.0,M,"$25,369.25",New York,05/24/2023,Home & Kitchen,2,$162.45,15%,cash
+ORD-10309,CUST_1071,31.0,?,70958.57,california,02/21/2023,CLOTHING,1, $388.56 USD ,10%,PAYPAL
+ORD-10384,CUST_1432,30.0,male,$ 105654.49,California,2024-10-12,sports & outdoors,5,17.12,20%,Cash
+ORD-10030,CUST_1500,40.0,male,$ 84828.57,Illinois,20.03.2024,sports & outdoors,1,$158.66,20%,credit card
+ORD-11224,CUST_1238,35.0,M,null,TX,"Feb 01, 2023", Electronics ,2, $267.74 USD ,20%,nan
+ORD-11834,CUST_1226,30.0,female,"$69,098.80",NY,"Aug 01, 2024",Beauty & Personal Care,2,0.00,20%,Cash
+ORD-10110,CUST_1341,38.0,female,26339.73,Florida,07/15/2023,Books,2,nan,15%,Credit Card
+ORD-11877,CUST_1464,,nan,"62,787.82",texas,2023-10-20, Electronics ,1,200.58,0%,nan
+ORD-10351,CUST_1468,30.0,Male,$ 46709.71,Texas,2023-03-09, Electronics ,1,FREE,15 %,nan
+ORD-10282,CUST_1246,29.0,Male,"85,262.80",nan,2023-99-99,clothing,3,181.7,15%,UPI / Wallet
+ORD-11782,CUST_1336,23.0,FEMALE,$ 135346.99,nan,2023-99-99, Electronics ,1,nan,nan,credit card
+ORD-11544,CUST_1021,34.0,Female,95991.94,NY,"Jan 28, 2024", Electronics ,2, $266.52 USD ,10%,Cash
+ORD-10942,CUST_1464,54.0,male,"67,580.60",TX,2024-04-24,Home & Kitchen,1,$103.17,5%,debit_card
+ORD-10052,CUST_1130,,Female,"82,234.37",Washington,01/11/2023,electronics,1,$215.97,5%,PAYPAL
+ORD-11757,CUST_1283,39.0,F,"57,390.10",WA,"Apr 17, 2024",sports & outdoors,5,TBD,15%,PayPal
+ORD-10071,CUST_1003,44.0,male,"81,012.95",Texas,2024-08-07, Electronics ,1,428.23,15%,PayPal
+ORD-11643,CUST_1587,29.0,Female,"68,159.16",New York,"Jun 09, 2023",CLOTHING,1,TBD,5%,PAYPAL
+ORD-10428,CUST_1202,29.0,Male,"$79,065.90",TX,2023-05-14,sports & outdoors,2, $271.72 USD ,10%,PAYPAL
+ORD-11690,CUST_1337,41.0,Male,"$67,861.66",TX,05.08.2024,electronics,1, $110.72 USD ,15%,Cash
+ORD-10240,CUST_1416,40.0,Other,70158.56,california,"May 07, 2024",sports & outdoors,1,nan,5%,PAYPAL
+ORD-10189,CUST_1536,38.0,MALE,null,Florida,nan,Books,2,15.01,25%,Cash
+ORD-10213,CUST_1251,66.0,Female,"$88,003.44",FL,2024-10-29,electronics,1,395.26,10%,PayPal
+ORD-10614,CUST_1367,,Male,"91,795.09",Texas,25.05.2024,electronics,1,$376.92,5%,UPI / Wallet
+ORD-11595,CUST_1122,38.0,Male,"$64,142.96",WA,2024-08-13,Books,1, $279.24 USD ,20%,PayPal
+ORD-10232,CUST_1490,36.0,MALE,"49,746.61",FL,"Jun 13, 2024",Beauty & Personal Care,3, $151.54 USD ,20%,Credit Card
+ORD-10221,CUST_1591,39.0,male,$ 58677.24,Illinois,Invalid Date,electronics,1,340.38,10%,Debit Card
+ORD-10908,CUST_1133,41.0,Male,"$96,403.38",TX,"Jun 25, 2024",Beauty & Personal Care,1,$369.44,0%,Credit Card
+ORD-10531,CUST_1346,31.0,Male,unknown,Florida,23.09.2023,Books,1,257.65,5%,CC
+ORD-11256,CUST_1580,24.0,Other,"$9,999,999.00",texas,"Jun 10, 2024",Beauty & Personal Care,1,$26.82,15%,Cash
+ORD-11935,CUST_1153,54.0,Male,"48,460.25",Washington,"May 26, 2024",sports & outdoors,3, $338.02 USD ,10%,PayPal
+ORD-11201,CUST_1052,38.0,male,$ - ,california,02.09.2024,Books,2,TBD,15 %,credit card
+ORD-10415,CUST_1337,37.0,male,21763.93,NY,2024-01-16,electronics,1,394.91,20%,Cash
+ORD-11085,CUST_1394,39.0,nan,60273.79,TX,2023-08-16,CLOTHING,2,$92.75,20%,Cash
+ORD-10832,CUST_1030,51.0,Female,$ 59410.16,texas,"Dec 24, 2023",sports & outdoors,1,nan,10%,UPI / Wallet
+ORD-11960,CUST_1100,36.0,Other,71194.82,california,nan, Electronics ,1,TBD,0%,credit card
+ORD-10772,CUST_1408,43.0,M,$ 55654.31,IL,07/21/2023,sports & outdoors,1,$128.66,0%,PAYPAL
+ORD-10300,CUST_1467,23.0,FEMALE,"$56,372.27",Texas,Invalid Date,CLOTHING,1,$411.64,20%,Cash
+ORD-10965,CUST_1142,62.0,Other,"39,715.66",Texas,2024-05-13,electronics,1,449.25,20%,cash
+ORD-11603,CUST_1509,38.0,Other,92050.06,california,Invalid Date,Books,1,169.32,10%,cash
+ORD-10481,CUST_1171,25.0,Female,"$80,062.67",california,"Sep 19, 2024",Home & Kitchen,1, $149.69 USD ,5%,Credit Card
+ORD-10459,CUST_1380,,Female,"64,823.49",texas,2023-01-28, Electronics ,1,154.25,nan,PayPal
+ORD-10472,CUST_1431,42.0,Female,nan,Washington,11/02/2024,clothing,2,$166.84,0%,nan
+ORD-11893,CUST_1234,31.0,MALE,$ 64104.87,New York,2023-02-07,Home & Kitchen,3,$58.86,15%,PAYPAL
+ORD-10818,CUST_1216,29.0,Female,"$100,697.12",Texas,2024-06-09,Home & Kitchen,1,TBD,15%,Cash
+ORD-10057,CUST_1318,17.0,Male,N/A, CA ,2023-01-18,sports & outdoors,1,247.49,10%,Debit Card
+ORD-10417,CUST_1392,19.0,female,"$64,284.40",california,15.05.2024,sports & outdoors,2, $64.91 USD ,10%,Debit Card
+ORD-11453,CUST_1584,45.0,Female,$ 69117.08,Illinois,2023-99-99,Beauty & Personal Care,1,nan,15%,cash
+ORD-11420,CUST_1433,22.0,Female,"83,875.48",IL,2023-99-99,sports & outdoors,1,TBD,15%,Credit Card
+ORD-11203,CUST_1256,31.0,unknown,71117.77,IL,27.08.2023,Home & Kitchen,1,0.00,5%,paypal
+ORD-10333,CUST_1057,23.0,Female,$ 48332.41,texas,08/10/2024,CLOTHING,1,FREE,0%,cash
+ORD-11841,CUST_1554,51.0,Other,90348.95,WA,16.03.2024,Beauty & Personal Care,2,TBD,5%,CC
+ORD-10756,CUST_1257,17.0,Male,$ 22153.64,Florida,2023-02-09,Home & Kitchen,1,nan,0%,PayPal
+ORD-11365,CUST_1083,39.0,male,$ 45939.81,texas,"Aug 03, 2024", Electronics ,1, $223.93 USD ,15%,Debit Card
+ORD-11582,CUST_1070,,Female,$ 99699.63,Florida,2024-09-18,Beauty & Personal Care,1,FREE,15%,PayPal
+ORD-10255,CUST_1150,34.0,male,$ 66762.43,Texas,2023-09-27,clothing,4, $93.81 USD ,20%,Debit Card
+ORD-10515,CUST_1208,32.0,female,"46,412.92",Washington,nan,Books,1,$197.85,10%,debit_card
+ORD-11621,CUST_1468,17.0,Female,34373.46,california,06.11.2023,Home & Kitchen,1, $268.98 USD ,10%,debit_card
+ORD-11054,CUST_1581,54.0,nan,$ 77340.94,IL,07/20/2023,clothing,2,nan,nan,UPI / Wallet
+ORD-10830,CUST_1379,19.0,male,$ 77337.57,TX,06/21/2023,sports & outdoors,-3,$276.20,20%,CC
+ORD-11174,CUST_1291,44.0,Male,"$9,999,999.00",TX,02.08.2023,sports & outdoors,2, $333.39 USD ,5%,nan
+ORD-11008,CUST_1354,37.0,Male,N/A,IL,"Jan 21, 2024",sports & outdoors,2,0.00,0%,credit card
+ORD-10553,CUST_1271,52.0,Female,null,NY,nan,Home & Kitchen,4,0.00,20%,cash
+ORD-11504,CUST_1011,36.0,male,"90,273.67", CA ,06/09/2023,Beauty & Personal Care,1,96.7,5%,paypal
+ORD-11631,CUST_1599,59.0,female,58677.61,WA,12/09/2023,Books,1, $322.52 USD ,20%,PayPal
+ORD-10437,CUST_1394,31.0,Female,N/A,TX,nan,clothing,1, $52.61 USD ,10%,Cash
+ORD-11917,CUST_1440,999.0,Female,"15,000.00",IL,nan,CLOTHING,3, $134.30 USD ,5%,cash
+ORD-10434,CUST_1385,48.0,female,"102,769.62",WA,2023-04-01,sports & outdoors,3,419.52,15%,PAYPAL
+ORD-11993,CUST_1260,,Female,"38,268.59",TX,26.03.2023,clothing,1,TBD,5%,credit card
+ORD-11743,CUST_1183,47.0,Female,51058.9,california,2024-11-23, Electronics ,3,FREE,15%,Credit Card
+ORD-11332,CUST_1370,36.0,nan,"15,000.00",TX,2024-01-04,Home & Kitchen,2, $185.93 USD ,20%,CC
+ORD-11059,CUST_1524,51.0,M,"$57,596.80",New York,"Aug 18, 2024",clothing,1, $181.27 USD ,20%,Cash
+ORD-11125,CUST_1469,28.0,Male,"59,283.91",Illinois,09/29/2024,CLOTHING,1,231.79,10%,Cash
+ORD-11652,CUST_1546,20.0,F,$ 58977.25,Washington,"Apr 29, 2023",Beauty & Personal Care,3, $362.56 USD ,0%,nan
+ORD-10355,CUST_1324,30.0,Female,"$49,159.23",Florida,06/29/2023,Beauty & Personal Care,3, $208.22 USD ,10%,nan
+ORD-10070,CUST_1039,,Male,"$9,999,999.00", CA ,nan,electronics,5,349.2,15%,debit_card
+ORD-10382,CUST_1050,46.0,MALE,$ 103791.20,Texas,2023-99-99,sports & outdoors,1,0.00,10%,paypal
+ORD-10197,CUST_1283,36.0,F,"81,870.89",WA,2023-02-28,sports & outdoors,1, $309.73 USD ,15 %,Credit Card
+ORD-10480,CUST_1023,75.0,Female,"68,316.47",California,2023-07-02, Electronics ,1,169.77,20%,Debit Card
+ORD-10212,CUST_1239,25.0,male,71129.21,FL,nan,clothing,1,235.9,0%,UPI / Wallet
+ORD-11359,CUST_1277,42.0,M,$ 73750.44,FL,Invalid Date,Home & Kitchen,1,21.44,5%,PAYPAL
+ORD-11558,CUST_1091,16.0,Male,75981.43,california,2023-09-23,Books,4,144.68,15%,debit_card
+ORD-10953,CUST_1576,27.0,Female,$ 49951.33,New York,2023-99-99, Electronics ,1,$309.76,15 %,PayPal
+ORD-10375,CUST_1062,39.0,FEMALE,"51,478.65",Florida,Invalid Date,sports & outdoors,1,$51.52,20%,Cash
+ORD-10705,CUST_1033,22.0,unknown,$ 64611.50,WA,06/18/2023,Books,1,145.49,20%,debit_card
+ORD-10454,CUST_1583,44.0,M,"$37,511.13",NY,2023-05-02,Books,2,nan,10%,CC
+ORD-11692,CUST_1374,53.0,nan,71156.52, CA ,07.05.2023,CLOTHING,1,413.19,20%,UPI / Wallet
+ORD-10671,CUST_1462,16.0,female,$ 66291.21,california,28.09.2023,CLOTHING,2,FREE,5%,Credit Card
+ORD-11384,CUST_1172,32.0,male,46756.92,nan,2024-01-25,Beauty & Personal Care,1,75.74,20%,paypal
+ORD-10768,CUST_1450,33.0,Other,66095.1, CA ,24.08.2024,electronics,1,286.62,10%,Credit Card
+ORD-11055,CUST_1265,63.0,M,"36,910.79", CA ,"Jan 16, 2024",Books,1,175.33,15%,CC
+ORD-10556,CUST_1193,46.0,Female,$ 104613.75,FL,01/30/2023,electronics,1,314.05,5%,Debit Card
+ORD-11973,CUST_1202,44.0,Female,50449.25,Illinois,06/19/2024,CLOTHING,1,0.00,5%,paypal
+ORD-11642,CUST_1022,16.0,unknown,"77,099.98",WA,02/11/2023, Electronics ,1, $150.95 USD ,0%,cash
+ORD-10582,CUST_1576,27.0,MALE,"$34,649.96",FL,2023-99-99,electronics,1,330.34,0%,Credit Card
+ORD-10112,CUST_1253,37.0,Female,"$84,626.39",WA,"Mar 11, 2024",CLOTHING,1,nan,nan,Debit Card
+ORD-11375,CUST_1243,35.0,Female,$ - ,New York,09/25/2024,CLOTHING,2,$19.29,20%,CC
+ORD-11273,CUST_1040,34.0,Male,$ - ,Florida,2023-10-08,Beauty & Personal Care,2,$130.77,10%,PayPal
+ORD-11042,CUST_1574,43.0,Male,"$88,072.80",texas,Invalid Date,sports & outdoors,2,0.00,10%,Debit Card
+ORD-10572,CUST_1027,,female,"86,554.82",California,nan,electronics,1,$264.47,20%,Cash
+ORD-10583,CUST_1532,38.0,Male,$ 63183.05,california,2023-99-99,CLOTHING,2, $275.41 USD ,10%,CC
+ORD-11360,CUST_1517,69.0,F,N/A,texas,Invalid Date,Books,1, $248.99 USD ,5%,nan
+ORD-11103,CUST_1352,39.0,Female,unknown,NY,nan,sports & outdoors,1, $368.42 USD ,0%,PayPal
+ORD-10430,CUST_1128,29.0,Female,$ 28852.99,California,"Feb 19, 2024",electronics,1,$405.89,0%,credit card
+ORD-10938,CUST_1136,46.0,female,69326.31,TX,11/22/2024,Beauty & Personal Care,1,220.05,20%,PayPal
+ORD-10211,CUST_1382,52.0,M,$ 115122.63,WA,07/14/2023,electronics,1, $232.55 USD ,0%,credit card
+ORD-10577,CUST_1553,16.0,M,"100,823.84",Washington,"Aug 23, 2024",Home & Kitchen,1,$328.85,0%,paypal
+ORD-10125,CUST_1491,50.0,female,"102,068.62",New York,2023-01-13,Beauty & Personal Care,3,nan,nan,credit card
+ORD-10875,CUST_1324,65.0,Other,$ 80201.26,texas,07/09/2024,Beauty & Personal Care,2,$332.79,10%,credit card
+ORD-10479,CUST_1203,30.0,F,$ - , CA ,18.11.2024,Home & Kitchen,1,$404.34,0%,credit card
+ORD-11780,CUST_1024,16.0,F,"$55,701.86",California,2023-03-05,Books,1,TBD,5%,Debit Card
+ORD-10536,CUST_1499,33.0,Male,64007.91,FL,06/15/2024,Beauty & Personal Care,1,FREE,5%,credit card
+ORD-10066,CUST_1172,41.0,Male,"$88,657.35",Texas,01/17/2023, Electronics ,1,0.00,20%,Credit Card
+ORD-10862,CUST_1294,43.0,Female,91575.64,california,"Aug 09, 2023",sports & outdoors,1,nan,5%,PAYPAL
+ORD-11613,CUST_1500,31.0,Male,$ 92216.92,Florida,05/02/2023,Home & Kitchen,1,nan,0%,debit_card
+ORD-10307,CUST_1165,28.0,M,$ 76491.65,IL,"Jun 06, 2023",sports & outdoors,2,115.85,15%,credit card
+ORD-10343,CUST_1231,63.0,?,nan,WA,2024-08-26,Books,2,49.46,0%,Debit Card
+ORD-10290,CUST_1540,46.0,F,unknown,Illinois,09/02/2024,Books,1, $190.19 USD ,15%,CC
+ORD-10638,CUST_1071,61.0,female,"$69,806.28",Washington,Invalid Date,sports & outdoors,1,$258.42,0%,debit_card
+ORD-11121,CUST_1311,69.0,male,"87,198.99",california,Invalid Date,sports & outdoors,1,121.96,nan,debit_card
+ORD-10565,CUST_1121,46.0,M,37552.14,california,31.03.2024,electronics,1, $209.88 USD ,25%,nan
+ORD-11786,CUST_1030,29.0,Other,"58,133.98",WA,Invalid Date,electronics,2,146.28,5%,CC
+ORD-11518,CUST_1323,45.0,Female,"45,501.54",FL,2024-04-24,CLOTHING,1,nan,20%,nan
+ORD-11342,CUST_1223,58.0,Male,"$86,408.26",NY,18.01.2023,Books,3,381.54,15%,cash
+ORD-10687,CUST_1037,21.0,Female,$ 53877.98,Washington,31.03.2023,Books,1,$325.74,5%,PAYPAL
+ORD-11538,CUST_1351,35.0,male,84279.59,Washington,2023-03-21,clothing,1, $149.97 USD ,15%,cash
+ORD-10937,CUST_1488,16.0,Female,"88,830.67",Texas,10/31/2023,electronics,-1,242.99,0%,paypal
+ORD-11192,CUST_1269,,Male,$ 59500.38,Illinois,Invalid Date,Books,4,$158.16,15%,Debit Card
+ORD-11970,CUST_1222,31.0,n/a,58947.68,WA,nan,Beauty & Personal Care,2,$22.19,5%,credit card
+ORD-11725,CUST_1397,16.0,Female,77499.03,New York,25.10.2024, Electronics ,1,0.00,nan,credit card
+ORD-11930,CUST_1053,48.0,M,"91,299.80",california,24.09.2024,Books,2,TBD,0%,Credit Card
+ORD-11487,CUST_1240,48.0,Female,"$68,336.15",nan,"Feb 22, 2024", Electronics ,2, $436.16 USD ,0%,UPI / Wallet
+ORD-11165,CUST_1316,33.0,male,"53,956.56",Washington,06.05.2023,electronics,2,$253.00,10%,debit_card
+ORD-11357,CUST_1546,61.0,Female,"$92,774.86",Florida,04/29/2024, Electronics ,2, $387.47 USD ,15%,Debit Card
+ORD-11236,CUST_1270,47.0,M,68746.53,Florida,"Apr 11, 2024",electronics,1,424.57,10%,debit_card
+ORD-11785,CUST_1492,30.0,Female,"42,831.15",FL,07.04.2024, Electronics ,4,FREE,10%,CC
+ORD-10433,CUST_1321,32.0,Female,unknown,california,"Oct 12, 2023",CLOTHING,2, $109.73 USD ,5%,cash
+ORD-10484,CUST_1142,52.0,female,$ 69002.75,texas,2024-02-21,Home & Kitchen,1,FREE,15%,cash
+ORD-11272,CUST_1338,37.0,Male,"62,513.40",california,09.05.2023,electronics,2,FREE,15%,UPI / Wallet
+ORD-10234,CUST_1488,64.0,MALE,"104,023.01",WA,2024-07-04,Home & Kitchen,1,nan,15%,CC
+ORD-11593,CUST_1447,37.0,Female,"$47,429.39",Florida,2023-99-99,clothing,2, $132.73 USD ,0%,Debit Card
+ORD-11981,CUST_1041,36.0,M,"$40,333.43",FL,2024-10-15,Beauty & Personal Care,1, $96.09 USD ,0%,debit_card
+ORD-10880,CUST_1078,27.0,M,$ 46720.51, CA ,2023-07-12,Beauty & Personal Care,2, $120.90 USD ,25%,PayPal
+ORD-10775,CUST_1476,22.0,Male,"59,231.24",Texas,"Apr 15, 2024",Home & Kitchen,1, $29.83 USD ,5%,PayPal
+ORD-11562,CUST_1501,39.0,Male,"60,587.20",IL,2023-05-01, Electronics ,4,TBD,0%,paypal
+ORD-11406,CUST_1363,29.0,Female,72419.32,TX,01.01.2023,Beauty & Personal Care,1,$170.18,20%,nan
+ORD-10368,CUST_1209,46.0,female,"49,796.08",california,2023-99-99,Home & Kitchen,1,TBD,10%,Credit Card
+ORD-10136,CUST_1294,28.0,female,$ 63586.84,Washington,04.10.2023,clothing,2,TBD,15%,nan
+ORD-11964,CUST_1499,53.0,male,"$80,076.89",Washington,2023-10-23,CLOTHING,1,FREE,0%,cash
+ORD-10100,CUST_1300,52.0,female,$ 15000.00,WA,"Jan 21, 2023",Books,1,0.00,15%,debit_card
+ORD-11058,CUST_1458,39.0,Male,"59,654.04",Washington,16.12.2023,sports & outdoors,2,$166.96,15%,Credit Card
+ORD-11707,CUST_1528,16.0,Male,$ 75675.72,California,26.05.2024,Home & Kitchen,3,$240.53,15%,cash
+ORD-11822,CUST_1296,45.0,Male,null,Florida,nan,CLOTHING,1,$144.22,20%,paypal
+ORD-10991,CUST_1343,55.0,Male,$ 67272.35,nan,15.12.2023,Books,1, $133.61 USD ,20%,PAYPAL
+ORD-11680,CUST_1534,38.0,male,$ 75353.24,Texas,Invalid Date,sports & outdoors,1, $175.15 USD ,5%,PAYPAL
+ORD-11729,CUST_1035,37.0,female,"$105,783.74",Washington,2023-99-99,Home & Kitchen,1,nan,10%,debit_card
+ORD-10185,CUST_1173,27.0,FEMALE,"27,407.61",Washington,Invalid Date, Electronics ,1, $29.19 USD ,10%,cash
+ORD-11511,CUST_1363,37.0,M,"$39,736.43",Florida,08/29/2023,CLOTHING,0,TBD,15%,PayPal
+ORD-11019,CUST_1009,55.0,male,60915.86, CA ,"Sep 08, 2024",Beauty & Personal Care,1,0.00,5%,PAYPAL
+ORD-10014,CUST_1587,47.0,Female,"$91,464.50", CA ,2023-04-09,Home & Kitchen,1, $226.24 USD ,0%,Debit Card
+ORD-10594,CUST_1307,41.0,Male,nan,FL,2024-02-19,sports & outdoors,2,0.00,0%,Credit Card
+ORD-10040,CUST_1403,20.0,Male,"$33,761.52",TX,21.08.2023,clothing,1, $158.59 USD ,nan,Cash
+ORD-11636,CUST_1568,28.0,Female,"$76,759.10",FL,23.12.2023, Electronics ,2, $122.04 USD ,10%,UPI / Wallet
+ORD-10486,CUST_1309,32.0,Female,76668.11,WA,2023-99-99,clothing,2,FREE,15%,debit_card
+ORD-10427,CUST_1384,50.0,MALE,$ 101631.99,FL,06.04.2024,Beauty & Personal Care,3,209.16,15%,UPI / Wallet
+ORD-11799,CUST_1151,36.0,Female,57502.23,New York,nan,sports & outdoors,2,390.08,10%,credit card
+ORD-11916,CUST_1419,21.0,male,"$79,770.54",TX,nan,Home & Kitchen,2,181.92,15%,PAYPAL
+ORD-11738,CUST_1324,46.0,Male,$ 32736.70, CA ,2024-10-21,Beauty & Personal Care,1,146.33,5%,UPI / Wallet
+ORD-11320,CUST_1075,46.0,male,24979.01,nan,2023-99-99,Beauty & Personal Care,1,239.0,5%,nan
+ORD-11177,CUST_1050,29.0,Male,null,FL,2023-04-17,CLOTHING,3,0.00,5%,paypal
+ORD-11626,CUST_1440,26.0,unknown,"$68,836.07",New York,"Jul 23, 2024", Electronics ,1,310.91,0%,PAYPAL
+ORD-10544,CUST_1308,25.0,female,"52,994.85",WA,15.10.2024,electronics,1,0.00,20%,Credit Card
+ORD-10906,CUST_1543,29.0,Male,null,Florida,03.02.2024,Home & Kitchen,1,$413.33,15%,PayPal
+ORD-11111,CUST_1310,,Other,"$25,789.68",nan,05/16/2024, Electronics ,1,45.17,20%,cash
+ORD-11842,CUST_1275,16.0,male,"45,997.33", CA ,2023-01-13,Beauty & Personal Care,999, $437.79 USD ,0%,PAYPAL
+ORD-11260,CUST_1197,49.0,Female,"$51,351.06",nan,2023-99-99,Books,1,0.00,5%,nan
+ORD-10773,CUST_1205,56.0,Male,54105.32,Illinois,Invalid Date,clothing,1,74.69,20%,PAYPAL
+ORD-10252,CUST_1190,16.0,Male,"52,013.99",california,2023-06-20,Books,3, $421.42 USD ,20%,Cash
+ORD-10652,CUST_1429,18.0,?,"88,468.93",NY,"Nov 04, 2024",Books,5,270.97,0%,credit card
+ORD-11356,CUST_1132,26.0,Male,"$107,782.88",Washington,nan, Electronics ,1,349.66,15 %,PAYPAL
+ORD-11819,CUST_1106,40.0,Female,75879.69,New York,04/28/2023,Home & Kitchen,1,nan,10%,CC
+ORD-10611,CUST_1112,43.0,Male,$ 53802.68,Illinois,2024-07-09,electronics,1,TBD,10%,PAYPAL
+ORD-10742,CUST_1077,37.0,Male,"$9,999,999.00",NY,2023-03-30,Beauty & Personal Care,1, $73.03 USD ,10%,cash
+ORD-10260,CUST_1195,25.0,Female,"$49,374.46",TX,27.01.2023,Home & Kitchen,1,$172.07,5%,debit_card
+ORD-11550,CUST_1195,22.0,Male,"62,477.53",California,18.12.2023,electronics,3,$221.32,10%,Cash
+ORD-11709,CUST_1353,25.0,Female,"92,302.02",WA,"Jun 29, 2023",Home & Kitchen,5,$292.57,20%,debit_card
+ORD-11209,CUST_1361,35.0,unknown,"52,541.94",California,2023-99-99,clothing,2,0.00,10%,UPI / Wallet
+ORD-11086,CUST_1163,25.0,Female,62740.51, CA ,Invalid Date,clothing,1,$149.95,10%,Credit Card
+ORD-10362,CUST_1126,29.0,MALE,unknown,Florida,Invalid Date,clothing,1, $420.19 USD ,0%,CC
+ORD-11988,CUST_1246,26.0,unknown,nan,Florida,01/16/2024,Books,1,323.14,10%,PayPal
+ORD-11933,CUST_1597,25.0,MALE,"52,232.93",texas,nan,electronics,1, $351.58 USD ,0%,PayPal
+ORD-11238,CUST_1427,43.0,Male,"36,476.36",texas,2023-10-14,sports & outdoors,1,0.00,15%,CC
+ORD-10495,CUST_1566,21.0,female,50671.12,IL,2024-09-03, Electronics ,2, $23.72 USD ,25%,PAYPAL
+ORD-11338,CUST_1268,44.0,male,"$17,070.86",WA,02.11.2023,Beauty & Personal Care,4,TBD,0%,Debit Card
+ORD-11002,CUST_1574,32.0,Male,nan,Texas,2024-05-09,sports & outdoors,4,303.32,15%,Credit Card
+ORD-10841,CUST_1194,,MALE,unknown,NY,"Jan 14, 2023",sports & outdoors,1,$181.83,5%,Debit Card
+ORD-11419,CUST_1360,51.0,Female,"$38,041.56",NY,02/18/2023,clothing,1, $289.24 USD ,15%,PayPal
+ORD-11308,CUST_1465,29.0,Female,$ 44467.22,texas,"Nov 26, 2023",clothing,0,nan,15%,Cash
+ORD-10905,CUST_1458,17.0,Female,"67,389.38",texas,2023-05-26,CLOTHING,2, $159.50 USD ,5%,CC
+ORD-11568,CUST_1556,69.0,Female,"$59,225.64",Texas,09/12/2024,sports & outdoors,1, $190.25 USD ,5%,Debit Card
+ORD-10122,CUST_1414,37.0,Female,$ 35901.03,TX,11.05.2024, Electronics ,2,$111.16,15%,UPI / Wallet
+ORD-10291,CUST_1558,,Female,"$40,029.08",FL,"Mar 06, 2023",electronics,2,271.22,0%,debit_card
+ORD-11852,CUST_1582,27.0,male,"98,242.69",texas,"Feb 19, 2023",sports & outdoors,3,FREE,0%,nan
+ORD-10496,CUST_1465,42.0,Male,$ 51203.03,IL,nan, Electronics ,2,28.68,20%,PAYPAL
+ORD-10606,CUST_1565,33.0,F,$ 72544.13,WA,Invalid Date,clothing,3,TBD,5%,PAYPAL
+ORD-10966,CUST_1492,57.0,Male,"87,548.70",texas,Invalid Date,CLOTHING,2,TBD,10%,nan
+ORD-11221,CUST_1540,45.0,female,62503.65,WA,nan, Electronics ,0, $427.63 USD ,5%,PayPal
+ORD-11612,CUST_1409,47.0,M,91465.15,Illinois,nan,clothing,1,$441.06,25%,paypal
+ORD-10505,CUST_1481,,Male,"$61,497.50", CA ,24.06.2023,Home & Kitchen,2,0.00,nan,paypal
+ORD-10116,CUST_1246,62.0,Male,"$84,056.41",IL,08/01/2023,clothing,1,TBD,0%,nan
+ORD-10388,CUST_1031,50.0,Male,$ - ,California,06/16/2024,Home & Kitchen,3,325.46,0%,Cash
+ORD-10597,CUST_1490,16.0,FEMALE,"70,667.42",IL,11.01.2023,CLOTHING,1,0.00,5%,PAYPAL
+ORD-11610,CUST_1428,63.0,Female,68408.47,WA,01/14/2024,Books,4,0.00,15%,cash
+ORD-11966,CUST_1068,40.0,unknown,$ 41158.85,FL,"Sep 11, 2024", Electronics ,2,$372.69,20%,cash
+ORD-10369,CUST_1207,49.0,female,$ 105257.05,Texas,2023-99-99,CLOTHING,1, $169.23 USD ,10%,nan
+ORD-11264,CUST_1119,42.0,Female,$ - ,Texas,2023-99-99,Home & Kitchen,2,0.00,0%,credit card
+ORD-11458,CUST_1174,,Male,63858.96,WA,19.03.2024,CLOTHING,2, $317.25 USD ,20%,nan
+ORD-10605,CUST_1443,34.0,female,N/A,Illinois,19.04.2024,electronics,2,0.00,0%,cash
+ORD-11547,CUST_1456,26.0,Male,$ 37036.06,nan,04.02.2023,electronics,2, $255.28 USD ,20%,nan
+ORD-10545,CUST_1011,,male,"33,789.59",Washington,"Oct 01, 2024",Beauty & Personal Care,1,104.97,5%,nan
+ORD-10520,CUST_1490,44.0,F,47450.03,Washington,"Jun 05, 2024",Beauty & Personal Care,1,$424.84,15%,Credit Card
+ORD-11776,CUST_1056,44.0,Male,90011.08,California,"Jul 30, 2024",electronics,2,nan,0%,credit card
+ORD-11589,CUST_1275,40.0,female,N/A,New York,Invalid Date,electronics,2,248.18,20%,CC
+ORD-10620,CUST_1272,26.0,male,76766.63,NY,"Aug 19, 2024", Electronics ,-1,$425.55,10%,PayPal
+ORD-10655,CUST_1027,53.0,Male,98043.86,NY,07/03/2023,sports & outdoors,-1, $311.60 USD ,0%,paypal
+ORD-10446,CUST_1550,37.0,Female,"$94,497.21",nan,01.10.2023,Books,1,FREE,5%,Cash
+ORD-11321,CUST_1456,16.0,Female,85324.49,Washington,06.01.2024,Books,1, $137.81 USD ,0%,Credit Card
+ORD-11079,CUST_1544,47.0,unknown,"74,073.18",California,20.06.2023,Books,1, $121.04 USD ,10%,Credit Card
+ORD-11341,CUST_1572,16.0,Female,"46,686.77",Texas,08/11/2024,sports & outdoors,-1,TBD,0%,PayPal
+ORD-11939,CUST_1254,35.0,Female,89687.37,nan,Invalid Date,Beauty & Personal Care,1,218.2,20%,Credit Card
+ORD-11645,CUST_1582,32.0,male,$ 65996.27,texas,19.10.2023,Beauty & Personal Care,1,$256.51,10%,credit card
+ORD-10926,CUST_1446,38.0,Female,60260.0,TX,2023-99-99,Books,1, $72.54 USD ,0%,CC
+ORD-11436,CUST_1293,16.0,female,$ - ,Washington,"Jan 25, 2023",Home & Kitchen,1,0.00,10%,paypal
+ORD-11314,CUST_1262,41.0,Female,"$58,983.42",California,14.01.2024, Electronics ,1, $205.97 USD ,5%,UPI / Wallet
+ORD-10810,CUST_1317,49.0,Female,$ 66103.06,New York,Invalid Date,sports & outdoors,1,$299.17,20%,Debit Card
+ORD-10856,CUST_1138,,MALE,"$87,872.85",Illinois,2023-99-99,clothing,1,183.82,10%,cash
+ORD-10276,CUST_1523,34.0,Female,"$83,500.33",Washington,2024-06-21,sports & outdoors,1, $87.23 USD ,0%,CC
+ORD-10943,CUST_1484,26.0,female,69331.24,NY,10.01.2024,CLOTHING,3,422.15,10%,Credit Card
+ORD-10858,CUST_1046,16.0,M,"39,831.52",Texas,"Aug 15, 2024",Books,1, $162.31 USD ,15%,nan
+ORD-11653,CUST_1025,57.0,nan,"$91,540.22",California,12/09/2023,electronics,1,$277.15,5%,nan
+ORD-11597,CUST_1440,41.0,female,"$68,812.75",nan,2024-06-11,electronics,-3,$19.40,10%,Debit Card
+ORD-11549,CUST_1534,16.0,Male,"63,378.30",texas,07/15/2024,electronics,3,415.43,15%,credit card
+ORD-10944,CUST_1441,50.0,F,46557.76,WA,10/31/2024,sports & outdoors,3,nan,0%,nan
+ORD-10584,CUST_1476,48.0,male,91317.03,TX,Invalid Date,clothing,1,258.75,20%,credit card
+ORD-10933,CUST_1423,,F,80074.47,New York,"Nov 18, 2024",Books,1, $364.64 USD ,5%,PayPal
+ORD-11194,CUST_1347,16.0,n/a,"$98,203.76",WA,"Feb 16, 2024",sports & outdoors,1,TBD,20%,credit card
+ORD-10064,CUST_1371,16.0,male,$ 45837.46,california,08/15/2023,Books,4,333.67,15%,CC
+ORD-10298,CUST_1073,35.0,male,78432.81,Texas,Invalid Date,Books,4,186.2,0%,cash
+ORD-11037,CUST_1312,,Female,$ 47770.97, CA ,"Aug 23, 2023",electronics,1, $106.43 USD ,15%,nan
+ORD-11160,CUST_1057,32.0,male,56760.36,nan,02.01.2024,Beauty & Personal Care,1, $218.86 USD ,5%,nan
+ORD-11211,CUST_1479,38.0,female,85327.06,nan,03/28/2024,sports & outdoors,1,$40.49,15%,Debit Card
+ORD-11426,CUST_1343,41.0,FEMALE,49248.93,Texas,04/03/2024,Home & Kitchen,1, $209.16 USD ,5%,Debit Card
+ORD-11753,CUST_1255,36.0,Male,$ 95094.36,texas,2023-99-99,clothing,1, $297.80 USD ,10%,cash
+ORD-10317,CUST_1187,33.0,Male,$ 57129.39,texas,03/19/2024, Electronics ,2,171.77,20%,PAYPAL
+ORD-10585,CUST_1081,16.0,Female,59943.92,IL,2023-06-21,CLOTHING,1,$203.07,5%,paypal
+ORD-10451,CUST_1246,48.0,unknown,47924.91,Illinois,2024-08-28,Home & Kitchen,1,$101.53,0%,PayPal
+ORD-10695,CUST_1564,31.0,female,"54,801.76",Florida,Invalid Date,sports & outdoors,3,211.22,5%,cash
+ORD-11433,CUST_1326,46.0,male,nan,California,25.04.2024,Home & Kitchen,1,$382.71,20%,cash
+ORD-10308,CUST_1059,47.0,Female,"$95,068.22",Florida,Invalid Date,Books,3,$351.33,0%,credit card
+ORD-10383,CUST_1104,25.0,female,$ 115570.84,IL,02/21/2023, Electronics ,2,$197.23,5%,PAYPAL
+ORD-10024,CUST_1325,36.0,Female,"93,138.46",Illinois,"Nov 20, 2024",Beauty & Personal Care,3,0.00,5%,UPI / Wallet
+ORD-10945,CUST_1328,49.0,Female,$ 24119.78,texas,11/13/2023, Electronics ,3,34.65,15%,paypal
+ORD-10199,CUST_1325,19.0,Female,"$70,743.94",Texas,"Jul 23, 2023",CLOTHING,1,TBD,5%,UPI / Wallet
+ORD-10050,CUST_1104,32.0,Male,"29,513.93",Texas,nan,Beauty & Personal Care,2,449.0,20%,UPI / Wallet
+ORD-10174,CUST_1263,44.0,female,68319.17,Illinois,2024-03-13,Beauty & Personal Care,1,305.09,5%,debit_card
+ORD-10299,CUST_1106,40.0,male,"$49,473.32",Washington,2024-04-11,Beauty & Personal Care,1,$347.86,15%,paypal
+ORD-10423,CUST_1593,33.0,male,"$69,559.78",Texas,"May 24, 2024",electronics,1, $417.50 USD ,20%,UPI / Wallet
+ORD-10786,CUST_1194,35.0,M,$ 100194.62,Texas,27.09.2023,sports & outdoors,2,389.47,5%,PayPal
+ORD-11182,CUST_1424,38.0,Female,null,California,"Jul 18, 2023",electronics,2, $96.57 USD ,5%,Cash
+ORD-11245,CUST_1480,56.0,Male,"$60,771.06", CA ,"Jan 03, 2024",CLOTHING,1,FREE,20%,debit_card
+ORD-10969,CUST_1046,47.0,n/a,38804.66, CA ,2023-99-99,CLOTHING,1,$126.63,20%,Credit Card
+ORD-10072,CUST_1440,60.0,Female,"$61,419.46",TX,Invalid Date,Home & Kitchen,1,182.08,10%,PAYPAL
+ORD-10367,CUST_1129,16.0,male,69214.89, CA ,2023-99-99,clothing,3,39.45,15%,Credit Card
+ORD-11759,CUST_1099,34.0,FEMALE,$ 78248.61,california,"May 11, 2023",sports & outdoors,1,319.04,5%,paypal
+ORD-11976,CUST_1200,35.0,FEMALE,"51,142.52",IL,01/26/2023, Electronics ,2,nan,15%,PAYPAL
+ORD-11906,CUST_1066,28.0,MALE,73066.95,New York,12/19/2023,Beauty & Personal Care,3,$124.97,15 %,credit card
+ORD-10508,CUST_1525,56.0,Female,"61,523.82",Texas,nan,sports & outdoors,1, $378.90 USD ,5%,cash
+ORD-11445,CUST_1402,32.0,Female,N/A,texas,2024-10-24,Books,4,137.91,15%,UPI / Wallet
+ORD-11074,CUST_1169,19.0,Female,$ 58566.21,texas,"Jul 28, 2024",CLOTHING,2,276.77,5%,paypal
+ORD-10589,CUST_1582,65.0,male,"$55,048.87",IL,2023-12-31,sports & outdoors,2,425.33,10%,Credit Card
+ORD-10939,CUST_1165,30.0,M,$ 15000.00,WA,08.06.2024,sports & outdoors,2,206.56,nan,UPI / Wallet
+ORD-11862,CUST_1301,18.0,unknown,28660.07,TX,02.07.2023, Electronics ,1,TBD,0%,debit_card
+ORD-11319,CUST_1093,16.0,Male,"49,853.26",texas,2024-06-11,electronics,1,$300.69,15%,PayPal
+ORD-10257,CUST_1597,34.0,nan,"76,788.98",TX,05/01/2023,clothing,1,$264.67,10%,cash
+ORD-10813,CUST_1387,47.0,male,71994.62,texas,2024-10-15,CLOTHING,1, $67.96 USD ,10%,UPI / Wallet
+ORD-11657,CUST_1144,47.0,Male,"$87,992.85",New York,31.01.2023,clothing,5,$368.61,10%,PAYPAL
+ORD-11423,CUST_1153,80.0,unknown,"$35,889.74",New York,"May 20, 2024",sports & outdoors,1,178.1,15%,cash
+ORD-11147,CUST_1491,29.0,male,"55,975.92",NY,2023-99-99,sports & outdoors,1, $191.00 USD ,0%,UPI / Wallet
+ORD-10021,CUST_1106,33.0,female,"$45,979.50",FL,2023-99-99,Books,2,$40.31,5%,PayPal
+ORD-10421,CUST_1293,18.0,M,$ 78179.17,california,08/13/2023,electronics,999,TBD,20%,paypal
+ORD-11742,CUST_1065,33.0,Female,"103,124.68",Illinois,"Jun 27, 2023", Electronics ,1,99.85,0%,UPI / Wallet
+ORD-11677,CUST_1560,42.0,F,"63,961.15", CA ,"Jun 24, 2024",Books,1,nan,20%,nan
+ORD-11718,CUST_1590,,F,79285.65,New York,06.03.2024,Books,1,$177.01,5%,nan
+ORD-10573,CUST_1402,41.0,Female,nan,Washington,Invalid Date, Electronics ,1, $69.09 USD ,15%,Cash
+ORD-10907,CUST_1571,32.0,Female,"$67,863.48",New York,2024-11-08,clothing,2, $265.67 USD ,5%,PayPal
+ORD-10889,CUST_1217,41.0,unknown,"45,096.31",NY,07/22/2023,CLOTHING,1,300.72,5%,PayPal
+ORD-11316,CUST_1529,16.0,Other,95839.51,TX,"May 17, 2023",Beauty & Personal Care,2,$422.08,10%,paypal
+ORD-11028,CUST_1401,52.0,male,62756.54,texas,2023-08-07,Home & Kitchen,2, $272.81 USD ,20%,debit_card
+ORD-11717,CUST_1501,41.0,male,$ 41483.57,NY,2023-12-27,Books,1,393.98,5%,Cash
+ORD-11954,CUST_1197,38.0,Male,$ 25605.85,Florida,29.05.2023,electronics,1,FREE,0%,cash
+ORD-11805,CUST_1547,33.0,female,"64,032.04",TX,16.06.2023,Home & Kitchen,1,$64.60,5%,Debit Card
+ORD-10271,CUST_1072,27.0,male,99044.75,TX,"Jun 11, 2024",Beauty & Personal Care,3, $157.22 USD ,5%,Debit Card
+ORD-11940,CUST_1079,33.0,Female,"$104,864.55",TX,15.06.2024,Home & Kitchen,1,FREE,0%,Cash
+ORD-11489,CUST_1093,19.0,male,"$81,492.23",Florida,2023-11-15,CLOTHING,1,45.97,20%,CC
+ORD-10745,CUST_1363,52.0,male,65932.57,Washington,11/03/2024, Electronics ,2,$16.54,10%,Debit Card
+ORD-10412,CUST_1080,61.0,male,$ 47478.51,Texas,"Jan 31, 2024",Books,1,209.66,20%,paypal
+ORD-11361,CUST_1390,33.0,Male,"46,815.46",Florida,2023-11-13,electronics,2,TBD,15%,PayPal
+ORD-10026,CUST_1493,36.0,nan,"$52,858.88", CA ,"Apr 01, 2024", Electronics ,1,TBD,20%,nan
+ORD-11655,CUST_1221,185.0,Male,$ 69766.45,Illinois,2023-12-01,electronics,4,57.49,15%,paypal
+ORD-10079,CUST_1242,41.0,Male,59384.22,Texas,"Apr 18, 2024",clothing,5,0.00,20%,nan
+ORD-11303,CUST_1153,44.0,M,$ 64099.61,IL,08/16/2024,electronics,4, $308.51 USD ,20%,nan
+ORD-10033,CUST_1373,35.0,male,"32,478.61",WA,10.02.2023,electronics,1,136.7,15%,CC
+ORD-10760,CUST_1262,16.0,Female,$ 62766.64,TX,2023-99-99,Beauty & Personal Care,2, $142.29 USD ,0%,Credit Card
+ORD-10890,CUST_1428,46.0,Female,$ 60087.03,nan,2023-08-18,CLOTHING,2,157.73,0%,paypal
+ORD-10484,CUST_1142,52.0,female,$ 69002.75,texas,2024-02-21,Home & Kitchen,1,FREE,15%,cash
+ORD-11476,CUST_1119,31.0,Male,"$55,106.81",Washington,02/06/2024,Home & Kitchen,1,$83.23,0%,PayPal
+ORD-10164,CUST_1329,999.0,M,"$61,753.90",Washington,Invalid Date,Books,999,$419.23,5%,cash
+ORD-10204,CUST_1331,17.0,F,"37,846.07",FL,2023-99-99,CLOTHING,2,$335.99,5%,Credit Card
+ORD-11920,CUST_1376,23.0,male,66889.48,TX,12/01/2023,sports & outdoors,1,296.63,0%,cash
+ORD-10807,CUST_1147,46.0,M,$ 63336.86,FL,08/19/2023,electronics,999,FREE,10%,cash
+ORD-11748,CUST_1350,48.0,Female,$ 64284.32,nan,2024-06-24,CLOTHING,1,409.31,5%,Credit Card
+ORD-11491,CUST_1399,32.0,Male,75028.74,Illinois,nan,CLOTHING,2,FREE,20%,UPI / Wallet
+ORD-10306,CUST_1291,20.0,F,$ 54917.27,FL,10.05.2023,Home & Kitchen,2,150.53,15%,CC
+ORD-10863,CUST_1137,40.0,Female,"$88,187.35",california,08/16/2023,CLOTHING,1,FREE,20%,paypal
+ORD-11876,CUST_1203,32.0,F,67076.63,california,22.01.2024,CLOTHING,5,21.03,15%,PAYPAL
+ORD-10758,CUST_1113,65.0,male,"81,576.33",FL,2024-04-10,clothing,1,$248.55,0%,Credit Card
+ORD-10193,CUST_1088,34.0,Male,"$70,289.16",Illinois,08/15/2024,CLOTHING,1,TBD,0%,Credit Card
+ORD-11357,CUST_1546,61.0,Female,"$92,774.86",Florida,04/29/2024, Electronics ,2, $387.47 USD ,15%,Debit Card
+ORD-11318,CUST_1586,16.0,Female,$ 82471.37,New York,05.10.2023,electronics,1,TBD,15 %,CC
+ORD-11462,CUST_1509,,Male,$ 25785.43,Texas,nan,Home & Kitchen,1,$31.66,0%,PAYPAL
+ORD-10219,CUST_1300,67.0,Male,$ 99110.79,New York,2024-10-19,electronics,1, $291.99 USD ,0%,nan
+ORD-10603,CUST_1513,16.0,Female,$ 52931.15,california,22.06.2024,clothing,1, $445.30 USD ,0%,PayPal
+ORD-10934,CUST_1323,80.0,unknown,"$59,317.73",texas,"Mar 06, 2023",Books,1,193.76,5%,PayPal
+ORD-10352,CUST_1450,42.0,male,$ 66100.91,nan,"Sep 09, 2023",Books,1,229.06,5%,nan
+ORD-11883,CUST_1344,34.0,female,90472.26,texas,2023-11-15,Books,1, $47.01 USD ,10%,PayPal
+ORD-11663,CUST_1016,64.0,n/a,$ 54817.01,california,"Sep 30, 2023",Home & Kitchen,1,289.58,10%,Debit Card
+ORD-11556,CUST_1421,55.0,Female,unknown,Illinois,25.01.2023,sports & outdoors,3,0.00,0%,Credit Card
+ORD-11859,CUST_1571,40.0,Male,$ 46582.30, CA ,nan,Home & Kitchen,3, $98.65 USD ,15%,UPI / Wallet
+ORD-11107,CUST_1312,44.0,Female,$ 52064.59,New York,2023-99-99,sports & outdoors,1,FREE,0%,debit_card
+ORD-10060,CUST_1151,57.0,FEMALE,$ 87998.09,california,"Jan 21, 2024",Books,3,FREE,20%,nan
+ORD-11030,CUST_1050,48.0,Male,$ 81125.03,TX,Invalid Date,Books,2,284.52,15%,PAYPAL
+ORD-11911,CUST_1326,47.0,MALE,$ 81869.13,california,2023-99-99,Books,1,140.02,10%,CC
+ORD-11353,CUST_1340,31.0,Male,"$62,652.92",Texas,2023-99-99,clothing,3,0.00,10%,paypal
+ORD-10074,CUST_1089,26.0,F,"68,952.75",texas,2024-06-24,CLOTHING,3,nan,10%,credit card
+ORD-11691,CUST_1087,75.0,male,"$98,253.33",NY,"Nov 15, 2023",electronics,4,141.58,0%,CC
+ORD-10163,CUST_1587,29.0,Female,97986.51,nan,"Apr 09, 2024",Home & Kitchen,1, $374.97 USD ,20%,CC
+ORD-10650,CUST_1321,59.0,Female,$ 73090.10,NY,08.02.2023,CLOTHING,3,215.19,15%,PAYPAL
+ORD-11781,CUST_1534,22.0,Female,$ 49990.17,Washington,13.05.2024,CLOTHING,2,$328.18,10%,paypal
+ORD-11413,CUST_1359,38.0,Male,"71,610.83",TX,2023-99-99,Beauty & Personal Care,1,nan,15%,Credit Card
+ORD-11698,CUST_1217,48.0,Female,$ 58506.09,FL,nan,Beauty & Personal Care,3,$226.76,15%,PayPal
+ORD-10809,CUST_1258,27.0,?,55316.05,TX,"Sep 06, 2023",Home & Kitchen,5,FREE,15%,Credit Card
+ORD-11135,CUST_1205,39.0,male,$ 76241.97,california,2023-05-28,electronics,2,TBD,15%,Cash
+ORD-10963,CUST_1530,36.0,FEMALE,"$60,203.38",California,07/08/2024,clothing,1,FREE,5%,paypal
+ORD-11115,CUST_1593,32.0,M,53535.44,New York,Invalid Date, Electronics ,1,$273.63,5%,UPI / Wallet
+ORD-11183,CUST_1010,61.0,male,$ 67534.24,california,02.11.2023,Beauty & Personal Care,1,297.83,5%,PayPal
+ORD-10894,CUST_1334,44.0,M,75910.34,NY,2024-08-17,electronics,3, $68.19 USD ,15%,Cash
+ORD-10046,CUST_1392,31.0,nan,"76,869.60",WA,13.08.2023, Electronics ,2,$348.98,10%,Debit Card
+ORD-11688,CUST_1467,31.0,M,N/A, CA ,15.05.2023,clothing,1,0.00,20%,nan
+ORD-10439,CUST_1104,23.0,M,$ 71171.32,NY,2023-99-99,Books,3,$385.00,5%,PayPal
+ORD-11023,CUST_1400,32.0,Male,"58,108.88",texas,2024-10-13, Electronics ,2, $421.87 USD ,0%,credit card
+ORD-10618,CUST_1191,19.0,female,"$15,000.00",California,04/19/2024,clothing,2,$374.63,5%,debit_card
+ORD-10077,CUST_1007,53.0,unknown,$ 51994.42, CA ,23.03.2023,clothing,1,nan,0%,Cash
+ORD-11650,CUST_1213,31.0,F,nan,texas,08/13/2023, Electronics ,1,$333.15,15%,Debit Card
+ORD-11509,CUST_1594,185.0,Female,"$80,673.83",TX,nan,sports & outdoors,1,$258.90,10%,PayPal
+ORD-10608,CUST_1213,27.0,Male,nan,NY,"May 30, 2024",clothing,3, $19.80 USD ,0%,debit_card
+ORD-10747,CUST_1532,29.0,Male,"93,305.90",NY,27.02.2024,electronics,3,$67.86,15 %,Credit Card
+ORD-10555,CUST_1256,,female,$ 81076.61,New York,"Nov 17, 2024",CLOTHING,2,276.6,10%,UPI / Wallet
+ORD-11507,CUST_1065,24.0,female,81325.83,IL,2024-08-09,electronics,1,401.99,20%,cash
+ORD-11561,CUST_1072,28.0,Female,"$52,877.10",Washington,"Aug 15, 2023",clothing,4,161.55,20%,Cash
+ORD-10612,CUST_1253,16.0,male,35324.52,TX,nan,Beauty & Personal Care,3, $430.27 USD ,20%,paypal
+ORD-10394,CUST_1523,35.0,male,N/A,FL,16.01.2023,CLOTHING,4,179.15,10%,Debit Card
+ORD-10927,CUST_1550,27.0,male,"15,000.00",nan,2024-04-11,Beauty & Personal Care,1, $199.23 USD ,5%,paypal
+ORD-10031,CUST_1058,47.0,female,"77,864.64",TX,2023-07-09,Books,1,244.84,15%,debit_card
+ORD-11984,CUST_1160,39.0,Other,69538.39,Illinois,2023-99-99,Beauty & Personal Care,5,0.00,20%,Cash
+ORD-11611,CUST_1518,42.0,M,64359.65,FL,"Mar 18, 2023",Home & Kitchen,2,59.11,20%,Cash
+ORD-11473,CUST_1582,36.0,Male,86462.97,texas,"Feb 01, 2023",Beauty & Personal Care,1, $313.07 USD ,0%,PAYPAL
+ORD-10711,CUST_1409,61.0,Female,"$63,381.28",IL,Invalid Date,Books,1,$74.99,10%,cash
+ORD-10910,CUST_1301,23.0,Male,$ - ,California,2023-05-06, Electronics ,3,nan,20%,UPI / Wallet
+ORD-10758,CUST_1113,65.0,male,"81,576.33",FL,2024-04-10,clothing,1,$248.55,0%,Credit Card
+ORD-11553,CUST_1156,30.0,Male,59118.44,New York,"Feb 28, 2024",Beauty & Personal Care,1,226.06,5%,credit card
+ORD-11750,CUST_1024,23.0,M,"$15,000.00",TX,08/17/2024,Beauty & Personal Care,1,$427.98,5%,cash
+ORD-11666,CUST_1146,21.0,M,$ 85121.43,Texas,2023-12-03,CLOTHING,1, $264.63 USD ,0%,Credit Card
+ORD-11744,CUST_1276,73.0,F,N/A,nan,25.06.2024,Books,2,434.69,10%,PAYPAL
+ORD-10463,CUST_1351,40.0,female,"$72,162.84",NY,19.12.2023,CLOTHING,4,0.00,10%,PayPal
+ORD-11672,CUST_1411,27.0,female,"68,167.17",New York,"Apr 01, 2024",sports & outdoors,3,$30.98,15%,credit card
+ORD-10345,CUST_1025,51.0,Male,"41,347.05",NY,Invalid Date,clothing,1, $82.22 USD ,20%,paypal
+ORD-10045,CUST_1243,,Female,64484.6,California,18.11.2023,Beauty & Personal Care,1,$439.15,10%,Cash
+ORD-10675,CUST_1350,32.0,male,"80,688.05",Florida,31.05.2024,Beauty & Personal Care,5,306.6,10%,paypal
+ORD-10483,CUST_1233,26.0,Female,$ 72711.00,Washington,"Oct 21, 2023", Electronics ,1,nan,0%,PayPal
+ORD-10169,CUST_1014,41.0,Male,"77,570.51",FL,"Jul 24, 2023",Books,1,$84.00,5%,UPI / Wallet
+ORD-10304,CUST_1050,30.0,male,$ 59999.86,WA,"Aug 13, 2024",sports & outdoors,1,nan,15%,Credit Card
+ORD-11867,CUST_1577,52.0,Female,40533.76,TX,Invalid Date,Beauty & Personal Care,1,253.24,5%,cash
+ORD-11069,CUST_1567,,male,"58,910.97",texas,2023-99-99,Beauty & Personal Care,4,$415.70,20%,Cash
+ORD-10353,CUST_1078,16.0,Other,$ 47077.10,TX,nan,electronics,1,$396.80,0%,Debit Card
+ORD-10092,CUST_1145,19.0,female,"$92,859.84",New York,"Oct 30, 2023",clothing,1,$241.10,0%,Credit Card
+ORD-10999,CUST_1160,76.0,Male,58480.41,FL,2024-04-01,Books,1,88.76,15%,paypal
+ORD-11510,CUST_1192,,Male,"$93,916.93",california,"Nov 09, 2023",Home & Kitchen,5, $366.74 USD ,20%,CC
+ORD-10753,CUST_1466,45.0,male,"$79,833.64",Florida,nan,sports & outdoors,3,FREE,10%,PAYPAL
+ORD-10487,CUST_1503,37.0,male,"$102,655.28", CA ,04.10.2024,CLOTHING,2,$432.21,10%,credit card
+ORD-10651,CUST_1290,44.0,FEMALE,53909.51,california,2023-99-99,electronics,1,nan,10%,paypal
+ORD-11579,CUST_1513,21.0,Female,60565.12,Florida,2023-02-12,Home & Kitchen,1, $127.08 USD ,0%,debit_card
+ORD-10716,CUST_1271,,Male,$ - ,NY,05/17/2024,CLOTHING,1,$435.21,15 %,credit card
+ORD-10860,CUST_1544,59.0,male,"82,963.58",WA,2023-99-99,Home & Kitchen,1,nan,20%,PAYPAL
+ORD-10535,CUST_1327,37.0,Male,"97,563.06",california,11/18/2024,CLOTHING,1,$279.83,0%,paypal
+ORD-10354,CUST_1325,38.0,Male,"59,176.91",WA,"Apr 27, 2024",Beauty & Personal Care,1, $152.85 USD ,0%,PAYPAL
+ORD-10979,CUST_1184,20.0,Male,unknown, CA ,2024-07-02,Books,1,338.15,0%,Credit Card
+ORD-11161,CUST_1092,27.0,Male,"$67,418.31",NY,2024-08-14, Electronics ,1,$34.57,20%,Cash
+ORD-11574,CUST_1531,50.0,male,91076.79,IL,nan,Books,3,TBD,25%,PayPal
+ORD-10186,CUST_1017,43.0,male,27089.23, CA ,02/27/2023,Home & Kitchen,1,380.32,0%,Credit Card
+ORD-10722,CUST_1453,42.0,Male,$ 36979.54,nan,20.04.2023,CLOTHING,1, $247.27 USD ,10%,cash
+ORD-11482,CUST_1159,26.0,Female,54542.0,NY,10/13/2024,sports & outdoors,1, $188.39 USD ,5%,PAYPAL
+ORD-11248,CUST_1084,28.0,FEMALE,$ 69306.31,TX,"Jul 22, 2024",sports & outdoors,5,FREE,5%,PAYPAL
+ORD-11279,CUST_1032,35.0,Male,"70,801.20",california,"Mar 11, 2024",Books,1,$82.95,10%,paypal
+ORD-10301,CUST_1152,73.0,male,"64,655.49",texas,"Jan 21, 2023",electronics,1, $355.70 USD ,0%,PAYPAL
+ORD-11302,CUST_1324,40.0,female,53181.34,WA,12.05.2024,CLOTHING,2, $417.30 USD ,10%,credit card
+ORD-11942,CUST_1310,44.0,Male,67885.78,New York,"Jul 02, 2023",CLOTHING,1,$51.11,5%,PAYPAL
+ORD-11300,CUST_1484,17.0,MALE,"64,936.11",NY,25.06.2024,Home & Kitchen,1,0.00,0%,cash
+ORD-11980,CUST_1401,80.0,Female,56878.28,FL,01.10.2024,clothing,1, $113.62 USD ,5%,PayPal
+ORD-11857,CUST_1239,,female,null,Illinois,"Nov 06, 2023",Books,2,nan,0%,UPI / Wallet
+ORD-10316,CUST_1010,67.0,Female,41766.9,Washington,09/18/2024,CLOTHING,2, $317.79 USD ,15%,Credit Card
+ORD-11454,CUST_1519,44.0,male,"$57,189.89",texas,25.11.2024, Electronics ,1,$210.03,0%,CC
+ORD-11104,CUST_1034,45.0,male,$ 83177.43,Washington,nan,electronics,4,FREE,0%,Debit Card
+ORD-11062,CUST_1267,68.0,unknown,"67,020.16", CA ,2024-02-03, Electronics ,1,$403.18,10%,UPI / Wallet
+ORD-10176,CUST_1188,49.0,female,"44,219.21", CA ,28.11.2024,CLOTHING,1,181.42,20%,Cash
+ORD-11091,CUST_1151,34.0,Female,"81,933.22", CA ,2024-10-01,clothing,2, $423.21 USD ,15%,UPI / Wallet
+ORD-11090,CUST_1014,48.0,Male,"$47,124.72",Texas,2023-99-99,clothing,3,$236.70,20%,CC
+ORD-10781,CUST_1490,27.0,Female,"78,522.60",New York,nan,clothing,2, $290.87 USD ,10%,credit card
+ORD-11710,CUST_1189,57.0,Other,"$83,508.61",FL,2024-06-10,Home & Kitchen,2,nan,20%,Debit Card
+ORD-10124,CUST_1515,28.0,Female,"72,887.65",California,08/17/2023,clothing,-1, $337.64 USD ,10%,cash
+ORD-10465,CUST_1122,41.0,female,64708.56,FL,30.09.2023,Beauty & Personal Care,1,226.19,5%,Cash
+ORD-11477,CUST_1148,,male,"$94,479.87",Florida,Invalid Date,electronics,1,129.3,0%,nan
+ORD-10395,CUST_1066,20.0,Female,$ 20858.95,IL,2023-99-99,Books,3,$101.22,5%,PAYPAL
+ORD-11354,CUST_1517,40.0,female,65461.61,Florida,05/28/2024,sports & outdoors,1,140.68,15%,nan
+ORD-11581,CUST_1231,16.0,Female,"$79,694.65",TX,nan,clothing,3, $381.71 USD ,20%,cash
+ORD-10040,CUST_1403,20.0,Male,"$33,761.52",TX,21.08.2023,clothing,1, $158.59 USD ,nan,Cash
+ORD-11469,CUST_1343,63.0,Female,$ 88088.18,FL,nan,electronics,2, $281.07 USD ,25%,Cash
+ORD-10562,CUST_1306,37.0,male,"$9,999,999.00",california,04/11/2023, Electronics ,2, $129.76 USD ,0%,cash
+ORD-10332,CUST_1343,41.0,Female,$ 89386.24,California,2023-99-99,CLOTHING,1,TBD,0%,PAYPAL
+ORD-10746,CUST_1380,45.0,Other,$ 78566.14,Illinois,06/11/2024,clothing,2,TBD,0%,Credit Card
+ORD-10409,CUST_1302,32.0,M,"75,537.65",Florida,2023-09-30,Books,2,152.66,20%,debit_card
+ORD-10195,CUST_1315,42.0,Female,"$109,219.50",Texas,2023-99-99,CLOTHING,1,397.51,15%,nan
+ORD-10728,CUST_1046,62.0,FEMALE,$ 75295.23,IL,nan, Electronics ,3, $134.47 USD ,10%,nan
+ORD-11591,CUST_1059,36.0,FEMALE,"66,603.13",WA,2024-04-30,Beauty & Personal Care,2,$323.22,10%,debit_card
+ORD-11897,CUST_1454,,Male,"70,568.32",california,Invalid Date,Books,1,TBD,15%,cash
+ORD-10323,CUST_1556,73.0,Female,"68,299.43",Washington,07/31/2024, Electronics ,1,TBD,15%,UPI / Wallet
+ORD-10528,CUST_1582,45.0,female,"$59,813.50",Texas,"Aug 15, 2024",sports & outdoors,1,$369.97,10%,paypal
+ORD-11270,CUST_1122,34.0,M,"$75,266.45",Texas,"Feb 03, 2023",sports & outdoors,1,FREE,10%,cash
+ORD-10267,CUST_1408,61.0,Female,"$95,143.35",Illinois,05.06.2023,Home & Kitchen,-1,$45.19,5%,cash
+ORD-10580,CUST_1502,16.0,Female,"$65,719.86", CA ,nan,Books,1,nan,20%,Debit Card
+ORD-11525,CUST_1544,27.0,male,"$70,079.97",IL,06/14/2023, Electronics ,3,$425.99,0%,Debit Card
+ORD-10101,CUST_1470,43.0,Female,"$38,359.09",Washington,"Jun 05, 2023",electronics,2,326.53,5%,Cash
+ORD-10068,CUST_1335,37.0,male,$ 92097.67,IL,"Feb 06, 2024",clothing,2,TBD,10%,debit_card
+ORD-11048,CUST_1480,30.0,Female,$ 68791.10,Washington,09/28/2024,Books,2,nan,10%,Debit Card
+ORD-11671,CUST_1573,26.0,F,"$9,999,999.00",WA,01/29/2024, Electronics ,1,TBD,10%,debit_card
+ORD-11403,CUST_1515,34.0,M,"$17,380.93",NY,nan,Books,1,nan,10%,CC
+ORD-10766,CUST_1183,26.0,male,63618.76,texas,09/09/2024,sports & outdoors,2,393.77,5%,Cash
+ORD-11583,CUST_1590,,Male,"70,114.40",NY,2024-08-01,Books,2, $162.61 USD ,5%,UPI / Wallet
+ORD-11011,CUST_1358,20.0,M,"56,221.26",nan,"Mar 03, 2024",clothing,3,nan,20%,Credit Card
+ORD-11506,CUST_1367,30.0,M,null,california,17.10.2023,CLOTHING,2, $200.31 USD ,10%,Credit Card
+ORD-11823,CUST_1393,43.0,Male,$ 64302.80,FL,05/26/2023,Home & Kitchen,1, $354.57 USD ,5%,Cash
+ORD-10615,CUST_1118,62.0,Female,"$67,924.27", CA ,10/21/2023, Electronics ,1,251.87,5%,Credit Card
+ORD-11010,CUST_1582,40.0,Female,"$15,000.00",Illinois,28.11.2024,Beauty & Personal Care,1,TBD,5%,CC
+ORD-10744,CUST_1222,47.0,male,"64,323.96", CA ,11/13/2024, Electronics ,1,$188.39,20%,Credit Card
+ORD-11737,CUST_1361,55.0,Male,"$76,215.81",New York,2024-06-08, Electronics ,3,$55.95,15%,debit_card
+ORD-10789,CUST_1005,18.0,Male,$ - ,texas,10/10/2024,Books,1,$283.35,10%,CC
+ORD-11979,CUST_1194,52.0,F,104629.62,texas,18.01.2023,clothing,2,TBD,20%,paypal
+ORD-10586,CUST_1566,22.0,Female,55630.19,WA,"Feb 15, 2023",Books,3,TBD,5%,PayPal
+ORD-11977,CUST_1460,21.0,Male,"$64,945.78",TX,"Mar 28, 2023",electronics,3,0.00,10%,paypal
+ORD-10530,CUST_1010,,Male,57579.07,New York,nan,electronics,1, $98.21 USD ,20%,cash
+ORD-10939,CUST_1165,30.0,M,$ 15000.00,WA,08.06.2024,sports & outdoors,2,206.56,nan,UPI / Wallet
+ORD-10693,CUST_1366,26.0,Female,72976.94, CA ,01/05/2024, Electronics ,1,TBD,0%,cash
+ORD-11629,CUST_1529,40.0,male,nan,Washington,2023-09-22,Beauty & Personal Care,2,$180.66,15 %,paypal
+ORD-11678,CUST_1399,60.0,male,$ - ,California,2023-99-99,Home & Kitchen,4,nan,10%,UPI / Wallet
+ORD-11764,CUST_1015,42.0,FEMALE,"$83,219.01",Florida,"May 02, 2023",clothing,1,$152.61,0%,CC
+ORD-11386,CUST_1412,41.0,FEMALE,36158.42,IL,"Sep 27, 2023",clothing,1,$116.21,10%,PAYPAL
+ORD-11836,CUST_1151,45.0,Male,$ 40827.81,California,2023-04-08,Books,1,440.76,10%,Debit Card
+ORD-11450,CUST_1382,47.0,Female,$ 56171.28,california,2024-11-27, Electronics ,1,91.29,5%,CC
+ORD-11725,CUST_1397,16.0,Female,77499.03,New York,25.10.2024, Electronics ,1,0.00,nan,credit card
+ORD-10737,CUST_1317,,female,"61,885.47",FL,nan,sports & outdoors,1, $347.18 USD ,20%,PAYPAL
+ORD-10450,CUST_1158,34.0,Female,$ 48979.64,california,21.09.2023,CLOTHING,3, $293.95 USD ,10%,Credit Card
+ORD-10262,CUST_1288,48.0,M,46275.22,New York,10/27/2023,Home & Kitchen,1, $444.96 USD ,10%,Cash
+ORD-10539,CUST_1511,31.0,Female,"41,306.00",New York,"Nov 15, 2024",electronics,4, $342.55 USD ,5%,nan
+ORD-11719,CUST_1266,52.0,female,38696.18,california,Invalid Date,CLOTHING,2,$203.85,5%,CC
+ORD-10731,CUST_1320,26.0,female,22849.58,Texas,01.02.2023,clothing,2,137.83,15%,debit_card
+ORD-10241,CUST_1273,29.0,Female,"42,996.37",Florida,08/02/2024, Electronics ,4,nan,15%,CC
+ORD-11106,CUST_1423,44.0,Female,"70,677.01",california,"Jun 19, 2023",electronics,3,nan,0%,CC
+ORD-11850,CUST_1562,26.0,M,71744.02,California,nan,electronics,3,0.00,25%,debit_card
+ORD-11481,CUST_1085,38.0,male,105737.89,FL,10.10.2024,Home & Kitchen,1,nan,5%,Debit Card
+ORD-11620,CUST_1542,60.0,male,"53,873.03",Illinois,2023-99-99,CLOTHING,1,$139.26,20%,CC
+ORD-10621,CUST_1408,22.0,female,"$65,715.11",California,01/01/2024,Home & Kitchen,1,188.35,20%,PayPal
+ORD-10366,CUST_1014,16.0,n/a,"$73,184.92",IL,nan,clothing,1,$69.86,0%,debit_card
+ORD-10882,CUST_1396,31.0,Male,"57,357.24",TX,08/02/2023,Books,2,TBD,0%,CC
+ORD-11092,CUST_1453,39.0,Female,$ 63602.73,WA,08/10/2024,Books,2, $302.90 USD ,20%,nan
+ORD-11617,CUST_1293,23.0,Other,120036.94,New York,nan,CLOTHING,1,197.11,15 %,Debit Card
+ORD-10694,CUST_1189,47.0,Male,"$54,027.82",california,2024-09-30,Beauty & Personal Care,1, $277.69 USD ,0%,Cash
+ORD-11324,CUST_1547,30.0,female,$ 59083.38,Texas,01.02.2023,sports & outdoors,1,TBD,15%,credit card
+ORD-11447,CUST_1126,,Female,"87,399.70",texas,"Feb 02, 2024",CLOTHING,1,78.78,10%,Cash
+ORD-10987,CUST_1532,56.0,male,"47,880.54",Florida,19.02.2023,Books,1,282.66,10%,Credit Card
+ORD-10533,CUST_1069,54.0,Female,$ 34512.59, CA ,nan,CLOTHING,2,FREE,15 %,Debit Card
+ORD-10924,CUST_1001,60.0,Female,"$76,397.54", CA ,2024-08-05,Beauty & Personal Care,1, $117.63 USD ,10%,cash
+ORD-10319,CUST_1152,34.0,F,"$84,357.97",nan,2023-03-14,Home & Kitchen,4,0.00,0%,UPI / Wallet
+ORD-10549,CUST_1573,37.0,MALE,$ 65386.99,TX,2024-03-24,CLOTHING,1,$137.08,10%,UPI / Wallet
+ORD-10793,CUST_1428,19.0,M,"$81,207.76",New York,2024-04-04, Electronics ,2,$297.04,5%,Cash
+ORD-11317,CUST_1131,35.0,female,$ 105441.54,FL,19.01.2024,sports & outdoors,3,0.00,15%,cash
+ORD-10708,CUST_1370,28.0,unknown,$ 82217.94,New York,27.11.2023,sports & outdoors,1, $50.17 USD ,0%,UPI / Wallet
+ORD-11997,CUST_1534,65.0,F,"$58,713.06",NY,03/14/2024,CLOTHING,1,0.00,0%,credit card
+ORD-10344,CUST_1296,33.0,Male,"$61,162.02",TX,13.01.2024,clothing,3, $356.56 USD ,15%,Debit Card
+ORD-10399,CUST_1483,46.0,Female,$ 66021.69,Texas,2023-10-22,Home & Kitchen,5,304.56,15%,credit card
+ORD-11700,CUST_1207,16.0,Male,$ 40538.06,Illinois,"Mar 09, 2023",clothing,1,$305.25,10%,paypal
+ORD-10293,CUST_1101,37.0,Male,"$51,671.78", CA ,"May 14, 2023", Electronics ,1,$153.63,20%,CC
+ORD-10702,CUST_1303,-5.0,MALE,"$62,096.96",nan,23.04.2023,Books,1,nan,5%,nan
+ORD-11045,CUST_1576,39.0,nan,35792.01,FL,07/02/2024,Beauty & Personal Care,1,$146.45,5%,PAYPAL
+ORD-11041,CUST_1522,27.0,MALE,54387.98,WA,09.06.2023,clothing,3,$250.63,10%,Cash
+ORD-10142,CUST_1279,37.0,male,$ 74689.52,Illinois,16.10.2023,Home & Kitchen,1,0.00,0%,Debit Card
+ORD-10817,CUST_1184,23.0,male,"$46,176.30",WA,"Aug 18, 2023",electronics,2, $136.14 USD ,5%,Cash
+ORD-10003,CUST_1505,,Female,$ 101929.16,Texas,01.10.2023, Electronics ,3,147.51,15%,nan
+ORD-11232,CUST_1479,31.0,nan,"$65,132.48",Florida,17.10.2023,sports & outdoors,1,0.00,nan,UPI / Wallet
+ORD-10340,CUST_1199,38.0,female,$ 99574.04,california,2024-09-01,Beauty & Personal Care,1, $327.05 USD ,15%,Debit Card
+ORD-11950,CUST_1594,61.0,Female,51816.31,california,Invalid Date,Home & Kitchen,1,FREE,15%,Debit Card
+ORD-10266,CUST_1534,33.0,Female,"$26,736.12",Illinois,08/10/2024, Electronics ,3, $381.28 USD ,0%,CC
+ORD-10377,CUST_1172,48.0,Female,68280.12,Florida,16.04.2023,clothing,1,172.13,10%,CC
+ORD-11902,CUST_1483,79.0,Female,"33,385.11",IL,"Sep 13, 2024",clothing,1,$87.58,10%,debit_card
+ORD-10440,CUST_1065,22.0,male,"$85,806.71",Florida,2024-09-10, Electronics ,2,0.00,0%,Cash
+ORD-10272,CUST_1008,16.0,Male,"70,199.00",FL,nan,Books,1,332.66,20%,nan
+ORD-10245,CUST_1302,16.0,male,null,FL,30.10.2023,CLOTHING,3, $261.47 USD ,5%,cash
+ORD-11477,CUST_1148,,male,"$94,479.87",Florida,Invalid Date,electronics,1,129.3,0%,nan
+ORD-10591,CUST_1430,17.0,female,"$34,511.31",nan,01/27/2023,electronics,1,$433.31,10%,PAYPAL
+ORD-11996,CUST_1025,43.0,female,"$59,088.37",nan,14.09.2024,CLOTHING,1,$39.69,0%,Cash
+ORD-10870,CUST_1236,62.0,male,69389.95,New York,2023-04-20,Home & Kitchen,2,387.11,5%,cash
+ORD-10416,CUST_1444,20.0,M,"$54,465.58",California,04/13/2023,Books,5, $217.40 USD ,0%,debit_card
+ORD-10274,CUST_1439,27.0,Female,"64,942.31",WA,01/04/2024,Beauty & Personal Care,3,$268.66,10%,paypal
+ORD-11475,CUST_1312,62.0,n/a,$ 15000.00,nan,"May 17, 2023", Electronics ,1,182.02,20%,Cash
+ORD-10251,CUST_1337,20.0,Male,$ 49716.17,IL,12/29/2023, Electronics ,2,FREE,15%,PAYPAL
+ORD-10414,CUST_1031,45.0,Female,$ 43035.05, CA ,"Feb 26, 2024",sports & outdoors,1,$260.75,15%,UPI / Wallet
+ORD-11331,CUST_1150,49.0,Male,$ 78313.57,NY,"Sep 21, 2024",electronics,2, $45.59 USD ,5%,CC
+ORD-11392,CUST_1161,37.0,female,$ 51602.21,FL,12.08.2023, Electronics ,3, $383.20 USD ,5%,paypal
+ORD-10311,CUST_1286,41.0,female,105598.45,Illinois,2023-05-02,sports & outdoors,1,$355.68,10%,Cash
+ORD-11654,CUST_1518,31.0,Male,33332.91,Illinois,nan,CLOTHING,2,39.65,20%,debit_card
+ORD-10631,CUST_1334,58.0,Male,$ 46717.75,New York,25.09.2024,CLOTHING,1,120.58,nan,Cash
+ORD-10426,CUST_1149,47.0,Female,60345.95,FL,20.03.2023,clothing,1,219.75,20%,UPI / Wallet
+ORD-11998,CUST_1100,67.0,female,$ 86587.20,california,"Dec 17, 2023",Beauty & Personal Care,1,91.61,15%,PAYPAL
+ORD-10600,CUST_1325,27.0,male,$ 115073.01,New York,2024-07-21,Beauty & Personal Care,1,$25.32,15%,PayPal
+ORD-11934,CUST_1014,54.0,male,"$80,514.78",Texas,"Aug 29, 2024",sports & outdoors,1, $114.49 USD ,15%,Cash
+ORD-11443,CUST_1037,32.0,FEMALE,$ 65041.27,WA,2023-99-99, Electronics ,1,nan,5%,PAYPAL
+ORD-10787,CUST_1568,18.0,Female,57709.11,california,2024-07-20,electronics,3,240.57,0%,CC
+ORD-11472,CUST_1571,28.0,male,57779.95,Illinois,20.08.2023,electronics,2,$103.29,15%,nan
+ORD-10619,CUST_1341,41.0,male,$ 93022.83,nan,2024-04-18,clothing,1,$373.75,5%,Credit Card
+ORD-10527,CUST_1318,74.0,Male,"$59,405.67",NY,"Jul 06, 2023",clothing,1,0.00,5%,credit card
+ORD-11687,CUST_1539,42.0,M,86131.31,New York,"Jul 21, 2024",Books,2,$315.37,10%,credit card
+ORD-11860,CUST_1448,59.0,Female,"$76,692.71",TX,"Aug 29, 2024",CLOTHING,1,$84.16,15%,Cash
+ORD-10183,CUST_1571,26.0,unknown,"102,997.41",texas,05/21/2023,electronics,1, $115.94 USD ,10%,Debit Card
+ORD-10171,CUST_1141,40.0,male,$ 47019.03, CA ,nan,Beauty & Personal Care,2, $16.90 USD ,10%,debit_card
+ORD-10679,CUST_1069,,F,unknown,California,07/23/2023,Home & Kitchen,1,TBD,10%,cash
+ORD-11456,CUST_1030,38.0,Female,$ 70953.55,WA,"Sep 10, 2023",sports & outdoors,1,213.33,20%,Cash
+ORD-12000,CUST_1187,30.0,Female,84690.52,texas,2023-99-99,electronics,1,30.64,15%,PAYPAL
+ORD-11756,CUST_1189,17.0,M,"$75,049.81",FL,2023-09-20,sports & outdoors,2,45.38,10%,Credit Card
+ORD-11006,CUST_1463,36.0,male,"$28,833.86",Texas,2023-09-20,sports & outdoors,1, $95.05 USD ,20%,PayPal
+ORD-11808,CUST_1181,36.0,female,15265.54, CA ,2023-03-30,electronics,4,0.00,0%,UPI / Wallet
+ORD-10273,CUST_1086,23.0,MALE,"47,255.59",nan,09/18/2024,Books,1, $52.42 USD ,10%,nan
+ORD-11648,CUST_1523,35.0,Male,$ 33358.17,nan,"Mar 11, 2024",clothing,1,TBD,0%,PayPal
+ORD-10783,CUST_1566,62.0,male,98806.87,Washington,03.05.2023,sports & outdoors,3, $82.10 USD ,10%,Debit Card
+ORD-11610,CUST_1428,63.0,Female,68408.47,WA,01/14/2024,Books,4,0.00,15%,cash
+ORD-10372,CUST_1039,34.0,Female,$ 35274.48,NY,2023-99-99,Beauty & Personal Care,-3, $441.28 USD ,5%,CC
+ORD-10223,CUST_1598,,female,$ 74283.40,WA,nan,Home & Kitchen,2, $445.95 USD ,5%,cash
+ORD-11693,CUST_1107,46.0,MALE,"$53,343.55",Florida,2024-01-13,CLOTHING,1,$386.72,10%,nan
+ORD-11885,CUST_1546,28.0,Female,"$27,601.90",Illinois,Invalid Date,Books,5, $103.74 USD ,0%,PayPal
+ORD-11306,CUST_1123,29.0,Male,"36,782.37",California,"Jan 11, 2024", Electronics ,2, $275.15 USD ,20%,Debit Card
+ORD-10519,CUST_1502,49.0,F,"$74,670.67",california,27.12.2023,CLOTHING,3,0.00,15%,credit card
+ORD-10335,CUST_1143,35.0,Male,"$103,875.79",texas,nan,electronics,1,383.56,20%,Debit Card
+ORD-10788,CUST_1129,20.0,Female,112535.63,IL,2024-10-07,sports & outdoors,1,nan,20%,cash
+ORD-11240,CUST_1290,49.0,Male,"$86,435.55",california,"Mar 31, 2024",Home & Kitchen,2, $376.63 USD ,5%,UPI / Wallet
+ORD-11122,CUST_1562,25.0,Female,$ 88196.97,New York,10.01.2023,clothing,1,FREE,10%,Credit Card
+ORD-10681,CUST_1028,48.0,M,73996.35,WA,"Apr 09, 2023",sports & outdoors,3,28.39,5%,Debit Card
+ORD-10016,CUST_1283,56.0,Female,"32,755.43",california,20.10.2024,CLOTHING,1,$447.63,20%,PayPal
+ORD-10782,CUST_1197,30.0,F,"40,828.85", CA ,2024-02-06,sports & outdoors,1,FREE,20%,cash
+ORD-10950,CUST_1588,,Female,"$57,019.53",texas,2023-03-06, Electronics ,1, $131.97 USD ,10%,UPI / Wallet
+ORD-11638,CUST_1215,47.0,M,$ 62845.06, CA ,"Nov 05, 2024", Electronics ,3, $127.87 USD ,10%,debit_card
+ORD-11792,CUST_1014,40.0,Male,$ 79079.00,nan,03/25/2024, Electronics ,1,0.00,10%,paypal
+ORD-10571,CUST_1545,21.0,Female,"$20,875.55",texas,06/19/2024,electronics,1,185.28,10%,nan
+ORD-11739,CUST_1343,29.0,Male,$ 93634.28,Illinois,31.07.2024,Beauty & Personal Care,2,$256.09,10%,CC
+ORD-11133,CUST_1084,35.0,Male,"$76,973.95",Texas,2024-03-09,Beauty & Personal Care,1,$290.75,0%,PAYPAL
+ORD-10466,CUST_1433,49.0,female,"84,107.21",california,"Nov 07, 2024",Books,4,$175.52,0%,Cash
+ORD-10868,CUST_1588,22.0,Male,null, CA ,23.01.2024,Books,2,316.92,15%,CC
+ORD-10200,CUST_1295,62.0,MALE,49930.8,NY,2023-99-99,sports & outdoors,1,309.07,0%,UPI / Wallet
+ORD-11282,CUST_1452,46.0,female,"$76,169.22",New York,"Oct 15, 2024",electronics,1,0.00,5%,Credit Card
+ORD-11126,CUST_1538,33.0,Female,"90,037.37",texas,Invalid Date,electronics,2,$416.02,15 %,CC
+ORD-11205,CUST_1573,46.0,female,"$51,710.20",california,"Apr 21, 2024",Home & Kitchen,1,nan,10%,paypal
+ORD-11385,CUST_1369,31.0,unknown,"$55,434.90",NY,18.06.2024,Home & Kitchen,3, $274.42 USD ,10%,nan
+ORD-11537,CUST_1113,26.0,Female,36125.01,california,12.06.2023,CLOTHING,1,172.23,15%,debit_card
+ORD-10592,CUST_1446,54.0,M,60100.89,FL,19.12.2023,Home & Kitchen,2,106.55,20%,credit card
+ORD-11948,CUST_1517,21.0,female,"$67,733.40",NY,2023-99-99,electronics,1,197.21,5%,Credit Card
+ORD-11492,CUST_1576,25.0,Female,"$9,999,999.00",NY,07/19/2024,clothing,1,356.81,nan,Debit Card
+ORD-11508,CUST_1364,44.0,Female,"53,395.70",Florida,2024-06-04,Beauty & Personal Care,2,nan,5%,PayPal
+ORD-11465,CUST_1034,31.0,nan,40326.37,texas,2023-99-99,electronics,1, $136.51 USD ,15%,Cash
+ORD-10757,CUST_1172,54.0,male,"33,500.78",california,10/25/2024,Beauty & Personal Care,1,0.00,20%,nan
+ORD-11872,CUST_1274,27.0,M,132454.83,texas,2024-09-05,electronics,2, $270.91 USD ,20%,Cash
+ORD-10044,CUST_1518,32.0,Female,"$15,100.93",california,2023-99-99,Home & Kitchen,1, $84.90 USD ,nan,paypal
+ORD-11421,CUST_1101,35.0,M,$ 83193.58,nan,"Aug 22, 2023",Books,1,FREE,20%,nan
+ORD-10275,CUST_1324,29.0,Female,81945.89,Washington,2024-08-22,Home & Kitchen,2,$159.14,0%,paypal
+ORD-11170,CUST_1146,27.0,Male,79653.54,Illinois,07/13/2024,clothing,1,$413.09,20%,Cash
+ORD-10102,CUST_1459,42.0,Male,"$74,475.82",nan,03/20/2024,electronics,1,365.61,20%,cash
+ORD-10985,CUST_1379,29.0,Male,"105,181.86",California,"Apr 09, 2024",Books,1,268.44,20%,credit card
+ORD-11290,CUST_1083,26.0,Male,"$74,972.24",california,Invalid Date,Home & Kitchen,2,$50.09,20%,cash
+ORD-11901,CUST_1137,30.0,Female,"$58,562.48",New York,2024-11-30,Books,1, $365.61 USD ,0%,PAYPAL
+ORD-10108,CUST_1477,40.0,Male,"31,070.85",TX,2023-01-12,electronics,2,418.32,10%,PAYPAL
+ORD-11713,CUST_1160,32.0,MALE,"$69,942.90",NY,21.09.2023, Electronics ,3,nan,15%,Debit Card
+ORD-10498,CUST_1449,44.0,female,"$70,006.37",NY,2023-99-99,electronics,1,448.56,15 %,paypal
+ORD-11194,CUST_1347,16.0,n/a,"$98,203.76",WA,"Feb 16, 2024",sports & outdoors,1,TBD,20%,credit card
+ORD-11000,CUST_1525,41.0,female,"84,197.29",IL,09/20/2024,clothing,1,$236.23,15%,nan
+ORD-11304,CUST_1002,39.0,MALE,"$98,704.19",Illinois,06/26/2024,clothing,2,0.00,5%,PayPal
+ORD-11108,CUST_1246,39.0,Female,"76,964.72",texas,Invalid Date, Electronics ,1, $429.46 USD ,10%,credit card
+ORD-10916,CUST_1474,32.0,female,"$58,540.40", CA ,"Apr 11, 2024",clothing,1,nan,0%,credit card
+ORD-11180,CUST_1199,31.0,M,"27,111.38",california,10/17/2023,electronics,1,$237.91,10%,UPI / Wallet
+ORD-11380,CUST_1164,51.0,male,"$68,987.94",texas,03.11.2024,Books,2,$191.85,5%,CC
+ORD-11786,CUST_1030,29.0,Other,"58,133.98",WA,Invalid Date,electronics,2,146.28,5%,CC
+ORD-11898,CUST_1153,43.0,Male,$ - ,NY,14.09.2024,CLOTHING,1,$207.34,15%,debit_card
+ORD-10820,CUST_1043,28.0,Male,57668.01,nan,2023-99-99,clothing,1,347.04,20%,CC
+ORD-10073,CUST_1517,-12.0,Female,"$49,174.08",WA,"Jul 26, 2024",clothing,1, $448.41 USD ,20%,PAYPAL
+ORD-10850,CUST_1329,23.0,F,"54,221.04",Texas,2023-99-99,electronics,2, $194.20 USD ,15%,PayPal
+ORD-11573,CUST_1136,46.0,Female,"48,872.57",texas,12/08/2023,Beauty & Personal Care,1,427.65,10%,PayPal
+ORD-11274,CUST_1199,37.0,M,"73,714.36",Texas,2023-99-99,Beauty & Personal Care,1,TBD,20%,paypal
+ORD-10713,CUST_1372,40.0,Female,null,Illinois,2023-07-12, Electronics ,1, $133.72 USD ,0%,nan
+ORD-10482,CUST_1501,43.0,Female,"$73,468.20",New York,21.02.2024,Home & Kitchen,2,$211.06,10%,paypal
+ORD-11139,CUST_1042,25.0,female,"$49,532.58",New York,18.04.2023,sports & outdoors,1,88.52,0%,debit_card
+ORD-10507,CUST_1267,25.0,Male,"68,179.93",Florida,Invalid Date,Books,2,315.96,0%,CC
+ORD-10765,CUST_1285,16.0,Female,"89,843.04",Texas,11/22/2024,Home & Kitchen,1,nan,10%,Debit Card
+ORD-11310,CUST_1037,16.0,Female,$ 83109.98,Washington,09/23/2024,CLOTHING,1,$216.94,20%,cash
+ORD-11484,CUST_1571,57.0,F,$ 47052.36,TX,10/12/2023,sports & outdoors,3,114.15,15%,Credit Card
+ORD-10837,CUST_1053,16.0,M,$ 41838.91,TX,2023-01-24, Electronics ,2, $255.70 USD ,10%,debit_card
+ORD-10862,CUST_1294,43.0,Female,91575.64,california,"Aug 09, 2023",sports & outdoors,1,nan,5%,PAYPAL
+ORD-10975,CUST_1468,19.0,male,57050.26,New York,01/02/2024,electronics,1,300.07,10%,nan
+ORD-10312,CUST_1482,44.0,Female,N/A, CA ,nan,electronics,3,TBD,5%,UPI / Wallet
+ORD-11585,CUST_1259,27.0,Female,"$88,337.44",nan,14.11.2023,CLOTHING,1,$323.97,15 %,paypal
+ORD-10406,CUST_1284,43.0,female,65075.55,California,"Sep 10, 2024",electronics,4, $306.83 USD ,nan,cash
+ORD-10917,CUST_1322,48.0,Male,$ 55630.53,texas,23.07.2023,Books,3, $420.54 USD ,0%,debit_card
+ORD-11954,CUST_1197,38.0,Male,$ 25605.85,Florida,29.05.2023,electronics,1,FREE,0%,cash
+ORD-11217,CUST_1131,45.0,male,"86,097.50",California,01/26/2024,Books,2, $43.87 USD ,0%,Credit Card
+ORD-10310,CUST_1198,16.0,female,nan,Washington,2024-11-24, Electronics ,1, $96.40 USD ,15 %,CC
+ORD-10227,CUST_1538,16.0,Male,55883.67,Texas,01.10.2024,Beauty & Personal Care,2,nan,10%,debit_card
+ORD-11929,CUST_1215,,male,60094.53,WA,nan, Electronics ,1,$304.72,10%,paypal
+ORD-11570,CUST_1109,35.0,M,$ 74213.47,IL,nan,sports & outdoors,2,225.5,20%,cash
+ORD-11627,CUST_1459,42.0,Male,$ 106236.84,NY,"Jan 13, 2024",electronics,1,$329.81,15%,Debit Card
+ORD-11806,CUST_1042,37.0,Male,97537.82,california,"Mar 17, 2024",sports & outdoors,1, $179.66 USD ,10%,PAYPAL
+ORD-11051,CUST_1308,51.0,F,98266.6,Illinois,nan,Home & Kitchen,5, $177.98 USD ,20%,cash
+ORD-10149,CUST_1505,39.0,Male,"$26,552.82", CA ,01.08.2024,clothing,1,0.00,0%,credit card
+ORD-10706,CUST_1439,,Female,124125.37,TX,06/11/2024,sports & outdoors,1,nan,5%,Credit Card
+ORD-10808,CUST_1197,28.0,Female,"70,581.21",nan,13.02.2024, Electronics ,2, $380.43 USD ,15%,debit_card
+ORD-10940,CUST_1449,45.0,male,56026.06,WA,05/15/2023,electronics,2,TBD,0%,credit card
+ORD-10983,CUST_1588,53.0,Male,"67,721.96",Illinois,31.01.2023,clothing,3, $423.41 USD ,5%,PAYPAL
+ORD-11429,CUST_1306,41.0,male,75213.59,Florida,Invalid Date, Electronics ,1, $96.40 USD ,20%,paypal
+ORD-10576,CUST_1568,67.0,Male,$ 83844.44,Illinois,21.01.2023, Electronics ,1,$23.92,10%,PAYPAL
+ORD-10558,CUST_1564,49.0,female,53907.42,Florida,04/21/2023,sports & outdoors,1, $440.62 USD ,10%,CC
+ORD-11179,CUST_1146,36.0,Female,"51,730.28",New York,2023-06-16,CLOTHING,3,58.02,0%,UPI / Wallet
+ORD-11552,CUST_1350,,Female,"50,493.73",FL,"Feb 02, 2023",Beauty & Personal Care,1,nan,10%,nan
+ORD-11229,CUST_1029,21.0,Male,"69,628.87",NY,11.02.2023,CLOTHING,2,FREE,10%,UPI / Wallet
+ORD-11434,CUST_1553,55.0,Male,"$44,199.71",TX,"May 01, 2023",Books,2,141.52,15%,PAYPAL
+ORD-11235,CUST_1366,38.0,M,$ 121547.10,Washington,06/08/2023,Home & Kitchen,1,$93.32,15 %,CC
+ORD-11555,CUST_1019,18.0,Male,"$83,204.86",NY,08/23/2023,electronics,1,nan,5%,cash
+ORD-10168,CUST_1231,16.0,Male,"$66,438.38",California,2023-11-09,sports & outdoors,2,$392.12,15%,Debit Card
+ORD-11259,CUST_1555,,M,"$80,357.51",NY,12/18/2023,CLOTHING,2,TBD,5%,debit_card
+ORD-10287,CUST_1134,51.0,Male,nan,california,"Apr 02, 2023",electronics,1,TBD,0%,credit card
+ORD-11704,CUST_1504,58.0,Female,"$44,362.69",Illinois,2023-06-09,electronics,1,$156.74,10%,cash
+ORD-10835,CUST_1311,16.0,M,$ 53703.82,New York,26.07.2023,clothing,1,$389.40,15%,paypal
+ORD-10629,CUST_1178,29.0,Male,77786.8,Illinois,10/12/2023,clothing,1,TBD,5%,PayPal
+ORD-10599,CUST_1279,55.0,male,$ 37463.80,IL,2024-06-22,electronics,1, $235.51 USD ,0%,CC
+ORD-11512,CUST_1404,37.0,male,"72,521.89",California,11/10/2024,clothing,2, $93.17 USD ,5%,PAYPAL
+ORD-11056,CUST_1368,16.0,Female,$ 67192.83,Washington,02/05/2023, Electronics ,1,442.53,10%,Debit Card
+ORD-11740,CUST_1035,40.0,Female,90703.99,Illinois,2023-04-25, Electronics ,3,0.00,0%,paypal
+ORD-11871,CUST_1215,21.0,female,"44,635.10",nan,nan,electronics,4,$194.83,0%,UPI / Wallet
+ORD-10888,CUST_1059,58.0,male,"$9,999,999.00",texas,2024-07-23,electronics,1,88.63,20%,Cash
+ORD-11545,CUST_1424,39.0,Female,"38,062.18",TX,Invalid Date,CLOTHING,4,103.61,0%,nan
+ORD-11543,CUST_1456,20.0,Female,$ 54565.67,FL,13.04.2023,Beauty & Personal Care,999, $85.60 USD ,15%,nan
+ORD-11533,CUST_1430,28.0,male,81658.32,Texas,"May 13, 2024",Home & Kitchen,1,TBD,25%,CC
+ORD-10042,CUST_1312,50.0,female,unknown,TX,"May 20, 2024",CLOTHING,1,$179.12,0%,paypal
+ORD-11095,CUST_1216,60.0,male,$ 66032.59,Texas,08/02/2024,Books,1,0.00,0%,debit_card
+ORD-11661,CUST_1091,-5.0,F,65101.05,IL,27.11.2023,CLOTHING,1, $277.74 USD ,25%,UPI / Wallet
+ORD-10866,CUST_1368,48.0,female,$ 54477.74, CA ,12/27/2023, Electronics ,2,$406.21,10%,debit_card
+ORD-10610,CUST_1316,33.0,female,$ 74619.76,TX,2024-03-02, Electronics ,1,143.91,15%,PayPal
+ORD-11114,CUST_1357,57.0,Female,"72,515.43",California,Invalid Date, Electronics ,2, $303.60 USD ,15%,UPI / Wallet
+ORD-11835,CUST_1127,34.0,Female,"54,197.04",California,2023-01-19,electronics,1,FREE,15%,Debit Card
+ORD-11517,CUST_1460,36.0,MALE,"$90,896.23",Illinois,2023-99-99, Electronics ,2,FREE,0%,paypal
+ORD-11640,CUST_1284,45.0,M,"53,771.37",IL,2023-07-27,clothing,4, $302.17 USD ,20%,debit_card
+ORD-10303,CUST_1484,34.0,female,$ 18554.47,California,"Jan 07, 2024",Beauty & Personal Care,2, $416.15 USD ,15%,paypal
+ORD-10494,CUST_1377,23.0,M,$ 56370.31,IL,nan,electronics,5, $305.30 USD ,5%,paypal
+ORD-11405,CUST_1130,20.0,Male,$ 66912.66,Texas,04/17/2024,Books,-1,417.34,25%,paypal
+ORD-10278,CUST_1441,58.0,Female,"$44,999.03",WA,07/07/2023,Beauty & Personal Care,1,40.48,0%,Cash
+ORD-11969,CUST_1289,30.0,female,61173.86,FL,2024-09-21,Books,1,$304.80,15%,PayPal
+ORD-10359,CUST_1016,16.0,Male,$ 15000.00,Texas,10.01.2024,Home & Kitchen,2,$294.75,10%,cash
+ORD-11766,CUST_1172,38.0,Female,75349.03,IL,17.04.2024,Books,2,FREE,0%,Debit Card
+ORD-10237,CUST_1328,45.0,Male,$ 49251.30,WA,2023-08-17,Beauty & Personal Care,1,$226.96,20%,credit card
+ORD-10552,CUST_1076,52.0,female,"71,671.68",New York,03.07.2024,Books,1, $56.63 USD ,10%,Credit Card
+ORD-11990,CUST_1081,39.0,female,"76,919.42", CA ,26.06.2024,Beauty & Personal Care,3,85.91,0%,debit_card
+ORD-11468,CUST_1399,27.0,F,"65,502.30",IL,01/29/2023,electronics,1,52.21,10%,paypal
+ORD-10209,CUST_1425,50.0,F,"$76,584.51",New York,Invalid Date,Home & Kitchen,2,0.00,20%,credit card
+ORD-11478,CUST_1535,29.0,male,"92,618.61",Washington,13.02.2023,Beauty & Personal Care,1,164.82,15%,paypal
+ORD-10721,CUST_1479,56.0,male,"$40,347.85",nan,"Jun 21, 2023",sports & outdoors,3, $85.48 USD ,5%,CC
+ORD-11659,CUST_1287,43.0,male,19164.59,WA,01/07/2023,Home & Kitchen,1, $222.08 USD ,5%,Debit Card
+ORD-10059,CUST_1239,40.0,Female,"88,479.03",Florida,"Mar 19, 2023",electronics,2, $104.17 USD ,5%,paypal
+ORD-10632,CUST_1201,,Female,$ 57807.29,California,"Nov 27, 2023",electronics,2, $443.92 USD ,0%,UPI / Wallet
+ORD-11761,CUST_1368,45.0,Male,65433.76,Illinois,"Oct 10, 2024",clothing,1,0.00,0%,nan
+ORD-11522,CUST_1251,48.0,Female,$ 64138.37,FL,07/01/2023,electronics,2,$352.17,0%,cash
+ORD-10673,CUST_1586,34.0,M,30384.8,texas,2023-02-13,electronics,2,$187.00,10%,credit card
+ORD-11937,CUST_1458,43.0,Female,69828.97,Texas,"Apr 03, 2024",sports & outdoors,1,234.64,10%,paypal
+ORD-10364,CUST_1438,76.0,Male,"65,952.60",Florida,Invalid Date,electronics,1,289.51,15%,PAYPAL
+ORD-10506,CUST_1402,39.0,male,"$27,449.07",california,"Aug 23, 2023",Books,1,$194.16,10%,nan
+ORD-10857,CUST_1596,,M,"$76,117.39",Washington,06/19/2023,electronics,1,0.00,20%,CC
+ORD-11918,CUST_1181,47.0,M,$ 64648.61,Illinois,04.05.2023,Books,3,342.57,20%,PayPal
+ORD-11703,CUST_1245,36.0,Male,"90,344.02",Illinois,05.08.2023,Books,2,67.36,20%,PAYPAL
+ORD-10734,CUST_1018,16.0,Male,"27,681.23",Florida,16.03.2023,CLOTHING,4,78.03,20%,Credit Card
+ORD-11294,CUST_1323,23.0,male,"30,520.36",IL,04/21/2024,sports & outdoors,1,$64.02,5%,Cash
+ORD-11848,CUST_1450,33.0,Female,58032.72, CA ,nan,sports & outdoors,1,nan,15%,Cash
+ORD-11495,CUST_1037,31.0,Male,$ 81188.12,NY,14.08.2023,Books,2,$422.65,5%,paypal
+ORD-10922,CUST_1227,56.0,female,"63,094.97",Texas,09/09/2023,clothing,1,0.00,0%,CC
+ORD-10119,CUST_1008,,Male,45740.17,texas,"Aug 16, 2023",Beauty & Personal Care,2, $95.56 USD ,20%,PayPal
+ORD-11771,CUST_1191,38.0,female,26583.61, CA ,"Nov 03, 2024",Home & Kitchen,2,TBD,0%,credit card
+ORD-10707,CUST_1227,36.0,F,"80,525.71",Texas,04/03/2023,Home & Kitchen,3,224.12,0%,UPI / Wallet
+ORD-11794,CUST_1058,29.0,female,"$45,271.94",california,nan,electronics,1,70.85,15%,CC
+ORD-10523,CUST_1042,26.0,Male,"54,756.70",Florida,"Jul 13, 2024", Electronics ,3,$114.92,15%,PayPal
+ORD-11262,CUST_1355,,Male,$ 106911.01,Washington,13.11.2023,electronics,1,346.15,15%,Debit Card
+ORD-10514,CUST_1464,,Female,"54,080.71",nan,15.11.2024,sports & outdoors,2, $165.39 USD ,10%,PayPal
+ORD-10082,CUST_1387,54.0,female,"$42,696.03",nan,06/07/2024,Books,1,84.27,20%,PAYPAL
+ORD-11669,CUST_1170,65.0,?,null,california,09.04.2023,Home & Kitchen,0,$318.17,5%,UPI / Wallet
+ORD-10819,CUST_1161,40.0,Other,$ 69523.80,WA,11/04/2023,CLOTHING,3, $204.26 USD ,15%,PayPal
+ORD-11088,CUST_1524,31.0,Male,"68,793.75",FL,23.09.2023,Books,2,$27.61,15%,Cash
+ORD-10381,CUST_1269,,Female,unknown,Washington,04/27/2023,electronics,1,207.05,0%,PayPal
+ORD-11474,CUST_1317,35.0,Male,$ 52470.95,New York,Invalid Date,Home & Kitchen,2, $28.96 USD ,15%,cash
+ORD-11933,CUST_1597,25.0,MALE,"52,232.93",texas,nan,electronics,1, $351.58 USD ,0%,PayPal
+ORD-10085,CUST_1214,37.0,Male,57239.45,WA,27.03.2023,Beauty & Personal Care,2,424.44,0%,Cash
+ORD-11784,CUST_1304,42.0,Male,17800.67,NY,2023-11-16,Beauty & Personal Care,1,440.92,5%,credit card
+ORD-10673,CUST_1586,34.0,M,30384.8,texas,2023-02-13,electronics,2,$187.00,10%,credit card
+ORD-10330,CUST_1057,16.0,Male,"49,882.77",NY,"Oct 25, 2023",clothing,2,$41.95,5%,Cash
+ORD-10007,CUST_1218,29.0,M,"72,989.42",WA,29.08.2023,Home & Kitchen,3,123.44,20%,Debit Card
+ORD-11432,CUST_1286,30.0,Female,$ 130335.46,texas,2023-99-99,Home & Kitchen,1,218.67,20%,CC
+ORD-10941,CUST_1575,16.0,Female,"113,637.81",FL,2023-99-99,Books,3,$211.28,10%,paypal
+ORD-11840,CUST_1024,16.0,male,"69,283.22",Texas,"Apr 12, 2023",electronics,1, $276.09 USD ,20%,cash
+ORD-10165,CUST_1277,52.0,female,$ 87875.00,FL,"Jun 25, 2024", Electronics ,2,45.03,20%,nan
+ORD-11231,CUST_1406,,female,67841.02,TX,08/16/2024,Home & Kitchen,2,$44.95,15%,nan
+ORD-10452,CUST_1587,32.0,male,74302.36,TX,2023-01-20,electronics,1,220.57,0%,PAYPAL
+ORD-10491,CUST_1184,42.0,Female,"36,161.88", CA ,"Apr 07, 2023",Home & Kitchen,2,nan,5%,UPI / Wallet
+ORD-11936,CUST_1145,68.0,M,$ 69169.08,TX,21.05.2023,sports & outdoors,1,$378.45,0%,Debit Card
+ORD-10288,CUST_1518,16.0,male,57151.58,IL,01/02/2024,clothing,1,0.00,0%,paypal
+ORD-11134,CUST_1463,41.0,unknown,"101,500.43",California,2023-99-99,clothing,1, $105.02 USD ,5%,PayPal
+ORD-10088,CUST_1014,45.0,Male,$ 40242.17,Florida,"Nov 05, 2023",Beauty & Personal Care,2,TBD,10%,nan
+ORD-11457,CUST_1244,22.0,male,"103,577.71",NY,2023-01-25,sports & outdoors,3,$243.40,20%,PayPal
+ORD-11551,CUST_1102,46.0,Female,34482.94,IL,nan,electronics,3,159.91,0%,nan
+ORD-11865,CUST_1032,46.0,male,"70,103.85",texas,03/30/2024,CLOTHING,1,109.03,0%,UPI / Wallet
+ORD-10904,CUST_1572,44.0,Female,nan, CA ,2024-04-13,Home & Kitchen,1,nan,15%,nan
+ORD-11810,CUST_1119,29.0,M,83384.08,california,02.08.2024,electronics,3,$334.25,5%,debit_card
+ORD-10901,CUST_1256,38.0,Female,"62,555.03", CA ,2024-09-19,CLOTHING,2,160.58,10%,credit card
+ORD-10434,CUST_1385,48.0,female,"102,769.62",WA,2023-04-01,sports & outdoors,3,419.52,15%,PAYPAL
+ORD-11281,CUST_1223,61.0,Female,54893.54,New York,2023-99-99, Electronics ,4,FREE,10%,credit card
+ORD-11912,CUST_1039,54.0,Female,"64,097.62",IL,2023-99-99, Electronics ,1, $145.93 USD ,0%,cash
+ORD-11190,CUST_1545,38.0,female,66871.39,Illinois,05.07.2024,Books,3,TBD,20%,credit card
+ORD-11755,CUST_1451,28.0,male,"85,321.74",California,2023-09-27, Electronics ,1,$165.14,20%,Debit Card
+ORD-10328,CUST_1469,46.0,Male,"$9,999,999.00",Texas,2023-99-99,electronics,1,$257.80,15 %,PAYPAL
+ORD-11227,CUST_1169,37.0,Male,$ - ,California,nan,Books,3,0.00,0%,cash
+ORD-10443,CUST_1299,28.0,FEMALE,"$33,063.08",Washington,22.11.2023,clothing,1, $315.07 USD ,25%,UPI / Wallet
+ORD-11377,CUST_1210,43.0,Male,"51,994.68",California,23.05.2024,Home & Kitchen,2,$34.35,5%,UPI / Wallet
+ORD-10874,CUST_1329,30.0,M,"$47,194.18",IL,26.06.2023,sports & outdoors,1,$323.40,0%,PAYPAL
+ORD-11989,CUST_1120,37.0,male,37749.79,NY,2023-05-01,Home & Kitchen,5,59.91,nan,CC
+ORD-10349,CUST_1419,53.0,male,"$51,876.61",IL,"Jun 05, 2024",CLOTHING,1,FREE,15 %,credit card
+ORD-10995,CUST_1202,24.0,M,$ 46511.52,Texas,"Feb 10, 2024",Books,1, $360.55 USD ,0%,cash
+ORD-10178,CUST_1489,38.0,Female,"69,142.26",IL,2024-08-24,Books,5, $251.85 USD ,0%,Credit Card
+ORD-11327,CUST_1124,38.0,female,$ 68965.02,California,2023-02-24,electronics,1,122.04,15%,nan
+ORD-11035,CUST_1398,38.0,female,45863.18,nan,2024-05-29,CLOTHING,2, $434.89 USD ,0%,debit_card
+ORD-10087,CUST_1359,46.0,male,"68,509.95",Illinois,"Nov 14, 2023",Books,3,$253.20,10%,Cash
+ORD-11502,CUST_1027,34.0,female,$ 107127.47,New York,14.04.2023,Beauty & Personal Care,4,TBD,0%,CC
+ORD-11517,CUST_1460,36.0,MALE,"$90,896.23",Illinois,2023-99-99, Electronics ,2,FREE,0%,paypal
+ORD-10458,CUST_1283,36.0,Female,null,California,2023-99-99,Home & Kitchen,2,292.27,15%,nan
+ORD-10778,CUST_1526,28.0,Female,65592.51,Texas,Invalid Date,sports & outdoors,1,0.00,5%,debit_card
+ORD-11949,CUST_1098,35.0,female,"108,044.06",Texas,nan,electronics,1,116.72,20%,cash
+ORD-10055,CUST_1575,32.0,F,$ 27662.00, CA ,"Jun 12, 2024",CLOTHING,1, $91.73 USD ,20%,PAYPAL
+ORD-11600,CUST_1231,19.0,male,"45,323.78",Illinois,"May 01, 2023", Electronics ,1,137.02,0%,paypal
+ORD-10644,CUST_1034,30.0,M,"40,295.30",TX,26.08.2024,CLOTHING,2,0.00,0%,UPI / Wallet
+ORD-10678,CUST_1290,52.0,Female,74270.89,WA,05/21/2024, Electronics ,1,431.98,10%,paypal
+ORD-10222,CUST_1299,46.0,Male,$ 90004.45,california,nan, Electronics ,3,$384.39,15%,debit_card
+ORD-10114,CUST_1382,40.0,?,$ 56909.94,Texas,2023-05-29,Beauty & Personal Care,1,nan,0%,debit_card
+ORD-11415,CUST_1444,35.0,Male,$ 76011.14,Texas,07/22/2023,CLOTHING,1, $120.78 USD ,0%,debit_card
+ORD-11732,CUST_1329,44.0,Male,"88,079.17",FL,09.02.2023,electronics,1,214.76,5%,PAYPAL
+ORD-11076,CUST_1243,19.0,Female,$ 76214.34,California,2024-03-03,clothing,1, $56.75 USD ,0%,Credit Card
+ORD-10175,CUST_1053,33.0,male,77078.83,Florida,"May 18, 2023", Electronics ,1,TBD,0%,Debit Card
+ORD-11158,CUST_1355,43.0,female,"$61,998.07",Washington,10/11/2024,Home & Kitchen,1,380.7,15%,PAYPAL
+ORD-10590,CUST_1062,27.0,Female,50686.88,New York,nan,sports & outdoors,1,0.00,0%,Debit Card
+ORD-10915,CUST_1206,63.0,male,"57,875.48",New York,07.02.2023,CLOTHING,2, $248.75 USD ,10%,UPI / Wallet
+ORD-11658,CUST_1573,16.0,Male,$ 52651.81,WA,Invalid Date,Beauty & Personal Care,1,$212.20,15%,CC
+ORD-10019,CUST_1036,56.0,female,$ 88716.86,Florida,23.05.2023,clothing,2,30.63,20%,PayPal
+ORD-10424,CUST_1324,37.0,Male,$ 22885.07,Washington,06/13/2024,Beauty & Personal Care,1,225.42,0%,Cash
+ORD-11428,CUST_1499,34.0,Female,"$9,999,999.00",california,"Jul 04, 2023",CLOTHING,2,nan,15%,credit card
+ORD-10286,CUST_1334,67.0,Male,79313.53,IL,2024-01-04,clothing,1,FREE,0%,paypal
+ORD-11682,CUST_1023,51.0,male,101676.51,FL,"Dec 04, 2023",Books,4,392.48,20%,CC
+ORD-10429,CUST_1253,47.0,nan,82593.44,texas,09/25/2023,clothing,1,75.2,0%,cash
+ORD-11608,CUST_1524,67.0,Male,"69,457.65",Illinois,2024-01-30,Books,1, $34.03 USD ,0%,Credit Card
+ORD-11178,CUST_1165,47.0,female,"60,244.22",Texas,2023-99-99,Beauty & Personal Care,1,96.61,nan,credit card
+ORD-10670,CUST_1055,51.0,female,89243.3,Illinois,26.02.2024,Books,3,nan,0%,Cash
+ORD-10032,CUST_1213,39.0,nan,"$46,447.77",Illinois,2023-11-01,Home & Kitchen,1, $335.64 USD ,15%,PAYPAL
+ORD-11044,CUST_1435,37.0,Male,$ 75494.28,TX,05/01/2024,electronics,4,193.97,5%,PAYPAL
+ORD-10723,CUST_1577,49.0,unknown,$ 67036.77,TX,nan,Books,1, $290.71 USD ,10%,cash
+ORD-11455,CUST_1136,28.0,female,"$81,523.96",Florida,Invalid Date, Electronics ,1,nan,15%,UPI / Wallet
+ORD-10215,CUST_1292,43.0,M,65819.17,Washington,01.12.2023,electronics,1, $209.18 USD ,10%,paypal
+ORD-11985,CUST_1390,30.0,female,$ 95982.86,TX,27.05.2023,Beauty & Personal Care,0,FREE,0%,credit card
+ORD-11379,CUST_1189,27.0,Female,"$47,114.79",New York,nan,clothing,1,98.1,15%,nan
+ORD-10893,CUST_1569,26.0,F,66988.76,nan,09/17/2024,clothing,1, $435.17 USD ,0%,cash
+ORD-10327,CUST_1106,48.0,FEMALE,"$44,976.49",Florida,"Nov 03, 2023",Books,999,FREE,20%,Debit Card
+ORD-10561,CUST_1541,40.0,male,$ 29107.00,TX,02/24/2023,CLOTHING,1,nan,10%,Credit Card
+ORD-11186,CUST_1083,36.0,Other,null,WA,Invalid Date,Home & Kitchen,1,20.29,0%,Cash
+ORD-10701,CUST_1498,39.0,F,"76,294.37",California,2023-12-26,electronics,1,TBD,5%,credit card
+ORD-10846,CUST_1292,21.0,Male,"$57,994.89",texas,2023-99-99,Books,2,412.89,0%,Credit Card
+ORD-11526,CUST_1542,57.0,male,N/A,Texas,"Apr 07, 2024",Books,1,413.17,10%,Credit Card
+ORD-10342,CUST_1333,21.0,Female,$ 74809.45,FL,31.12.2023,Books,-1,$159.74,5%,cash
+ORD-10630,CUST_1075,26.0,MALE,$ 79840.65,TX,nan,Books,2,TBD,20%,cash
+ORD-10148,CUST_1201,51.0,F,"$77,026.26",TX,09.12.2023,sports & outdoors,2,$276.84,20%,CC
+ORD-11271,CUST_1413,34.0,Female,76107.36,TX,06/06/2023,Home & Kitchen,3,271.71,5%,CC
+ORD-10361,CUST_1442,16.0,Male,$ 71541.66,California,"Mar 22, 2024",CLOTHING,5,$411.64,10%,credit card
+ORD-10084,CUST_1501,56.0,female,58354.43,IL,11/16/2023,sports & outdoors,2,300.79,0%,PAYPAL
+ORD-10049,CUST_1132,35.0,Female,"107,537.07",texas,2023-99-99, Electronics ,1,116.01,5%,debit_card
+ORD-10469,CUST_1442,38.0,Female,57641.74,IL,04/01/2023, Electronics ,3,$412.74,10%,cash
+ORD-10156,CUST_1451,17.0,Female,"63,121.50",WA,11/09/2024,electronics,2,34.48,15%,CC
+ORD-10931,CUST_1065,57.0,Female,"54,001.46",FL,30.03.2023,sports & outdoors,2,nan,20%,CC
+ORD-11101,CUST_1070,41.0,male,78867.97,texas,07/05/2024,Books,1, $383.94 USD ,0%,UPI / Wallet
+ORD-11287,CUST_1131,49.0,nan,"80,055.49",WA,"Jan 12, 2023",electronics,1, $59.56 USD ,10%,Credit Card
+ORD-11494,CUST_1407,23.0,female,80796.14,Texas,2023-99-99,clothing,1,0.00,15 %,nan
+ORD-11448,CUST_1059,23.0,Female,"45,500.72",nan,2024-03-25,Books,1, $402.04 USD ,10%,PayPal
+ORD-11731,CUST_1599,46.0,MALE,N/A,FL,2024-06-08,CLOTHING,1, $327.77 USD ,20%,nan
+ORD-10501,CUST_1571,21.0,Female,$ 71683.64,FL,"Sep 23, 2024",electronics,1,35.2,0%,Debit Card
+ORD-11879,CUST_1476,48.0,M,"$114,839.91",New York,05/25/2024,Beauty & Personal Care,3, $366.08 USD ,5%,PayPal
+ORD-10180,CUST_1159,57.0,Male,38862.08,Washington,"Feb 26, 2024",clothing,1,310.63,5%,cash
+ORD-11117,CUST_1464,42.0,male,"$9,999,999.00",Washington,"Jul 13, 2024",Beauty & Personal Care,1,111.4,0%,nan
+ORD-11869,CUST_1135,35.0,M,$ 69714.88,Illinois,2023-04-19,Home & Kitchen,1,0.00,20%,credit card
+ORD-11340,CUST_1197,16.0,male,"120,933.78",Florida,2023-99-99,CLOTHING,1,$277.88,5%,UPI / Wallet
+ORD-10994,CUST_1587,47.0,male,nan,texas,2024-01-14,CLOTHING,1,177.48,20%,debit_card
+ORD-11230,CUST_1095,50.0,M,"$83,362.98",Washington,nan,CLOTHING,1,234.7,15%,debit_card
+ORD-11720,CUST_1566,51.0,male,47554.65,Florida,2023-99-99,Books,1,$136.96,nan,PAYPAL
+ORD-10529,CUST_1008,23.0,Male,nan,Illinois,"Aug 23, 2023",Home & Kitchen,1, $79.93 USD ,20%,cash
+ORD-10347,CUST_1329,,male,"101,913.57",TX,2023-01-19,Home & Kitchen,1,249.13,20%,Debit Card
+ORD-10285,CUST_1029,36.0,Female,"51,545.42",Illinois,06/03/2024,Beauty & Personal Care,1,0.00,10%,Cash
+ORD-10609,CUST_1309,58.0,Male,"$80,160.89",New York,01/03/2023,electronics,3,0.00,0%,Cash
+ORD-11038,CUST_1290,42.0,M,"$95,809.26",NY,15.12.2023,sports & outdoors,1, $127.88 USD ,15%,paypal
+ORD-10386,CUST_1166,42.0,Female,"63,652.52",IL,"Mar 12, 2024",sports & outdoors,1,349.83,10%,cash
+ORD-10964,CUST_1468,30.0,female,"67,280.67",TX,Invalid Date,electronics,2,$22.97,15%,UPI / Wallet
+ORD-11084,CUST_1111,48.0,FEMALE,"98,613.31",FL,10.04.2024,Home & Kitchen,2,$260.49,10%,CC
+ORD-10602,CUST_1326,43.0,unknown,$ 64122.08,IL,2023-99-99,electronics,1, $398.09 USD ,20%,PayPal
+ORD-11119,CUST_1352,16.0,Male,15000.0,New York,03.03.2024,clothing,1,$348.90,nan,PayPal
+ORD-10244,CUST_1471,29.0,M,$ 57280.10,Florida,nan,Beauty & Personal Care,1,334.69,20%,cash
+ORD-11014,CUST_1153,38.0,F,N/A,california,"Feb 19, 2024",sports & outdoors,1, $274.85 USD ,0%,PAYPAL
+ORD-10803,CUST_1581,16.0,Female,"$28,930.30",WA,10/26/2023,electronics,2,252.73,0%,PAYPAL
+ORD-11138,CUST_1025,32.0,Male,"$84,666.98",WA,"Jan 12, 2023",Home & Kitchen,1,334.52,0%,CC
+ORD-11572,CUST_1009,66.0,M,"72,977.35",Illinois,09.12.2023,clothing,2,0.00,0%,PAYPAL
+ORD-10313,CUST_1535,31.0,Female,"56,874.08",TX,10/20/2024,clothing,1,$375.97,15%,Credit Card
+ORD-10436,CUST_1239,26.0,Male,"41,373.07",california,2024-08-11,Home & Kitchen,0,nan,0%,nan
+ORD-11695,CUST_1434,67.0,Male,74675.11,Florida,06/07/2024, Electronics ,3,309.55,0%,CC
+ORD-10137,CUST_1381,50.0,Female,63131.91,texas,09.11.2024,Books,1, $352.39 USD ,15%,cash
+ORD-10309,CUST_1071,31.0,?,70958.57,california,02/21/2023,CLOTHING,1, $388.56 USD ,10%,PAYPAL
+ORD-10431,CUST_1071,16.0,M,$ 31846.76,New York,10/27/2024,Home & Kitchen,2,$207.21,20%,paypal
+ORD-10661,CUST_1561,24.0,Male,67526.69,FL,nan,Home & Kitchen,2,nan,20%,credit card
+ORD-10371,CUST_1592,32.0,Male,"73,257.29",nan,nan,clothing,2,248.71,15%,paypal
+ORD-10567,CUST_1458,58.0,M,48494.13, CA ,16.06.2024,Books,1,364.79,25%,Cash
+ORD-11925,CUST_1269,32.0,Male,112014.0,California,"Jan 25, 2023",sports & outdoors,1,$62.71,5%,UPI / Wallet
+ORD-11269,CUST_1312,60.0,Female,32483.09,WA,Invalid Date,Beauty & Personal Care,1, $411.36 USD ,0%,UPI / Wallet
+ORD-10825,CUST_1554,34.0,Male,"$49,682.89",California,2024-09-14,Beauty & Personal Care,2,360.09,5%,PAYPAL
+ORD-10182,CUST_1272,16.0,unknown,"63,824.84",WA,nan,clothing,1,$285.72,15 %,CC
+ORD-11814,CUST_1553,,male,"86,406.39",NY,"Jun 23, 2024",electronics,1, $267.40 USD ,0%,paypal
+ORD-10622,CUST_1061,29.0,F,"$54,078.88",Washington,"Jan 10, 2024",CLOTHING,3,$314.24,15%,debit_card
+ORD-11299,CUST_1596,39.0,Female,"$108,994.74",nan,2023-99-99,sports & outdoors,1,$140.34,5%,Cash
+ORD-11288,CUST_1452,52.0,female,null,TX,2023-99-99,Home & Kitchen,2,$118.87,10%,nan
+ORD-11847,CUST_1236,38.0,Female,"48,210.02",Illinois,"Jun 07, 2024",clothing,1,TBD,15 %,Debit Card
+ORD-10814,CUST_1275,53.0,FEMALE,$ - ,Florida,"Jun 09, 2024",electronics,1, $228.00 USD ,5%,credit card
+ORD-11089,CUST_1284,27.0,Male,78140.64,California,2023-99-99,electronics,1,427.59,nan,Cash
+ORD-11962,CUST_1586,39.0,M,$ 52711.29,Washington,11/07/2024,electronics,-3,$249.09,15%,Cash
+ORD-10779,CUST_1206,16.0,Male,53033.65,New York,18.05.2023, Electronics ,1,FREE,0%,PayPal
+ORD-11754,CUST_1495,,male,74802.2,TX,2024-02-04,Beauty & Personal Care,1,84.12,5%,PayPal
+ORD-10297,CUST_1330,46.0,Male,55604.48,texas,"Apr 27, 2023",CLOTHING,1,106.11,5%,nan
+ORD-11358,CUST_1357,52.0,FEMALE,"$25,761.32", CA ,2024-10-03,Beauty & Personal Care,2,TBD,15%,PayPal
+ORD-10462,CUST_1569,36.0,MALE,$ 69171.23,New York,10/15/2023,CLOTHING,2,306.04,10%,Credit Card
+ORD-11387,CUST_1399,57.0,female,$ 93500.13,FL,nan,clothing,1,TBD,20%,nan
+ORD-11250,CUST_1378,39.0,MALE,92471.99,New York,Invalid Date,electronics,2,nan,15 %,Credit Card
+ORD-10378,CUST_1313,57.0,Female,"$57,437.59",Washington,04/28/2024,CLOTHING,1,TBD,25%,UPI / Wallet
+ORD-10799,CUST_1524,38.0,Female,$ 45460.32,Illinois,26.06.2024,clothing,2,FREE,0%,Debit Card
+ORD-11176,CUST_1029,48.0,M,"92,747.26",FL,Invalid Date, Electronics ,3, $172.95 USD ,20%,nan
+ORD-10106,CUST_1218,40.0,male,"71,037.71",New York,2023-03-14,CLOTHING,2,FREE,15%,UPI / Wallet
+ORD-10127,CUST_1188,16.0,Male,"118,142.04",california,12/02/2023,Books,1,$226.67,15%,nan
+ORD-11024,CUST_1486,41.0,female,"$58,323.95",WA,nan,Beauty & Personal Care,1,70.53,10%,Credit Card
+ORD-11959,CUST_1359,41.0,Female,80566.01,Washington,"Mar 01, 2024", Electronics ,2,$154.80,0%,PayPal
+ORD-10888,CUST_1059,58.0,male,"$9,999,999.00",texas,2024-07-23,electronics,1,88.63,20%,Cash
+ORD-11520,CUST_1499,17.0,Female,$ 76678.87,Washington,16.08.2024,CLOTHING,1,FREE,15%,PayPal
+ORD-10949,CUST_1344,34.0,Other,"68,105.18",Florida,"Nov 21, 2024",sports & outdoors,2,FREE,5%,PAYPAL
+ORD-10356,CUST_1396,47.0,Female,"$37,311.39",California,Invalid Date,CLOTHING,1,329.16,5%,Debit Card
+ORD-11717,CUST_1501,41.0,male,$ 41483.57,NY,2023-12-27,Books,1,393.98,5%,Cash
+ORD-10683,CUST_1366,63.0,female,$ 104394.29,NY,08/11/2023,Beauty & Personal Care,0,$54.59,0%,Cash
+ORD-11816,CUST_1223,60.0,Female,unknown, CA ,10/11/2024,Beauty & Personal Care,1, $254.68 USD ,15%,nan
+ORD-11132,CUST_1442,66.0,Female,"$47,725.79",Washington,2023-99-99,clothing,1,$420.69,5%,credit card
+ORD-10988,CUST_1558,47.0,Female,"$72,893.40",FL,04.10.2023, Electronics ,1,356.74,25%,UPI / Wallet
+ORD-10210,CUST_1018,16.0,M,$ 78223.68,nan,09/25/2024,Books,1,0.00,10%,PayPal
+ORD-11736,CUST_1535,22.0,male,$ 80081.08,New York,nan,sports & outdoors,2, $119.18 USD ,15%,UPI / Wallet
+ORD-10141,CUST_1450,27.0,MALE,"96,127.87",IL,04.10.2023,electronics,2,$197.75,5%,cash
+ORD-11532,CUST_1129,31.0,Other,$ 83661.19,TX,2024-04-29,Home & Kitchen,5, $52.29 USD ,0%,debit_card
+ORD-11424,CUST_1571,39.0,Female,"$70,851.85", CA ,"Sep 28, 2024",Books,1,$350.49,10%,credit card
+ORD-11675,CUST_1527,46.0,Male,"$35,677.16",texas,Invalid Date,CLOTHING,-1,FREE,0%,CC
+ORD-11673,CUST_1302,52.0,F,"$44,662.22",texas,"Apr 30, 2024",Books,1,120.34,15%,cash
+ORD-11891,CUST_1518,49.0,Female,"$75,584.55", CA ,2023-11-25,clothing,1,nan,20%,Cash
+ORD-11953,CUST_1468,57.0,M,"$51,371.28",Texas,04.11.2024,sports & outdoors,2, $264.14 USD ,10%,Debit Card
+ORD-11765,CUST_1001,30.0,unknown,"$9,999,999.00",IL,10/29/2023, Electronics ,1, $79.13 USD ,10%,paypal
+ORD-10712,CUST_1087,54.0,Female,113893.06,nan,05/01/2024,Home & Kitchen,2,$420.10,0%,paypal
+ORD-11348,CUST_1588,30.0,Female,$ 80099.25,California,24.03.2024,Books,1,TBD,0%,nan
+ORD-10980,CUST_1053,55.0,M,15000.0,Florida,Invalid Date,Beauty & Personal Care,1, $167.18 USD ,5%,paypal
+ORD-11787,CUST_1319,68.0,M,$ 62815.56,Florida,nan,CLOTHING,1,361.01,15%,Debit Card
+ORD-10967,CUST_1169,16.0,Female,"87,159.98",FL,2023-04-21,Home & Kitchen,1,$401.13,20%,PayPal
+ORD-11005,CUST_1278,50.0,Female,"$115,271.98",california,2024-10-30, Electronics ,2,$120.45,20%,Credit Card
+ORD-10011,CUST_1416,34.0,male,"$48,459.34",Illinois,"Sep 01, 2024",Books,3,$154.54,10%,Debit Card
+ORD-11802,CUST_1183,22.0,MALE,"69,586.95",FL,nan,CLOTHING,1,$431.77,20%,PayPal
+ORD-11197,CUST_1469,66.0,Male,$ 70404.10,texas,08.01.2024,electronics,1,TBD,0%,credit card
+ORD-10283,CUST_1378,29.0,Female,unknown,california,06/21/2023, Electronics ,1, $122.62 USD ,15%,nan
+ORD-10811,CUST_1245,34.0,F,$ - ,FL,"Jul 02, 2023",Home & Kitchen,2,$143.88,20%,debit_card
+ORD-11164,CUST_1250,46.0,male,$ 50769.02,Washington,03/24/2023,Home & Kitchen,2,420.28,10%,UPI / Wallet
+ORD-10292,CUST_1466,35.0,female,$ 50715.28,NY,"Oct 07, 2024", Electronics ,1,TBD,0%,paypal
+ORD-10932,CUST_1301,16.0,nan,"$66,281.22",California,12/28/2023,Home & Kitchen,1,$164.97,20%,PAYPAL
+ORD-10755,CUST_1373,48.0,F,15000.0,IL,01/15/2024,sports & outdoors,3,314.33,25%,Cash
+ORD-10627,CUST_1397,,male,20047.86,california,"Aug 12, 2023", Electronics ,4,205.82,20%,cash
+ORD-11188,CUST_1422,16.0,female,"$80,301.92",nan,Invalid Date,CLOTHING,4,TBD,10%,Credit Card
+ORD-10977,CUST_1598,33.0,M,"$57,172.54",california,11/29/2023,sports & outdoors,1, $168.93 USD ,5%,cash
+ORD-10130,CUST_1254,41.0,Female,"$55,125.90", CA ,nan,Home & Kitchen,1,FREE,5%,CC
+ORD-11838,CUST_1579,44.0,n/a,"61,646.31",Texas,2023-99-99,Books,2,$331.10,0%,CC
+ORD-10844,CUST_1556,21.0,MALE,"$85,606.17",FL,2024-03-30,CLOTHING,1,290.98,10%,Debit Card
+ORD-10324,CUST_1183,67.0,female,"$20,349.25",NY,2023-99-99,clothing,3, $274.83 USD ,10%,PayPal
+ORD-11162,CUST_1230,35.0,Male,"$60,111.13",Illinois,"Jan 16, 2023",CLOTHING,2, $318.02 USD ,20%,credit card
+ORD-11714,CUST_1256,62.0,Female,55868.16,Washington,09/15/2023,clothing,1,26.88,15%,CC
+ORD-11053,CUST_1030,31.0,Female,$ 89902.44,New York,08/18/2023,clothing,1,91.8,15%,CC
+ORD-11987,CUST_1005,16.0,Female,"68,114.62", CA ,11.11.2024,sports & outdoors,1, $281.97 USD ,15%,PAYPAL
+ORD-11790,CUST_1079,17.0,Female,"51,973.30",california,06/18/2023,clothing,2,$136.00,10%,Cash
+ORD-10989,CUST_1400,40.0,male,35809.52,Washington,nan,electronics,1,nan,0%,Credit Card
+ORD-10696,CUST_1244,43.0,Male,"$41,368.79", CA ,2024-08-19,sports & outdoors,1,321.69,15%,paypal
+ORD-11422,CUST_1211,37.0,female,$ 59739.22,nan,"Jul 28, 2024",Beauty & Personal Care,1, $234.04 USD ,20%,Debit Card
+ORD-10216,CUST_1507,36.0,Other,55512.67,FL,2023-03-03, Electronics ,999,0.00,15 %,PAYPAL
+ORD-11166,CUST_1360,39.0,male,"47,765.19", CA ,24.02.2023,electronics,1, $257.42 USD ,10%,Debit Card
+ORD-11112,CUST_1016,25.0,female,"66,821.47",Florida,2024-10-19,Home & Kitchen,1,$242.88,0%,Debit Card
+ORD-11343,CUST_1175,39.0,Male,76323.42,FL,05/23/2024,sports & outdoors,5,94.32,20%,nan
+ORD-10159,CUST_1201,17.0,male,"28,048.00",Florida,05.10.2023,Home & Kitchen,2,$250.64,10%,CC
+ORD-11256,CUST_1580,24.0,Other,"$9,999,999.00",texas,"Jun 10, 2024",Beauty & Personal Care,1,$26.82,15%,Cash
+ORD-11129,CUST_1074,30.0,Male,$ 88206.38,WA,nan,Beauty & Personal Care,2,179.27,10%,PayPal
+ORD-11081,CUST_1566,32.0,Female,$ 80043.50,NY,29.06.2024,sports & outdoors,4,$129.16,10%,PayPal
+ORD-11330,CUST_1010,36.0,male,"86,199.46",California,06.12.2023, Electronics ,2,245.62,0%,Debit Card
+ORD-10842,CUST_1589,40.0,Female,"79,105.88",NY,09/07/2023,sports & outdoors,4,nan,20%,CC
+ORD-10635,CUST_1217,47.0,Female,$ 84826.64,california,26.02.2023,electronics,1,$353.13,15%,Cash
+ORD-10517,CUST_1438,40.0,Male,69833.72,WA,07/13/2023,CLOTHING,1,nan,5%,UPI / Wallet
+ORD-11983,CUST_1382,26.0,female,62879.05,WA,04/06/2024,electronics,3,$378.22,10%,UPI / Wallet
+ORD-11619,CUST_1440,39.0,Male,"41,370.84",texas,2023-11-10,CLOTHING,3,41.17,0%,nan
+ORD-10598,CUST_1424,,Male,"$38,905.74",IL,"Dec 08, 2023",Books,1,nan,20%,Cash
+ORD-10196,CUST_1514,52.0,male,$ 79808.14,New York,"Sep 17, 2024",CLOTHING,999,85.82,20%,UPI / Wallet
+ORD-11746,CUST_1331,53.0,male,$ 63539.13,New York,Invalid Date,CLOTHING,1,72.55,0%,PAYPAL
+ORD-10986,CUST_1219,39.0,Male,"81,869.33",Florida,2023-99-99,electronics,1,$94.43,10%,PayPal
+ORD-10951,CUST_1202,54.0,Male,"27,121.03",WA,nan,Beauty & Personal Care,1,$419.87,5%,debit_card
+ORD-10411,CUST_1177,17.0,M,"47,920.17",NY,2023-12-26,electronics,3, $304.20 USD ,10%,paypal
+ORD-10097,CUST_1220,16.0,F,"$87,344.23",California,nan,Books,3,$190.80,10%,PayPal
+ORD-10441,CUST_1520,53.0,Male,null,California,2024-07-13,clothing,1,420.64,15%,cash
+ORD-10550,CUST_1373,40.0,nan,$ 61993.42,TX,nan, Electronics ,1,170.07,20%,debit_card
+ORD-10157,CUST_1202,33.0,Female,"$61,385.46",texas,2023-99-99,electronics,5,nan,20%,PAYPAL
+ORD-10420,CUST_1204,38.0,Female,64042.53,NY,"Nov 22, 2024",Books,1, $43.62 USD ,0%,Credit Card
+ORD-10923,CUST_1251,38.0,M,$ 18493.04,california,2023-01-01,Beauty & Personal Care,1,FREE,15%,Debit Card
+ORD-11921,CUST_1447,38.0,M,"33,766.46",nan,04/30/2024,clothing,1,239.41,10%,CC
+ORD-10478,CUST_1364,63.0,M,47678.56,California,"Oct 14, 2024",Books,1,$91.03,5%,credit card
+ORD-11978,CUST_1006,42.0,Female,$ 86650.09,Washington,Invalid Date,clothing,3,34.41,10%,cash
+ORD-10669,CUST_1408,46.0,Male,47817.2, CA ,2023-11-10,sports & outdoors,3,TBD,5%,Debit Card
+ORD-11395,CUST_1300,33.0,female,$ 75449.64,NY,25.09.2023, Electronics ,3,FREE,0%,PayPal
+ORD-11995,CUST_1423,28.0,M,"59,553.02",NY,2023-10-10,sports & outdoors,1,265.33,20%,cash
+ORD-11880,CUST_1586,26.0,male,$ 40475.80,FL,2023-99-99,Beauty & Personal Care,1,$156.26,0%,cash
+ORD-10448,CUST_1110,33.0,male,"32,605.45",WA,"Jul 13, 2024",Home & Kitchen,3,254.0,15%,Cash
+ORD-10554,CUST_1197,20.0,Male,59751.05,NY,"May 29, 2023",Home & Kitchen,1,$41.77,10%,Cash
+ORD-11323,CUST_1338,41.0,Male,"56,797.27",IL,nan,Beauty & Personal Care,1,$102.09,20%,Credit Card
+ORD-10179,CUST_1090,31.0,Male,$ 74438.46,nan,Invalid Date,Books,1,FREE,15%,Cash
+ORD-10391,CUST_1498,,Female,"38,932.97",New York,10.06.2024, Electronics ,1,FREE,15%,cash
+ORD-10579,CUST_1598,60.0,?,$ 48102.06,Texas,10/07/2023,Books,3,$26.57,5%,cash
+ORD-11363,CUST_1306,35.0,FEMALE,N/A,WA,17.05.2024,clothing,2,FREE,5%,nan
+ORD-11815,CUST_1208,24.0,Male,93419.76,TX,11/02/2024,CLOTHING,2, $157.08 USD ,10%,CC
+ORD-11001,CUST_1525,19.0,Female,76556.18,Illinois,2023-04-16,Beauty & Personal Care,1,313.9,0%,Debit Card
+ORD-11369,CUST_1543,31.0,FEMALE,"81,290.51",california,2023-99-99,Home & Kitchen,1,171.8,20%,nan
+ORD-11234,CUST_1498,22.0,male,$ 41172.96,NY,30.10.2023,electronics,2,203.07,10%,PayPal
+ORD-11747,CUST_1516,57.0,female,"98,432.52",NY,10/08/2023,sports & outdoors,4, $416.93 USD ,10%,PAYPAL
+ORD-11878,CUST_1048,27.0,female,"$74,196.71", CA ,nan, Electronics ,1,$299.30,20%,UPI / Wallet
+ORD-10821,CUST_1583,28.0,female,$ 32227.56,nan,20.04.2023,Beauty & Personal Care,2,239.0,15%,Cash
+ORD-10974,CUST_1160,,Female,"78,311.94",texas,05/08/2024,sports & outdoors,1,407.18,0%,PAYPAL
+ORD-11650,CUST_1213,31.0,F,nan,texas,08/13/2023, Electronics ,1,$333.15,15%,Debit Card
+ORD-11945,CUST_1102,18.0,Male,$ 63503.04,Washington,"Apr 08, 2023",Beauty & Personal Care,3,nan,5%,debit_card
+ORD-11007,CUST_1111,40.0,M,"49,552.78",New York,08/07/2023,clothing,1,290.73,15%,Credit Card
+ORD-11068,CUST_1004,33.0,Female,"$56,808.69",WA,28.04.2023,clothing,1, $285.95 USD ,0%,cash
+ORD-11118,CUST_1439,53.0,MALE,"60,892.47",Texas,08/10/2023,sports & outdoors,1,399.18,20%,Debit Card
+ORD-10665,CUST_1474,38.0,M,"$73,567.28",nan,28.10.2024,clothing,1,$277.62,5%,cash
+ORD-11601,CUST_1053,28.0,Female,"$32,048.68", CA ,"Feb 28, 2023",electronics,1,377.07,20%,PayPal
+ORD-10143,CUST_1001,37.0,male,68033.11,WA,Invalid Date, Electronics ,2,nan,10%,nan
+ORD-11615,CUST_1262,51.0,Female,"52,889.49",IL,09/30/2024,clothing,1,FREE,15 %,debit_card
+ORD-11524,CUST_1579,35.0,male,$ 69443.67,New York,nan,electronics,2, $53.09 USD ,0%,PayPal
+ORD-10865,CUST_1158,44.0,Other,38338.56,WA,"Jul 21, 2024",electronics,1,$191.64,15%,PAYPAL
+ORD-10422,CUST_1229,-12.0,female,$ 65692.18,WA,Invalid Date,clothing,1,0.00,20%,paypal
+ORD-10637,CUST_1278,49.0,female,43123.76,California,23.06.2023,clothing,1,191.96,10%,Cash
+ORD-11500,CUST_1147,41.0,female,$ 37610.54,New York,"Jul 15, 2024",CLOTHING,999,TBD,5%,PAYPAL
+ORD-10800,CUST_1127,21.0,Female,$ 57121.76,TX,nan,Home & Kitchen,2,86.92,15%,CC
+ORD-11868,CUST_1578,42.0,Female,87389.64,nan,31.01.2023,Beauty & Personal Care,2,FREE,0%,nan
+ORD-10616,CUST_1445,62.0,Female,59063.83,Texas,"Mar 03, 2024",sports & outdoors,1,FREE,0%,credit card
+ORD-10295,CUST_1499,38.0,male,77418.12,Washington,2024-06-29,Home & Kitchen,2,44.31,0%,cash
+ORD-10840,CUST_1177,48.0,Other,"$57,372.07",Texas,"Sep 17, 2023", Electronics ,1,$237.50,0%,PayPal
+ORD-10953,CUST_1576,27.0,Female,$ 49951.33,New York,2023-99-99, Electronics ,1,$309.76,15 %,PayPal
+ORD-10971,CUST_1239,39.0,Female,$ 60797.32,California,07/15/2023,Books,1, $52.43 USD ,10%,CC
+ORD-10089,CUST_1035,30.0,M,"$56,921.05",california,06/08/2023,Home & Kitchen,2,$334.88,5%,Credit Card
+ORD-10901,CUST_1256,38.0,Female,"62,555.03", CA ,2024-09-19,CLOTHING,2,160.58,10%,credit card
+ORD-10132,CUST_1220,37.0,M,70886.67, CA ,2024-07-09,Home & Kitchen,1, $284.57 USD ,15%,credit card
+ORD-11932,CUST_1511,27.0,M,"$74,641.42",California,"Oct 10, 2024", Electronics ,1,0.00,0%,Credit Card
+ORD-11667,CUST_1474,45.0,Male,"$56,049.00",NY,16.12.2023,Books,1,$174.28,20%,debit_card
+ORD-11430,CUST_1246,43.0,Male,83279.34,Texas,"May 20, 2024",Books,0,236.35,10%,UPI / Wallet
+ORD-11905,CUST_1472,42.0,MALE,unknown,IL,01.03.2024,Beauty & Personal Care,1,310.08,10%,CC
+ORD-10725,CUST_1430,,M,"$35,118.77",texas,2023-99-99,clothing,3,142.84,20%,credit card
+ORD-11689,CUST_1207,55.0,male,"76,995.02",nan,nan, Electronics ,2,275.85,10%,UPI / Wallet
+ORD-10950,CUST_1588,,Female,"$57,019.53",texas,2023-03-06, Electronics ,1, $131.97 USD ,10%,UPI / Wallet
+ORD-11449,CUST_1281,35.0,Male,"42,417.64",FL,nan,Home & Kitchen,2, $232.36 USD ,5%,cash
+ORD-10918,CUST_1263,34.0,F,50215.34,NY,06.09.2024,CLOTHING,4,0.00,5%,cash
+ORD-11565,CUST_1568,27.0,Female,"$42,550.47",IL,01/31/2023,CLOTHING,1,nan,10%,Debit Card
+ORD-11402,CUST_1397,26.0,Female,null,Texas,nan,electronics,2,$186.16,20%,PAYPAL
+ORD-10376,CUST_1032,17.0,female,"$67,697.15",WA,"Jan 21, 2024",sports & outdoors,2, $409.15 USD ,0%,credit card
+ORD-10334,CUST_1204,58.0,M,"$75,767.26",nan,04/03/2024,Beauty & Personal Care,1,$149.72,15%,CC
+ORD-11233,CUST_1519,38.0,female,93332.63,california,05/06/2023,Home & Kitchen,1,TBD,20%,UPI / Wallet
+ORD-11875,CUST_1165,16.0,Female,84095.3,texas,"Mar 17, 2023",Beauty & Personal Care,1,$117.11,10%,debit_card
+ORD-10911,CUST_1361,40.0,male,$ 26088.24,texas,05/29/2023, Electronics ,2, $67.52 USD ,0%,PAYPAL
+ORD-10777,CUST_1406,27.0,Male,$ 45191.49,TX,2023-99-99,clothing,1, $265.96 USD ,15%,UPI / Wallet
+ORD-11199,CUST_1318,36.0,Female,$ 79902.40,WA,nan,electronics,2,FREE,0%,PAYPAL
+ORD-10329,CUST_1135,48.0,F,77270.08,TX,01/10/2024,sports & outdoors,2,$225.98,20%,PAYPAL
+ORD-11628,CUST_1392,19.0,Female,$ 85276.71,WA,2024-08-29,clothing,1, $165.88 USD ,10%,Cash
+ORD-10013,CUST_1144,57.0,male,"125,939.91",NY,Invalid Date,Books,1, $330.79 USD ,0%,PAYPAL
+ORD-10898,CUST_1247,33.0,FEMALE,$ - ,TX,nan,sports & outdoors,1,43.98,10%,PAYPAL
+ORD-10172,CUST_1536,42.0,unknown,$ 50176.35,Illinois,2023-99-99, Electronics ,4,232.67,5%,CC
+ORD-10261,CUST_1030,29.0,Female,33388.83,FL,22.11.2024,Books,1,$193.92,0%,Debit Card
+ORD-11291,CUST_1419,56.0,male,39235.73,Illinois,Invalid Date, Electronics ,1,TBD,5%,Cash
+ORD-11503,CUST_1184,33.0,male,46477.02,Illinois,"Mar 10, 2023",Home & Kitchen,-1,$82.75,5%,cash
+ORD-10902,CUST_1143,19.0,Male,null,NY,11/01/2024,Books,1, $441.44 USD ,10%,Cash
+ORD-10259,CUST_1555,16.0,Male,"$62,344.03",WA,24.06.2023,Home & Kitchen,1,342.32,20%,debit_card
+ORD-10845,CUST_1542,64.0,Male,41834.86,Texas,2023-99-99,Home & Kitchen,5,$266.96,15%,nan
+ORD-10139,CUST_1040,32.0,male,"67,151.89",New York,2023-99-99,sports & outdoors,3, $66.18 USD ,0%,paypal
+ORD-10320,CUST_1247,16.0,FEMALE,72137.48, CA ,Invalid Date,clothing,2,nan,10%,UPI / Wallet
+ORD-11625,CUST_1061,37.0,Male,"100,556.84",New York,"Feb 28, 2024",Beauty & Personal Care,1, $428.24 USD ,0%,cash
+ORD-11315,CUST_1213,43.0,Male,$ 53907.32,TX,07/10/2023, Electronics ,1,$16.79,15%,debit_card
+ORD-11335,CUST_1140,52.0,female,$ - ,NY,2024-10-23,electronics,3, $42.58 USD ,10%,Cash
+ORD-10559,CUST_1475,16.0,Female,"$25,634.34",california,2024-04-01, Electronics ,1,FREE,10%,nan
+ORD-10140,CUST_1533,43.0,Male,null,IL,Invalid Date,Home & Kitchen,1,$414.42,15%,Cash
+ORD-11845,CUST_1282,20.0,Male,52759.08,nan,"Feb 23, 2024",sports & outdoors,1,354.64,15%,Cash
+ORD-10532,CUST_1268,31.0,male,"$48,921.90",IL,"Aug 22, 2023",CLOTHING,1,nan,20%,debit_card
+ORD-10225,CUST_1155,16.0,male,"$65,033.11",TX,2024-07-24, Electronics ,2, $340.29 USD ,15%,PayPal
+ORD-10724,CUST_1055,47.0,Female,"$77,393.52",California,17.07.2023,Home & Kitchen,1,TBD,0%,PayPal
+ORD-11826,CUST_1014,,Male,64586.09,Florida,03/05/2024,Beauty & Personal Care,3,$130.04,10%,CC
+ORD-10326,CUST_1422,50.0,Female,66183.4,WA,2024-06-29,clothing,1, $146.71 USD ,15%,cash
+ORD-11344,CUST_1420,53.0,Male,"$84,305.86",nan,"May 01, 2023",CLOTHING,1,394.01,20%,Cash
+ORD-11152,CUST_1548,43.0,male,"48,969.40",California,10/14/2024,sports & outdoors,1,$38.34,20%,nan
+ORD-10715,CUST_1335,48.0,Female,"84,628.59",WA,17.01.2024, Electronics ,1, $327.18 USD ,15%,PayPal
+ORD-10847,CUST_1444,50.0,male,38700.99,TX,05/27/2023,Beauty & Personal Care,1,$373.26,20%,nan
+ORD-10194,CUST_1175,16.0,MALE,"76,836.13",NY,08.05.2023,clothing,0,FREE,5%,paypal
+ORD-10574,CUST_1046,38.0,Male,"$102,446.13",IL,06/06/2023,CLOTHING,1, $57.82 USD ,10%,UPI / Wallet
+ORD-10947,CUST_1150,42.0,Male,null, CA ,10.06.2024,clothing,5, $133.31 USD ,5%,UPI / Wallet
+ORD-10504,CUST_1228,16.0,Other,nan,Texas,16.01.2024, Electronics ,2, $331.30 USD ,0%,nan
+ORD-11246,CUST_1240,36.0,male,"56,120.99",Washington,2023-03-01, Electronics ,3,$408.08,20%,Cash
+ORD-11339,CUST_1254,39.0,Female,"42,702.44",Texas,nan,electronics,1, $29.80 USD ,20%,PayPal
+ORD-11903,CUST_1198,36.0,male,"74,836.25",NY,2023-99-99,Books,1,0.00,5%,PAYPAL
+ORD-10004,CUST_1428,49.0,male,35699.75,Washington,04/21/2024,clothing,1, $418.10 USD ,15%,Cash
+ORD-11223,CUST_1225,64.0,Male,"83,098.06",california,11.06.2024,clothing,2,$328.62,10%,credit card
+ORD-10468,CUST_1013,46.0,nan,"57,442.99",FL,09/16/2024,CLOTHING,-1,$347.62,15%,nan
+ORD-10006,CUST_1392,26.0,F,57578.9,New York,Invalid Date,Beauty & Personal Care,3,220.41,10%,Credit Card
+ORD-11825,CUST_1057,30.0,Male,"$63,990.95", CA ,Invalid Date,CLOTHING,2,$294.75,15 %,Credit Card
+ORD-10548,CUST_1353,16.0,Male,"41,047.14",NY,15.01.2023,Home & Kitchen,1,347.36,15%,Debit Card
+ORD-10229,CUST_1064,23.0,male,55500.43,texas,10/03/2023,sports & outdoors,1,0.00,0%,PAYPAL
+ORD-11064,CUST_1156,41.0,FEMALE,70785.83,texas,04/25/2024,Books,999, $327.56 USD ,5%,Debit Card
+ORD-10543,CUST_1325,39.0,Female,"81,924.16",IL,nan,clothing,1, $210.09 USD ,10%,paypal
+ORD-10243,CUST_1537,19.0,Male,$ 85491.41,Illinois,2023-10-10,Books,3, $123.51 USD ,5%,Debit Card
+ORD-10899,CUST_1556,38.0,Female,"$46,771.41",California,2024-02-26,clothing,-3,347.51,0%,Debit Card
+ORD-11207,CUST_1587,30.0,Female,$ 76646.49,NY,Invalid Date,CLOTHING,1, $134.21 USD ,10%,CC
+ORD-11929,CUST_1215,,male,60094.53,WA,nan, Electronics ,1,$304.72,10%,paypal
+ORD-11888,CUST_1228,62.0,Male,"38,421.80",WA,09/09/2023,sports & outdoors,2,293.96,0%,paypal
+ORD-10843,CUST_1269,,male,$ 78096.75,TX,27.03.2023,electronics,3, $339.74 USD ,5%,UPI / Wallet
+ORD-11513,CUST_1142,51.0,Male,$ 63761.44,california,"Sep 26, 2023",clothing,1,$410.51,10%,CC
+ORD-11855,CUST_1188,43.0,Male,62990.96,Illinois,Invalid Date,Home & Kitchen,2,TBD,15 %,PAYPAL
+ORD-10277,CUST_1414,16.0,F,101320.27,Florida,09/01/2023,sports & outdoors,1,332.76,0%,cash
+ORD-10662,CUST_1369,40.0,Male,$ 15263.48,Texas,"Jun 24, 2023",CLOTHING,2,$351.29,0%,UPI / Wallet
+ORD-11286,CUST_1210,16.0,Male,null, CA ,2023-05-13,Beauty & Personal Care,1,288.45,10%,PayPal
+ORD-10315,CUST_1334,26.0,female,"$46,188.12",Texas,"Oct 24, 2024",clothing,3,45.03,15%,PayPal
+ORD-10692,CUST_1526,25.0,F,null,Texas,2024-02-16,Beauty & Personal Care,1, $87.10 USD ,25%,CC
+ORD-11602,CUST_1078,32.0,Male,null,texas,"May 09, 2023",Home & Kitchen,1,$108.41,20%,cash
+ORD-10425,CUST_1475,41.0,Female,87906.3,NY,06.11.2024,Home & Kitchen,1, $197.81 USD ,0%,PAYPAL
+ORD-10595,CUST_1512,44.0,Male,"74,628.97",New York,"Jun 25, 2023",sports & outdoors,4,$207.68,10%,Credit Card
+ORD-11373,CUST_1457,,male,53862.78,California,21.03.2024,sports & outdoors,2,$239.02,10%,Cash
+ORD-10623,CUST_1431,35.0,Female,"82,598.49",Florida,"Dec 03, 2023",Beauty & Personal Care,1, $317.48 USD ,20%,paypal
+ORD-11898,CUST_1153,43.0,Male,$ - ,NY,14.09.2024,CLOTHING,1,$207.34,15%,debit_card
+ORD-11113,CUST_1257,42.0,Male,$ 40811.68,Washington,06/27/2023,Books,2,TBD,5%,PAYPAL
+ORD-10228,CUST_1088,40.0,Male,$ 81518.40, CA ,2024-09-22,electronics,2,0.00,15%,Credit Card
+ORD-11191,CUST_1375,45.0,Female,"$48,290.16",Illinois,2023-11-11,sports & outdoors,3, $155.91 USD ,20%,debit_card
+ORD-11724,CUST_1305,,M,"$88,830.52", CA ,12/24/2023,sports & outdoors,1,nan,5%,CC
+ORD-11171,CUST_1343,45.0,n/a,42181.02,texas,2024-09-09,Books,1,0.00,15 %,PAYPAL
+ORD-10067,CUST_1485,29.0,F,28362.76,Washington,2023-99-99,Books,2,$449.72,5%,paypal
+ORD-10025,CUST_1285,45.0,Male,N/A,New York,2023-02-04,clothing,3,$25.12,15%,cash
+ORD-10145,CUST_1270,40.0,male,77314.54,california,2023-10-02,Beauty & Personal Care,0,285.28,0%,nan
+ORD-10537,CUST_1137,31.0,Female,$ 56750.63,Texas,"Feb 19, 2024",CLOTHING,5,$293.38,5%,nan
+ORD-10812,CUST_1020,48.0,Male,15000.0,New York,07/19/2024,CLOTHING,2, $142.82 USD ,20%,paypal
+ORD-11193,CUST_1456,45.0,nan,59359.29,IL,2023-03-14,clothing,2,FREE,0%,PayPal
+ORD-10086,CUST_1589,38.0,M,108144.48,FL,05/23/2023,clothing,1, $291.85 USD ,0%,PayPal
+ORD-11569,CUST_1209,49.0,M,$ 35305.88, CA ,nan,electronics,2,FREE,5%,Credit Card
+ORD-11333,CUST_1128,30.0,Other,"92,857.79",IL,25.05.2023, Electronics ,1, $126.77 USD ,5%,nan
+ORD-11975,CUST_1055,39.0,Male,"$9,999,999.00",california,2023-99-99,clothing,1,$433.02,15%,UPI / Wallet
+ORD-11923,CUST_1169,46.0,Male,null,NY,"Jul 22, 2023", Electronics ,2,TBD,10%,PAYPAL
+ORD-11938,CUST_1520,38.0,Female,$ - ,nan,18.10.2024,Beauty & Personal Care,1, $448.75 USD ,20%,Cash
+ORD-11461,CUST_1369,16.0,M,73743.82,texas,Invalid Date, Electronics ,3,0.00,15%,CC
+ORD-11388,CUST_1360,38.0,Female,77318.05,TX,04/18/2024,electronics,1,101.11,0%,UPI / Wallet
+ORD-10363,CUST_1389,53.0,Female,"95,370.69",California,"Sep 18, 2023",electronics,2, $393.32 USD ,10%,debit_card
+ORD-11712,CUST_1418,24.0,nan,58834.64,New York,2023-99-99,sports & outdoors,1,$181.23,10%,PayPal
+ORD-11226,CUST_1087,20.0,male,"85,966.30",NY,13.05.2024,sports & outdoors,1,0.00,20%,nan
+ORD-11027,CUST_1167,,Male,62158.0,california,10/10/2023,Beauty & Personal Care,1,19.2,15%,Credit Card
+ORD-11031,CUST_1575,37.0,MALE,"$63,404.73",WA,2024-04-21,clothing,1, $124.72 USD ,10%,debit_card
+ORD-10353,CUST_1078,16.0,Other,$ 47077.10,TX,nan,electronics,1,$396.80,0%,Debit Card
+ORD-11442,CUST_1137,38.0,?,39573.89,TX,Invalid Date,CLOTHING,1, $138.34 USD ,0%,Debit Card
+ORD-11284,CUST_1578,36.0,Female,28232.93,TX,nan,CLOTHING,1,0.00,20%,Cash
+ORD-10666,CUST_1337,37.0,Female,"45,632.93",NY,"Oct 31, 2024",Books,-1,$266.01,10%,paypal
+ORD-10365,CUST_1302,46.0,Male,"$16,432.30",nan,16.05.2024,Beauty & Personal Care,1,427.29,15%,PayPal
+ORD-10078,CUST_1360,46.0,Female,57613.32,NY,03/30/2024, Electronics ,1,$290.19,15%,Debit Card
+ORD-10028,CUST_1367,40.0,Female,"$45,686.32",WA,2023-05-31,Books,1, $40.04 USD ,10%,paypal
+ORD-11531,CUST_1051,37.0,Male,$ 49539.13,FL,28.05.2023,Beauty & Personal Care,5, $317.38 USD ,5%,PayPal
+ORD-10526,CUST_1061,,Female,"39,411.47",Florida,Invalid Date,Beauty & Personal Care,2,FREE,20%,CC
+ORD-11955,CUST_1387,37.0,Male,"$81,053.27",New York,09/19/2023,CLOTHING,5,117.89,0%,Debit Card
+ORD-10056,CUST_1177,16.0,male,"$66,881.81",california,2023-03-25, Electronics ,3,nan,20%,paypal
+ORD-10639,CUST_1549,40.0,male,20991.06,california,2024-04-05,Beauty & Personal Care,2,256.34,20%,PAYPAL
+ORD-10303,CUST_1484,34.0,female,$ 18554.47,California,"Jan 07, 2024",Beauty & Personal Care,2, $416.15 USD ,15%,paypal
+ORD-10719,CUST_1387,,FEMALE,$ 92134.55,nan,2023-05-20,Beauty & Personal Care,4,nan,15%,debit_card
+ORD-10625,CUST_1353,26.0,Female,47435.42,WA,10/22/2023,CLOTHING,2, $125.93 USD ,0%,cash
+ORD-10008,CUST_1160,47.0,Female,"$73,662.16",Washington,07.10.2024,Beauty & Personal Care,1,FREE,0%,paypal
+ORD-10804,CUST_1315,16.0,M,"92,570.30",New York,03/29/2023,Home & Kitchen,2,0.00,5%,PayPal
+ORD-11050,CUST_1536,,unknown,$ 46870.01,FL,26.01.2023,CLOTHING,1,31.59,15%,PayPal
+ORD-10337,CUST_1422,55.0,female,40233.07,texas,2024-11-13,Books,1, $183.44 USD ,15%,credit card
+ORD-10048,CUST_1318,41.0,M,"81,034.42",Washington,Invalid Date, Electronics ,2,373.93,10%,cash
+ORD-11577,CUST_1257,58.0,Male,$ 82212.08, CA ,"Jan 26, 2023",electronics,5, $298.26 USD ,10%,credit card
+ORD-10107,CUST_1230,22.0,M,82591.4,WA,06/21/2023,sports & outdoors,2,FREE,15%,debit_card
+ORD-10350,CUST_1082,60.0,male,79926.7,Texas,2024-05-25,CLOTHING,1,$275.82,15%,Debit Card
+ORD-11080,CUST_1496,32.0,Male,"55,078.26",Florida,2023-11-18,Home & Kitchen,1,79.7,10%,Credit Card
+ORD-10239,CUST_1308,27.0,male,"$81,639.79", CA ,"Mar 13, 2023",sports & outdoors,2, $101.93 USD ,10%,Credit Card
+ORD-10214,CUST_1199,42.0,F,"$57,857.34",texas,2024-06-25,electronics,999,TBD,15%,Cash
+ORD-11145,CUST_1089,16.0,male,$ 37198.42,New York,01/11/2023,clothing,1, $96.21 USD ,20%,paypal
+ORD-11334,CUST_1010,25.0,Male,$ 102453.27,Illinois,03.04.2024, Electronics ,1,208.31,10%,Cash
+ORD-11212,CUST_1294,39.0,female,"$69,445.63",Texas,"Sep 17, 2024", Electronics ,1,322.57,10%,Credit Card
+ORD-10794,CUST_1095,23.0,female,$ 26571.65,FL,"Jan 11, 2024",clothing,1, $196.77 USD ,5%,PayPal
+ORD-11097,CUST_1572,40.0,Male,"20,286.88",Washington,03/11/2023,electronics,1, $374.25 USD ,10%,UPI / Wallet
+ORD-11336,CUST_1162,40.0,female,$ 25279.59,TX,2024-09-24,Beauty & Personal Care,1,$95.38,0%,Credit Card
+ORD-11685,CUST_1383,50.0,Female,71394.71,WA,2023-11-17,CLOTHING,1,0.00,5%,credit card
+ORD-11681,CUST_1003,,Male,$ 61659.88,New York,2024-06-05,sports & outdoors,2,FREE,20%,debit_card
+ORD-11778,CUST_1507,55.0,Female,$ 77681.70,Illinois,2024-06-14,electronics,1, $398.00 USD ,10%,UPI / Wallet
+ORD-10524,CUST_1331,35.0,female,"84,133.02",New York,2023-11-28,electronics,3,433.6,5%,cash
+ORD-10233,CUST_1040,37.0,female,"31,275.44",Washington,"Feb 07, 2023",Beauty & Personal Care,3, $191.96 USD ,10%,Cash
+ORD-10645,CUST_1066,,male,102803.3,california,2023-99-99,CLOTHING,3,420.63,15%,credit card
+ORD-11606,CUST_1388,,male,43481.32,California,12.11.2023,electronics,4,$18.34,10%,credit card
+ORD-10534,CUST_1154,34.0,male,60264.43,FL,"Jun 08, 2023",clothing,1,$154.15,15%,debit_card
+ORD-11607,CUST_1036,59.0,Male,77008.0,FL,"Mar 17, 2024",clothing,5,325.74,10%,debit_card
+ORD-10604,CUST_1263,54.0,FEMALE,$ 83580.50,texas,2023-10-12,Home & Kitchen,2,$439.57,10%,Debit Card
+ORD-11285,CUST_1523,61.0,Male,$ 62298.04,IL,"Sep 30, 2024",clothing,1, $277.65 USD ,5%,credit card
+ORD-11075,CUST_1422,36.0,M,"46,319.71",Illinois,10.07.2024, Electronics ,2,125.85,10%,CC
+ORD-11832,CUST_1027,,Female,$ 66233.41,california,07/26/2024,Books,1, $309.40 USD ,5%,credit card
+ORD-10061,CUST_1500,33.0,Female,$ 71179.36,TX,2023-05-08,clothing,-3,$337.63,0%,PayPal
+ORD-11345,CUST_1272,53.0,MALE,"$71,197.01",IL,"Dec 09, 2023",Books,1,TBD,0%,PayPal
+ORD-10093,CUST_1276,19.0,Female,"28,697.71",California,2023-06-14, Electronics ,1,$390.93,20%,Debit Card
+ORD-10667,CUST_1401,45.0,Male,86096.34,texas,03.11.2023,Books,1,439.74,0%,debit_card
+ORD-10281,CUST_1090,23.0,Female,N/A,FL,04/11/2023,Books,1,$404.35,10%,paypal
+ORD-11922,CUST_1431,37.0,FEMALE,"22,275.12",california,2024-02-13,Home & Kitchen,2,$98.85,20%,nan
+ORD-10360,CUST_1426,66.0,Male,$ 76105.83,TX,2023-99-99,Home & Kitchen,1,TBD,10%,Credit Card
+ORD-11527,CUST_1118,35.0,Female,50878.46,NY,Invalid Date,Beauty & Personal Care,2, $420.87 USD ,5%,CC
+ORD-11243,CUST_1258,51.0,Male,"$57,740.63",Illinois,"Mar 21, 2023",Beauty & Personal Care,1, $248.63 USD ,5%,Debit Card
+ORD-10848,CUST_1407,23.0,Male,"54,014.75",WA,2023-01-02,Home & Kitchen,1,FREE,20%,Credit Card
+ORD-11467,CUST_1233,59.0,male,$ 39403.64,TX,03/18/2024,Beauty & Personal Care,1,0.00,10%,PAYPAL
+ORD-10111,CUST_1594,43.0,Female,$ 113046.70,FL,2024-06-09,Books,1,$317.30,5%,cash
+ORD-10043,CUST_1474,44.0,Male,"$15,000.00",New York,04/19/2023,Books,2,nan,5%,Cash
+ORD-10126,CUST_1377,51.0,female,70556.31,TX,2023-99-99,electronics,1,$303.42,20%,cash
+ORD-10205,CUST_1509,16.0,male,"$71,836.85",Illinois,"Jul 21, 2024",Home & Kitchen,3,$292.51,15%,credit card
+ORD-10053,CUST_1210,59.0,Male,"67,625.48",IL,Invalid Date,clothing,1, $44.98 USD ,0%,PayPal
+ORD-10546,CUST_1142,33.0,Male,$ 47014.02,WA,nan,electronics,2,181.16,20%,paypal
+ORD-10069,CUST_1183,36.0,Female,"$114,017.51",california,2023-99-99,Beauty & Personal Care,1,$393.49,25%,credit card
+ORD-10076,CUST_1040,24.0,male,"$79,175.72",Illinois,"Jul 24, 2024",electronics,3,$318.40,10%,PayPal
+ORD-11646,CUST_1086,42.0,female,"57,718.85",IL,2023-09-02, Electronics ,1,259.89,0%,credit card
+ORD-10184,CUST_1093,46.0,Male,"60,020.54",Illinois,19.06.2023,electronics,2,56.5,20%,CC
+ORD-10138,CUST_1508,64.0,female,"90,921.15",IL,08/26/2023,clothing,2,0.00,10%,credit card
+ORD-10900,CUST_1417,,male,75939.01,FL,2024-07-12,Beauty & Personal Care,1,328.37,10%,credit card
+ORD-10797,CUST_1074,,nan,"33,308.76",Illinois,"Nov 16, 2023",electronics,2,36.34,5%,PayPal
+ORD-10133,CUST_1519,49.0,Female,"43,612.81",Texas,2023-99-99,clothing,1,$332.91,20%,CC
+ORD-10081,CUST_1157,44.0,Male,$ 78867.61,New York,17.01.2024,electronics,4, $197.58 USD ,10%,Cash
+ORD-11899,CUST_1509,47.0,M,53335.61,Washington,"Nov 17, 2024",clothing,3,340.01,0%,cash
+ORD-10032,CUST_1213,39.0,nan,"$46,447.77",Illinois,2023-11-01,Home & Kitchen,1, $335.64 USD ,15%,PAYPAL
+ORD-10542,CUST_1045,64.0,Female,"81,557.54",nan,2023-99-99,electronics,2, $357.85 USD ,10%,PAYPAL
+ORD-11711,CUST_1406,57.0,female,$ 40562.71,california,16.12.2023,Books,2, $35.76 USD ,15%,PAYPAL
+ORD-10984,CUST_1316,16.0,Female,"96,963.41",California,20.08.2023,electronics,1, $266.28 USD ,20%,CC
+ORD-10166,CUST_1127,45.0,Female,101950.56,WA,19.01.2024,sports & outdoors,0, $166.74 USD ,20%,credit card
+ORD-10249,CUST_1166,40.0,MALE,"$51,666.34",Texas,Invalid Date,Home & Kitchen,1,$420.66,5%,Credit Card
+ORD-10447,CUST_1253,39.0,male,nan,New York,2023-08-16,sports & outdoors,1,195.99,15 %,CC
+ORD-11222,CUST_1250,66.0,Male,$ 75311.90,IL,Invalid Date,electronics,1, $406.64 USD ,20%,paypal
+ORD-10859,CUST_1479,26.0,Female,$ 92803.33,texas,"Sep 05, 2024",CLOTHING,-1,$251.26,15%,credit card
+ORD-11289,CUST_1058,16.0,male,$ 68765.57,Texas,05.11.2024,electronics,1,TBD,15%,credit card
+ORD-10098,CUST_1594,49.0,male,$ 55605.79,california,Invalid Date, Electronics ,1,nan,0%,Credit Card
+ORD-10806,CUST_1020,43.0,Male,$ 93976.79,FL,07/17/2023,sports & outdoors,1, $344.16 USD ,10%,credit card
+ORD-10738,CUST_1295,37.0,F,"$72,323.62", CA ,2023-08-19,Books,1,$359.30,nan,Credit Card
+ORD-11337,CUST_1320,36.0,Male,$ 39893.98,NY,01.05.2024, Electronics ,1, $191.10 USD ,5%,Cash
+ORD-10103,CUST_1141,38.0,Male,65974.2,california,2024-01-13,Home & Kitchen,2, $257.14 USD ,5%,PAYPAL
+ORD-10435,CUST_1452,44.0,M,$ 76416.70,California,nan,CLOTHING,3,201.04,20%,Credit Card
+ORD-10075,CUST_1124,50.0,Female,"$9,999,999.00",texas,nan,Home & Kitchen,1,224.06,10%,PAYPAL
+ORD-11908,CUST_1417,44.0,Female,$ 82355.84,Illinois,"Jun 17, 2024",sports & outdoors,1,$88.56,0%,CC
+ORD-11376,CUST_1218,26.0,male,"$59,903.63",New York,"Oct 14, 2024", Electronics ,3,$134.91,10%,paypal
+ORD-10919,CUST_1171,41.0,Female,"$48,124.44",Washington,2023-10-28,Beauty & Personal Care,3,FREE,10%,Cash
+ORD-11909,CUST_1584,23.0,Male,null, CA ,2024-03-19, Electronics ,3,$91.76,10%,debit_card
+ORD-11777,CUST_1095,53.0,nan,"58,586.44",WA,05/16/2023,Books,1,244.36,20%,CC
+ORD-11721,CUST_1038,999.0,Female,39472.83, CA ,01/16/2023, Electronics ,-3, $81.75 USD ,5%,CC
+ORD-10763,CUST_1176,48.0,M,"$90,140.50",Washington,25.10.2024, Electronics ,2,114.37,0%,Debit Card
+ORD-10990,CUST_1075,47.0,Male,84429.01, CA ,29.08.2023,Books,1, $135.49 USD ,nan,debit_card
+ORD-10389,CUST_1026,23.0,Male,"68,232.98",california,2024-07-13, Electronics ,1,$46.71,0%,PayPal
+ORD-10236,CUST_1287,32.0,male,unknown,Florida,2024-09-17,Beauty & Personal Care,1,130.44,0%,PAYPAL
+ORD-11605,CUST_1094,51.0,female,"$74,414.59",New York,08/13/2024,electronics,1,nan,20%,PayPal
+ORD-10268,CUST_1150,32.0,Female,"110,637.42",IL,2024-03-15,electronics,2, $426.48 USD ,20%,UPI / Wallet
+ORD-11559,CUST_1238,51.0,Female,$ 31439.43,Illinois,"Mar 13, 2023",Home & Kitchen,1,$249.80,10%,CC
+ORD-10118,CUST_1572,42.0,male,"60,998.62",New York,2023-07-19,Books,1,398.87,0%,paypal
+ORD-11706,CUST_1387,30.0,Female,$ 75743.45,FL,2023-01-11,CLOTHING,4, $184.12 USD ,5%,CC
+ORD-10674,CUST_1303,49.0,Female,"60,216.04",Florida,2023-99-99,Beauty & Personal Care,1, $258.30 USD ,10%,Debit Card
+ORD-10250,CUST_1217,19.0,Other,83352.76,california,26.05.2023, Electronics ,3,0.00,10%,nan
+ORD-11548,CUST_1369,36.0,male,"$77,681.67",nan,06/24/2023,Books,2,297.58,20%,UPI / Wallet
+ORD-10130,CUST_1254,41.0,Female,"$55,125.90", CA ,nan,Home & Kitchen,1,FREE,5%,CC
+ORD-10095,CUST_1126,50.0,M,73315.72, CA ,03.03.2024,Books,-1,$77.44,5%,debit_card
+ORD-10034,CUST_1390,48.0,M,100439.81,nan,nan,Books,2, $223.96 USD ,20%,cash
+ORD-11560,CUST_1023,64.0,female,"$100,133.62",Florida,09/24/2024,CLOTHING,0,189.0,10%,credit card
+ORD-11774,CUST_1106,33.0,MALE,47915.07,New York,nan,Beauty & Personal Care,1, $297.80 USD ,5%,UPI / Wallet
+ORD-10449,CUST_1410,62.0,Male,"$17,499.06",texas,07/31/2024,sports & outdoors,3,392.21,nan,Credit Card
+ORD-10717,CUST_1339,40.0,n/a,59257.44,FL,2024-11-26,Home & Kitchen,1,$408.64,0%,paypal
+ORD-11346,CUST_1580,,male,79758.22,NY,25.03.2023,electronics,1, $417.41 USD ,10%,cash
+ORD-11616,CUST_1197,20.0,Male,$ 75255.68,Florida,09.07.2024,CLOTHING,2,193.32,5%,Cash
+ORD-10001,CUST_1103,45.0,Female,$ 50229.69,California,"Nov 27, 2023",electronics,1,298.14,15%,PayPal
+ORD-11464,CUST_1318,33.0,male,$ 77667.20,California,2023-99-99,Home & Kitchen,1, $293.26 USD ,15%,PayPal
+ORD-11102,CUST_1390,53.0,Female,"$29,205.76",NY,"Feb 01, 2023",Home & Kitchen,3,FREE,15%,Cash
+ORD-11109,CUST_1072,42.0,Male,$ - ,New York,"Oct 11, 2024",clothing,3,$437.38,10%,CC
+ORD-11305,CUST_1389,46.0,nan,"48,399.45", CA ,Invalid Date,Books,2,0.00,5%,cash
+ORD-10083,CUST_1027,46.0,Male,null,FL,"Jan 13, 2024",Beauty & Personal Care,1,66.03,15%,Debit Card
+ORD-11575,CUST_1038,,Female,"$67,918.88",IL,09/14/2023, Electronics ,4,nan,15%,paypal
+ORD-10677,CUST_1494,25.0,male,nan,california,nan,sports & outdoors,999,$411.48,0%,paypal
+ORD-11546,CUST_1214,50.0,Female,59273.19,Washington,"Jul 13, 2023", Electronics ,3, $52.70 USD ,5%,debit_card
+ORD-11047,CUST_1006,27.0,MALE,null,Washington,20.07.2023,Home & Kitchen,1,181.23,10%,Cash
+ORD-10771,CUST_1380,43.0,Female,28071.89,FL,nan,sports & outdoors,1,393.84,5%,CC
+ORD-11293,CUST_1366,50.0,Male,"52,506.82",Washington,2023-10-05,CLOTHING,2,nan,5%,CC
+ORD-11362,CUST_1373,60.0,Female,nan,WA,Invalid Date,CLOTHING,1,378.94,15%,debit_card
+ORD-11919,CUST_1038,25.0,Male,"68,850.54",FL,17.04.2023,electronics,1,190.6,20%,UPI / Wallet
+ORD-11736,CUST_1535,22.0,male,$ 80081.08,New York,nan,sports & outdoors,2, $119.18 USD ,15%,UPI / Wallet
+ORD-10405,CUST_1290,49.0,female,37686.6,nan,12.08.2024, Electronics ,1,FREE,10%,CC
+ORD-11994,CUST_1091,24.0,male,69629.36,WA,"Oct 07, 2023",electronics,1,$351.55,5%,PAYPAL
+ORD-11382,CUST_1133,19.0,Male,84490.34,TX,20.03.2023,sports & outdoors,2,137.52,25%,Cash
+ORD-11425,CUST_1361,23.0,Female,51808.96,California,2024-04-06,Home & Kitchen,1, $179.62 USD ,20%,credit card
+ORD-10105,CUST_1160,48.0,Male,"32,548.05",NY,2023-99-99,CLOTHING,1, $330.16 USD ,15%,CC
+ORD-10689,CUST_1553,36.0,MALE,26211.93,Florida,06.09.2023,Home & Kitchen,1,FREE,5%,cash
+ORD-11390,CUST_1248,30.0,F,$ 82560.14,IL,Invalid Date,CLOTHING,1,176.93,0%,PAYPAL
+ORD-10827,CUST_1022,16.0,Male,$ 41461.64,nan,01/11/2024,sports & outdoors,1,123.91,0%,CC
+ORD-11241,CUST_1205,50.0,Male,55765.86,california,Invalid Date,CLOTHING,4,TBD,5%,UPI / Wallet
+ORD-10063,CUST_1287,60.0,Female,"$102,691.87",NY,02/05/2024,Home & Kitchen,1,FREE,10%,debit_card
+ORD-10853,CUST_1146,16.0,female,"36,952.46",Florida,"May 13, 2023",CLOTHING,4,$96.27,nan,PAYPAL
+ORD-11828,CUST_1447,31.0,M,48203.44,IL,"Jul 21, 2023",CLOTHING,1,0.00,15%,cash
+ORD-11263,CUST_1530,38.0,MALE,$ 49435.48,Texas,"Aug 17, 2023",clothing,2, $60.54 USD ,5%,cash
+ORD-10224,CUST_1276,53.0,F,$ 98358.93,WA,Invalid Date,Home & Kitchen,2,FREE,10%,UPI / Wallet
+ORD-10146,CUST_1398,34.0,Male,nan,NY,2023-10-13,electronics,1,373.67,10%,Cash
+ORD-11089,CUST_1284,27.0,Male,78140.64,California,2023-99-99,electronics,1,427.59,nan,Cash
+ORD-10374,CUST_1433,36.0,FEMALE,59294.36,california,05/23/2023,Home & Kitchen,1,214.12,10%,CC
+ORD-11515,CUST_1522,51.0,female,"$24,718.65",Texas,2023-01-16,Beauty & Personal Care,5, $382.84 USD ,20%,paypal
+ORD-11143,CUST_1075,49.0,unknown,"57,424.37",Florida,2024-09-06,Home & Kitchen,1,$41.00,15%,PayPal
+ORD-11947,CUST_1019,48.0,Male,"33,145.18",TX,"Jul 21, 2024",sports & outdoors,2,149.58,15%,debit_card
+ORD-11592,CUST_1197,71.0,Male,32357.22,TX,09/10/2023,electronics,1, $84.99 USD ,20%,Credit Card
+ORD-11275,CUST_1023,65.0,male,56490.72,FL,05.11.2023,clothing,1,0.00,0%,Cash
+ORD-11266,CUST_1256,-5.0,Female,37864.85,California,2023-02-15,electronics,2,FREE,20%,nan
+ORD-11874,CUST_1125,40.0,Female,"$78,462.98",texas,"Jan 08, 2023",Home & Kitchen,2,FREE,0%,PayPal
+ORD-11352,CUST_1558,24.0,Male,"65,444.39",Texas,2023-09-21,Home & Kitchen,4,TBD,20%,Debit Card
+ORD-10010,CUST_1497,49.0,Female,"39,689.49",Illinois,"Mar 22, 2023", Electronics ,1,nan,5%,debit_card
+ORD-10450,CUST_1158,34.0,Female,$ 48979.64,california,21.09.2023,CLOTHING,3, $293.95 USD ,10%,Credit Card
+ORD-10709,CUST_1554,34.0,F,$ 22116.53, CA ,08/09/2024,clothing,2, $99.66 USD ,10%,CC
+ORD-10256,CUST_1030,33.0,Male,98372.54,IL,05/08/2024,sports & outdoors,1,TBD,10%,UPI / Wallet
+ORD-10883,CUST_1533,39.0,Female,$ 86900.38,california,Invalid Date,Home & Kitchen,1,FREE,5%,nan
+ORD-10390,CUST_1468,36.0,M,"68,327.48",texas,01/16/2023,Beauty & Personal Care,3,$387.43,15%,Cash
+ORD-11396,CUST_1059,43.0,Male,unknown,New York,30.04.2024,clothing,1,187.98,0%,cash
+ORD-10909,CUST_1201,20.0,M,$ 74053.51,texas,"Mar 14, 2023",Books,1,291.04,nan,debit_card
+ORD-10925,CUST_1581,23.0,M,"$60,395.70",Texas,"Mar 21, 2023",electronics,3,310.13,5%,PAYPAL
+ORD-11812,CUST_1543,30.0,male,"72,348.03",Texas,"Nov 28, 2023", Electronics ,1,0.00,15%,debit_card
+ORD-11311,CUST_1586,40.0,F,"92,080.96",Washington,nan,clothing,1,TBD,0%,debit_card
+ORD-10461,CUST_1101,36.0,female,unknown, CA ,16.01.2024,Books,1,0.00,0%,PayPal
+ORD-11381,CUST_1117,16.0,F,"69,838.22",california,06/01/2024, Electronics ,1,0.00,10%,cash
+ORD-11809,CUST_1196,36.0,Female,104080.81,Florida,23.08.2023,clothing,1,389.36,0%,PayPal
+ORD-11169,CUST_1013,53.0,?,"$56,598.73",California,2023-12-23,CLOTHING,0,$102.23,20%,nan
+ORD-10959,CUST_1496,35.0,Female,"$50,768.19",FL,nan,electronics,2, $188.74 USD ,5%,debit_card
+ORD-10502,CUST_1588,35.0,male,40255.39,Texas,2023-99-99,sports & outdoors,1,50.21,15%,Cash
+ORD-10740,CUST_1324,60.0,M,"$57,756.56",california,2023-08-05,sports & outdoors,1,$159.54,10%,PayPal
+ORD-11972,CUST_1310,36.0,Male,"$58,240.26",California,nan,Home & Kitchen,2,$66.95,15%,credit card
+ORD-10869,CUST_1469,77.0,female,"$67,083.48",WA,"Nov 11, 2024",Home & Kitchen,1,0.00,20%,cash
+ORD-10732,CUST_1416,23.0,male,N/A,California,2023-04-14,clothing,2, $71.83 USD ,5%,Credit Card
+ORD-10540,CUST_1398,37.0,female,$ 95441.07,NY,2023-08-23,Home & Kitchen,1,nan,20%,debit_card
+ORD-11202,CUST_1460,45.0,Male,$ 17329.03,WA,nan,Books,4, $245.85 USD ,20%,credit card
+ORD-10698,CUST_1459,53.0,Male,99712.52, CA ,2023-06-06,Home & Kitchen,2,$307.17,15%,debit_card
+ORD-11484,CUST_1571,57.0,F,$ 47052.36,TX,10/12/2023,sports & outdoors,3,114.15,15%,Credit Card
+ORD-11466,CUST_1213,27.0,M,"$94,571.58",nan,2023-99-99,Home & Kitchen,2, $65.28 USD ,5%,UPI / Wallet
+ORD-11146,CUST_1092,22.0,Male,"$76,323.78",TX,08/01/2024,Books,1,TBD,15%,Debit Card
+ORD-11032,CUST_1483,42.0,Male,"25,189.41",texas,Invalid Date,Home & Kitchen,1,154.0,5%,PayPal
+ORD-10373,CUST_1514,39.0,M,$ 67087.29,FL,27.09.2023,CLOTHING,1, $210.43 USD ,20%,cash
+ORD-10668,CUST_1552,24.0,MALE,43195.94,Washington,2023-02-18,sports & outdoors,1,nan,20%,credit card
+ORD-11624,CUST_1025,53.0,female,"$9,999,999.00",IL,06/30/2023,clothing,1,FREE,10%,PayPal
+ORD-10358,CUST_1369,40.0,Female,$ 106241.77, CA ,nan,sports & outdoors,1, $130.32 USD ,5%,paypal
+ORD-10968,CUST_1239,44.0,M,$ 136757.34, CA ,2023-03-17,electronics,3,258.8,15%,UPI / Wallet
+ORD-10784,CUST_1363,36.0,Female,29663.5,New York,2024-07-31,CLOTHING,1,30.49,10%,Cash
+ORD-10736,CUST_1241,33.0,FEMALE,97858.27,texas,2023-99-99,Beauty & Personal Care,1,$180.56,20%,Credit Card
+ORD-11036,CUST_1191,38.0,male,nan,texas,2023-99-99,sports & outdoors,1,$377.14,5%,cash
+ORD-10971,CUST_1239,39.0,Female,$ 60797.32,California,07/15/2023,Books,1, $52.43 USD ,10%,CC
+ORD-11623,CUST_1371,24.0,MALE,64467.39,New York,nan,Books,1, $108.43 USD ,5%,debit_card
+ORD-11584,CUST_1456,23.0,female,$ 72074.34,Illinois,17.03.2023,clothing,1,$109.03,15%,nan
+ORD-11992,CUST_1038,44.0,Female,$ 80609.21,IL,05/03/2024,clothing,1,145.6,0%,paypal
+ORD-11622,CUST_1559,33.0,Male,$ 84316.13,Illinois,18.03.2023,electronics,2, $387.11 USD ,15%,cash
+ORD-11329,CUST_1520,61.0,unknown,"$41,039.57",texas,07.01.2023,CLOTHING,1, $445.08 USD ,5%,Debit Card
+ORD-11437,CUST_1270,33.0,Male,"$56,666.05",NY,2023-99-99,clothing,4,$323.45,20%,Debit Card
+ORD-11588,CUST_1575,38.0,Male,47202.95,FL,2023-99-99,Home & Kitchen,1,234.26,15 %,cash
+ORD-11745,CUST_1425,,Female,76818.96,California,31.12.2023,Home & Kitchen,1, $48.68 USD ,25%,debit_card
+ORD-11253,CUST_1064,63.0,M,"33,491.83",Illinois,2024-08-07,Books,5, $274.06 USD ,nan,credit card
+ORD-11801,CUST_1070,27.0,FEMALE,95879.72,Florida,02/12/2023,Beauty & Personal Care,4,$130.27,10%,cash
+ORD-11824,CUST_1531,35.0,female,"39,525.81",nan,"Dec 12, 2023", Electronics ,4,0.00,0%,debit_card
+ORD-11237,CUST_1281,47.0,Female,"66,956.17",Texas,2023-07-02,Beauty & Personal Care,3, $90.24 USD ,5%,Credit Card
+ORD-10886,CUST_1130,40.0,Female,$ 69821.86,IL,Invalid Date,electronics,1,$32.32,5%,credit card
+ORD-10080,CUST_1029,,male,$ 109323.34,nan,04/03/2024,Books,1,448.75,0%,paypal
+ORD-11173,CUST_1486,61.0,Male,"52,011.65",WA,nan,Home & Kitchen,2,311.75,20%,Debit Card
+ORD-10815,CUST_1082,,Female,$ 56054.37, CA ,11.01.2024, Electronics ,1,TBD,10%,Credit Card
+ORD-11367,CUST_1177,18.0,Female,nan,Washington,2023-08-04,sports & outdoors,2,109.16,20%,credit card
+ORD-10672,CUST_1522,44.0,F,"$57,470.51",California,01.08.2023,Beauty & Personal Care,3,$250.63,15%,Debit Card
+ORD-11630,CUST_1220,36.0,unknown,"$16,399.13",Texas,12.09.2023,electronics,5,$222.76,0%,credit card
+ORD-10058,CUST_1264,35.0,male,"77,666.35",TX,28.03.2023,electronics,2, $26.79 USD ,10%,PAYPAL
+ORD-10134,CUST_1305,39.0,male,73349.75,Illinois,20.09.2024,Books,3,259.13,20%,credit card
+ORD-11141,CUST_1519,51.0,Male,"41,926.20",nan,08.10.2023,Beauty & Personal Care,1,$409.75,0%,credit card
+ORD-10934,CUST_1323,80.0,unknown,"$59,317.73",texas,"Mar 06, 2023",Books,1,193.76,5%,PayPal
+ORD-11791,CUST_1377,28.0,Female,"83,469.52",Illinois,05/11/2024,Books,0,329.86,20%,nan
+ORD-10824,CUST_1536,22.0,male,75405.0,Washington,Invalid Date,Home & Kitchen,2,268.48,0%,Credit Card
+ORD-11215,CUST_1398,34.0,Male,98510.3,Washington,05/20/2024,Beauty & Personal Care,1, $45.90 USD ,15%,UPI / Wallet
+ORD-10505,CUST_1481,,Male,"$61,497.50", CA ,24.06.2023,Home & Kitchen,2,0.00,nan,paypal
+ORD-11890,CUST_1130,,Male,42057.62,FL,"Mar 27, 2024",clothing,1,35.26,15%,CC
+ORD-10348,CUST_1204,36.0,Male,61459.53,nan,"Feb 26, 2023",Beauty & Personal Care,3, $370.48 USD ,15%,Cash
+ORD-10387,CUST_1198,54.0,male,$ 91454.94,Illinois,nan,Home & Kitchen,1,0.00,20%,CC
+ORD-11025,CUST_1087,40.0,Other,"87,347.03",California,2024-09-28,CLOTHING,1,FREE,0%,credit card
+ORD-10895,CUST_1029,34.0,Male,unknown, CA ,"Jan 15, 2024",sports & outdoors,3, $18.22 USD ,15%,Cash
+ORD-10829,CUST_1529,30.0,male,80793.62,TX,2023-99-99,Books,1,0.00,15%,Credit Card
+ORD-11417,CUST_1531,,FEMALE,"$50,016.85",New York,"Nov 12, 2023", Electronics ,1, $314.22 USD ,20%,Cash
+ORD-10476,CUST_1383,67.0,Male,"101,707.78",Florida,"Apr 25, 2023",Home & Kitchen,1,85.54,15%,CC
+ORD-11567,CUST_1206,38.0,Male,119189.78,New York,2024-07-23, Electronics ,1,TBD,10%,cash
+ORD-11542,CUST_1553,22.0,female,"$76,583.96",Illinois,10.08.2024, Electronics ,1,TBD,15%,UPI / Wallet
+ORD-11488,CUST_1134,61.0,Male,"51,575.61",Illinois,2024-11-10,Home & Kitchen,1, $133.30 USD ,0%,Cash
+ORD-10653,CUST_1465,22.0,MALE,"33,175.63",FL,04/07/2023,Books,1,0.00,20%,paypal
+ORD-10173,CUST_1455,33.0,M,"$55,480.11",texas,"Jun 15, 2023",sports & outdoors,1,309.85,nan,PAYPAL
+ORD-11150,CUST_1292,68.0,male,$ 40887.08,Florida,12/13/2023,clothing,1,FREE,5%,Credit Card
+ORD-10039,CUST_1126,36.0,Male,$ 63192.71,california,09.01.2024,electronics,1, $395.33 USD ,5%,cash
+ORD-10714,CUST_1333,17.0,Other,$ 80316.49,TX,19.06.2023,electronics,2,175.24,20%,Credit Card
+ORD-10091,CUST_1021,43.0,FEMALE,"48,545.35",California,06/09/2024,Books,1,$205.17,0%,Debit Card
+ORD-10167,CUST_1573,28.0,F,61725.26,WA,03/25/2024,Home & Kitchen,1, $390.58 USD ,10%,PayPal
+ORD-11206,CUST_1350,16.0,Female,88904.78,TX,nan,clothing,2, $136.38 USD ,20%,paypal
+ORD-10876,CUST_1531,40.0,Female,"75,284.56",California,07.02.2024,CLOTHING,3,0.00,20%,Credit Card
+ORD-11438,CUST_1269,,Other,$ - ,TX,nan,Home & Kitchen,1,140.56,15%,nan
+ORD-10504,CUST_1228,16.0,Other,nan,Texas,16.01.2024, Electronics ,2, $331.30 USD ,0%,nan
+ORD-11094,CUST_1291,35.0,Male,"52,075.94",TX,"Oct 09, 2024",clothing,1,$361.02,0%,Debit Card
+ORD-11156,CUST_1151,57.0,Other,"$40,520.75",California,2023-99-99,clothing,1,nan,10%,PayPal
+ORD-11325,CUST_1504,58.0,Female,"$56,547.67",Texas,22.11.2023,Beauty & Personal Care,1, $43.06 USD ,5%,credit card
+ORD-11830,CUST_1498,,female,"74,642.60",TX,2023-09-15,sports & outdoors,1, $114.60 USD ,0%,PAYPAL
+ORD-11351,CUST_1071,47.0,Male,"$51,101.02",IL,nan,Books,3,421.97,15%,CC
+ORD-10511,CUST_1163,54.0,Female,$ 64225.35,WA,16.06.2024,CLOTHING,1,132.07,0%,CC
+ORD-10500,CUST_1022,28.0,Other,N/A,Florida,"Jul 02, 2023",CLOTHING,1,432.42,20%,debit_card
+ORD-11554,CUST_1387,22.0,male,66349.89, CA ,2023-99-99,Home & Kitchen,1,$133.70,20%,UPI / Wallet
+ORD-10339,CUST_1069,58.0,Male,"37,076.92",NY,11/16/2024,sports & outdoors,2,$304.16,10%,Cash
+ORD-11189,CUST_1244,41.0,Female,null, CA ,Invalid Date,Beauty & Personal Care,3, $272.71 USD ,15%,nan
+ORD-10029,CUST_1235,39.0,female,"66,985.53",TX,2023-06-19,clothing,1,$238.30,20%,Credit Card
+ORD-11218,CUST_1061,24.0,Female,$ 15000.00,FL,"Feb 06, 2023",CLOTHING,4,249.13,5%,PayPal
+ORD-11647,CUST_1226,20.0,M,"59,007.85",FL,02/08/2024, Electronics ,1, $215.14 USD ,10%,PAYPAL
+ORD-11941,CUST_1512,52.0,male,69214.73, CA ,2023-03-14,CLOTHING,2,TBD,0%,debit_card
+ORD-10946,CUST_1597,29.0,M,45426.16,nan,2023-99-99,Books,2,nan,5%,debit_card
+ORD-10170,CUST_1561,16.0,Male,57130.53,NY,nan,electronics,1, $171.70 USD ,5%,nan
+ORD-11968,CUST_1060,27.0,Female,$ 61103.63,california,02/03/2023,clothing,1,$174.29,5%,paypal
+ORD-11198,CUST_1364,40.0,Female,$ - ,NY,02/03/2024,Books,2,$53.69,0%,CC
+ORD-11254,CUST_1027,16.0,Male,$ 59155.24,WA,2023-04-04,electronics,1,nan,10%,UPI / Wallet
+ORD-11490,CUST_1065,49.0,Male,$ 47159.36,WA,"Jun 05, 2024",Books,1, $291.87 USD ,5%,credit card
+ORD-10913,CUST_1590,33.0,male,$ 72593.64,california,01/22/2024,CLOTHING,1,226.43,0%,PayPal
+ORD-10492,CUST_1513,39.0,male,68321.73,Washington,"Nov 21, 2023",clothing,1,412.78,0%,paypal
+ORD-10954,CUST_1595,43.0,Male,$ - ,NY,2024-10-15,clothing,2,440.44,0%,UPI / Wallet
+ORD-11098,CUST_1592,34.0,male,"53,959.95",Texas,10/01/2023,sports & outdoors,3, $435.70 USD ,15%,credit card
+ORD-11033,CUST_1068,39.0,female,48577.24,TX,nan,Beauty & Personal Care,1, $180.81 USD ,15%,cash
+ORD-10588,CUST_1303,42.0,Male,36475.15,texas,10/04/2023,electronics,1,211.22,15 %,credit card
+ORD-10751,CUST_1150,34.0,male,"$66,743.06",nan,Invalid Date,electronics,1,0.00,10%,PayPal
+ORD-10658,CUST_1595,24.0,FEMALE,"21,512.26",nan,2023-01-08,clothing,-1,$238.22,10%,debit_card
+ORD-10235,CUST_1406,59.0,male,"113,840.78",nan,09/02/2024,CLOTHING,1,332.32,15%,Cash
+ORD-10733,CUST_1031,29.0,Male,20478.11,California,"Nov 08, 2024", Electronics ,3,332.45,5%,PAYPAL
+ORD-11478,CUST_1535,29.0,male,"92,618.61",Washington,13.02.2023,Beauty & Personal Care,1,164.82,15%,paypal
+ORD-11829,CUST_1597,25.0,nan,$ 97660.14,WA,10/29/2024,Books,2,152.41,15%,Cash
+ORD-11157,CUST_1123,35.0,male,null, CA ,2024-11-10,clothing,1,0.00,0%,Cash
+ORD-11566,CUST_1006,49.0,M,$ 47620.09,WA,14.05.2024,electronics,4,$347.45,0%,paypal
+ORD-11519,CUST_1591,50.0,Male,"82,650.64",NY,2023-99-99,clothing,1,402.23,20%,PAYPAL
+ORD-11728,CUST_1136,39.0,MALE,74989.74,NY,"Oct 29, 2023",clothing,1, $417.39 USD ,10%,PayPal
+ORD-10935,CUST_1098,42.0,Female,72534.45,California,2023-01-22,CLOTHING,1,$390.08,20%,credit card
+ORD-11210,CUST_1134,,Male,"93,946.06",California,02/15/2024,clothing,1, $401.73 USD ,25%,Cash
+ORD-11066,CUST_1580,51.0,MALE,"69,457.20",NY,"Jul 03, 2024",Beauty & Personal Care,1,$296.70,10%,nan
+ORD-10109,CUST_1517,27.0,Female,83943.57,FL,2024-03-31,Home & Kitchen,2,$323.30,5%,credit card
+ORD-11641,CUST_1540,51.0,M,"85,539.06",Florida,03.10.2024,clothing,2,nan,10%,Debit Card
+ORD-10569,CUST_1541,31.0,Female,"$9,999,999.00",Florida,nan,electronics,2,TBD,5%,Credit Card
+ORD-11168,CUST_1516,47.0,male,nan,NY,09/16/2024,Home & Kitchen,2,0.00,10%,Credit Card
+ORD-11175,CUST_1219,,Male,"70,220.32",IL,Invalid Date,Beauty & Personal Care,3, $175.08 USD ,0%,PAYPAL
+ORD-10891,CUST_1125,32.0,Other,$ 30368.93,texas,Invalid Date,Home & Kitchen,3,nan,5%,Credit Card
+ORD-10948,CUST_1083,45.0,Female,69434.45,IL,2023-99-99,Books,1,$394.55,0%,Credit Card
+ORD-11049,CUST_1553,30.0,Male,$ 21162.66,FL,09.12.2023,electronics,5,364.98,0%,Credit Card
+ORD-11783,CUST_1132,45.0,female,"$33,386.74",WA,03/17/2023, Electronics ,1,nan,nan,PayPal
+ORD-11460,CUST_1309,44.0,n/a,"65,970.56",nan,03/06/2023,electronics,2,FREE,15%,debit_card
+ORD-11541,CUST_1308,26.0,Female,79941.71,TX,2023-03-23,Books,5, $84.10 USD ,5%,paypal
+ORD-10885,CUST_1234,35.0,male,"89,807.08",california,2023-02-22,CLOTHING,2,$282.74,20%,Cash
+ORD-11779,CUST_1156,23.0,Male,51971.13,california,nan,CLOTHING,2,177.87,20%,paypal
+ORD-10718,CUST_1253,40.0,unknown,"$29,957.00",IL,21.11.2024,sports & outdoors,1, $168.57 USD ,20%,CC
+ORD-10851,CUST_1384,16.0,male,$ 15000.00,Illinois,20.03.2023,sports & outdoors,1,nan,10%,Debit Card
+ORD-11408,CUST_1351,32.0,female,"51,076.51",California,08/01/2023,clothing,2,125.93,15%,nan
+ORD-10735,CUST_1591,32.0,Male,$ 72117.74,New York,03/31/2024,Books,1, $98.68 USD ,0%,Credit Card
+ORD-10718,CUST_1253,40.0,unknown,"$29,957.00",IL,21.11.2024,sports & outdoors,1, $168.57 USD ,20%,CC
+ORD-10455,CUST_1209,49.0,female,"$76,074.20",IL,27.10.2023, Electronics ,0,$305.02,0%,nan
+ORD-10265,CUST_1493,16.0,Male,"40,849.54",WA,01/16/2024,Beauty & Personal Care,1,$302.60,20%,PayPal
+ORD-10076,CUST_1040,24.0,male,"$79,175.72",Illinois,"Jul 24, 2024",electronics,3,$318.40,10%,PayPal
+ORD-11952,CUST_1316,26.0,Female,"58,057.55",california,2024-10-11,electronics,1,301.17,20%,paypal
+ORD-10445,CUST_1419,25.0,male,"94,475.30",Washington,08/18/2023,Beauty & Personal Care,-1, $104.56 USD ,5%,UPI / Wallet
+ORD-10396,CUST_1273,36.0,Male,$ 70291.34,Florida,"Jan 25, 2023",electronics,1,412.89,15%,PayPal
+ORD-10177,CUST_1055,27.0,male,$ 68954.26,california,2023-11-03,electronics,2,nan,15%,PAYPAL
+ORD-11043,CUST_1548,20.0,Male,"$40,901.30",California,"Mar 11, 2023",electronics,2,255.59,20%,cash
+ORD-11393,CUST_1503,50.0,male,"$18,758.97",IL,Invalid Date,Beauty & Personal Care,2,91.21,10%,PayPal
+ORD-11493,CUST_1203,32.0,MALE,"108,704.47",FL,"Jul 14, 2024",Beauty & Personal Care,3,56.78,15%,Credit Card
+ORD-11609,CUST_1346,40.0,male,$ 47058.25,California,"Jun 11, 2024",CLOTHING,1,FREE,0%,cash
+ORD-11470,CUST_1124,53.0,FEMALE,$ 47938.32, CA ,08/24/2023,electronics,4, $159.95 USD ,15%,credit card
+ORD-10596,CUST_1370,35.0,male,"$80,785.21",Washington,"Feb 01, 2024",CLOTHING,999, $153.40 USD ,20%,nan
+ORD-10062,CUST_1235,53.0,female,92634.21,FL,2023-12-22,sports & outdoors,1,0.00,20%,UPI / Wallet
+ORD-11297,CUST_1175,49.0,FEMALE,"$87,422.58",Washington,Invalid Date,sports & outdoors,3,nan,5%,paypal
+ORD-10873,CUST_1103,18.0,F,65384.16,california,"Mar 08, 2023",clothing,2,$63.41,10%,PayPal
+ORD-11587,CUST_1335,29.0,Male,$ 64826.30,WA,09/25/2024,Beauty & Personal Care,4,0.00,25%,PayPal
+ORD-11719,CUST_1266,52.0,female,38696.18,california,Invalid Date,CLOTHING,2,$203.85,5%,CC
+ORD-10279,CUST_1291,32.0,male,"112,730.43",Texas,01/12/2024,Beauty & Personal Care,1, $80.88 USD ,20%,Credit Card
+ORD-11393,CUST_1503,50.0,male,"$18,758.97",IL,Invalid Date,Beauty & Personal Care,2,91.21,10%,PayPal
+ORD-10037,CUST_1268,43.0,MALE,"$97,210.12",nan,"Jul 31, 2024",CLOTHING,2,$441.50,10%,CC
+ORD-11614,CUST_1237,36.0,Male,"$61,750.28",New York,06/17/2023,Books,1,47.14,15%,debit_card
+ORD-10663,CUST_1428,40.0,Female,"$66,874.43",Florida,04/12/2024,Home & Kitchen,3,420.17,20%,nan
+ORD-11926,CUST_1021,31.0,Female,"$115,878.19",WA,2023-99-99,Home & Kitchen,2,$380.86,0%,Debit Card
+ORD-11539,CUST_1297,16.0,female,$ 51144.51,nan,nan,CLOTHING,1, $286.01 USD ,20%,nan
+ORD-10978,CUST_1103,28.0,female,98540.35,texas,"Oct 04, 2023",clothing,2, $64.79 USD ,0%,UPI / Wallet
+ORD-11670,CUST_1534,35.0,Male,"69,622.24",IL,2023-09-23,Beauty & Personal Care,2,$209.76,15%,credit card
+ORD-10739,CUST_1109,54.0,Other,$ 69527.15,IL,03/26/2023, Electronics ,1, $376.63 USD ,20%,Debit Card
+ORD-10192,CUST_1480,,male,"53,858.69",nan,2023-04-21,CLOTHING,1,238.53,0%,Cash
+ORD-10920,CUST_1111,36.0,Female,"$25,122.06",FL,"Feb 24, 2023",sports & outdoors,1,$240.22,10%,debit_card
+ORD-10457,CUST_1389,16.0,MALE,88876.73,California,2023-01-14,clothing,4,TBD,10%,PAYPAL
+ORD-11418,CUST_1211,17.0,male,"$102,499.36", CA ,nan,Beauty & Personal Care,1,TBD,10%,PayPal
+ORD-10676,CUST_1230,44.0,male,"$43,422.60",California,2024-09-23,Books,2,429.33,5%,cash
+ORD-10761,CUST_1257,,Male,"$101,949.06",TX,2024-03-30, Electronics ,1,$51.81,20%,paypal
+ORD-11927,CUST_1446,29.0,FEMALE,"$61,643.11", CA ,25.01.2023,clothing,1,253.53,10%,CC
+ORD-11702,CUST_1114,46.0,Female,"$59,092.16",Illinois,10/01/2023,Home & Kitchen,1,$18.92,15%,PAYPAL
+ORD-10729,CUST_1036,23.0,Other,$ 79960.22,california,01/13/2023,electronics,1,75.37,10%,nan
+ORD-10724,CUST_1055,47.0,Female,"$77,393.52",California,17.07.2023,Home & Kitchen,1,TBD,0%,PayPal
+ORD-11400,CUST_1074,43.0,Female,$ 56217.24,texas,28.09.2023,Beauty & Personal Care,1,$60.42,20%,PAYPAL
+ORD-10413,CUST_1292,39.0,Female,"86,513.36",New York,2024-10-16,Beauty & Personal Care,2,TBD,0%,paypal
+ORD-11099,CUST_1241,48.0,male,$ 95462.39,FL,10/26/2023,sports & outdoors,1,TBD,20%,credit card
+ORD-10826,CUST_1360,25.0,Female,"90,330.75",WA,"Dec 10, 2023",Beauty & Personal Care,1, $85.29 USD ,10%,CC
+ORD-11594,CUST_1526,30.0,M,"111,270.78",Texas,2024-01-09,Home & Kitchen,1,200.95,0%,paypal
+ORD-10617,CUST_1058,52.0,M,"$55,318.89",Illinois,2024-08-12,Books,1, $106.52 USD ,15%,credit card
+ORD-10115,CUST_1380,44.0,M,"119,928.37",New York,Invalid Date,Books,1,91.95,5%,UPI / Wallet
+ORD-10418,CUST_1334,44.0,MALE,null,IL,02/03/2023,Books,1,0.00,25%,CC
+ORD-11869,CUST_1135,35.0,M,$ 69714.88,Illinois,2023-04-19,Home & Kitchen,1,0.00,20%,credit card
+ORD-10970,CUST_1115,33.0,?,$ 110005.41, CA ,2024-11-03,sports & outdoors,3,$51.42,15%,PAYPAL
+ORD-10605,CUST_1443,34.0,female,N/A,Illinois,19.04.2024,electronics,2,0.00,0%,cash
+ORD-11538,CUST_1351,35.0,male,84279.59,Washington,2023-03-21,clothing,1, $149.97 USD ,15%,cash
+ORD-10090,CUST_1420,,M,$ 73442.11,texas,22.02.2024,sports & outdoors,5,138.48,20%,credit card
+ORD-10849,CUST_1129,30.0,Female,"50,575.76",California,07/30/2024,Home & Kitchen,1, $299.84 USD ,5%,CC
+ORD-11618,CUST_1268,33.0,female,$ 71100.33,Florida,Invalid Date,sports & outdoors,3, $432.49 USD ,20%,PayPal
+ORD-11481,CUST_1085,38.0,male,105737.89,FL,10.10.2024,Home & Kitchen,1,nan,5%,Debit Card
+ORD-10754,CUST_1103,42.0,M,N/A,IL,11/09/2023,CLOTHING,1,nan,0%,cash
+ORD-10499,CUST_1339,51.0,female,33875.99,texas,Invalid Date,CLOTHING,1, $293.30 USD ,10%,Credit Card
+ORD-11277,CUST_1196,29.0,Female,"$58,531.29",Florida,28.11.2023,Beauty & Personal Care,1,$200.37,20%,UPI / Wallet
+ORD-11326,CUST_1026,37.0,male,nan,IL,13.01.2023,clothing,2, $388.28 USD ,0%,CC
+ORD-10012,CUST_1403,30.0,Male,"91,316.69",Texas,10/01/2024,electronics,1, $64.36 USD ,5%,CC
+ORD-10397,CUST_1086,999.0,Male,$ 41089.47,IL,08.03.2024,sports & outdoors,1,138.83,20%,credit card
+ORD-10285,CUST_1029,36.0,Female,"51,545.42",Illinois,06/03/2024,Beauty & Personal Care,1,0.00,10%,Cash
+ORD-11067,CUST_1279,,Male,"$49,780.56",WA,nan,electronics,3, $146.39 USD ,20%,debit_card
+ORD-11192,CUST_1269,,Male,$ 59500.38,Illinois,Invalid Date,Books,4,$158.16,15%,Debit Card
+ORD-11441,CUST_1432,49.0,Male,"88,880.42",nan,"Sep 18, 2024",Books,1, $166.01 USD ,0%,Credit Card
+ORD-11856,CUST_1590,41.0,male,"$15,000.00",California,09.03.2023,Beauty & Personal Care,1, $46.65 USD ,15%,Debit Card
+ORD-11451,CUST_1148,19.0,Female,$ 27541.56,New York,2024-11-25,electronics,3,TBD,5%,debit_card
+ORD-10691,CUST_1296,23.0,MALE,"$84,931.96",IL,12/08/2023,sports & outdoors,3,FREE,0%,credit card
+ORD-11733,CUST_1414,37.0,Female,$ - ,california,2023-99-99, Electronics ,2,$267.91,15%,debit_card
+ORD-11999,CUST_1358,42.0,female,90489.65,New York,2023-11-07,Books,1,nan,20%,paypal
+ORD-10690,CUST_1017,20.0,M,$ 84608.88,Texas,2023-08-28,CLOTHING,1,0.00,15%,nan
+ORD-10852,CUST_1017,35.0,FEMALE,"61,480.84",WA,"Nov 26, 2024",clothing,3,$248.60,15%,cash
+ORD-11499,CUST_1451,61.0,Male,"$57,788.08",New York,2023-04-07,electronics,1,FREE,nan,CC
+ORD-10160,CUST_1354,17.0,Male,null,NY,16.06.2024,CLOTHING,1,nan,5%,UPI / Wallet
+ORD-10896,CUST_1046,43.0,female,"$67,555.43",texas,03.01.2023,Beauty & Personal Care,1, $85.11 USD ,20%,cash
+ORD-11674,CUST_1487,,FEMALE,64380.59,New York,Invalid Date,Home & Kitchen,1,0.00,20%,paypal
+ORD-10258,CUST_1364,32.0,male,87996.92,WA,10/03/2024,CLOTHING,2, $341.88 USD ,15%,nan
+ORD-10336,CUST_1336,16.0,Male,"$43,415.02",Florida,24.11.2024,electronics,5, $96.32 USD ,5%,UPI / Wallet
+ORD-11935,CUST_1153,54.0,Male,"48,460.25",Washington,"May 26, 2024",sports & outdoors,3, $338.02 USD ,10%,PayPal
+ORD-11040,CUST_1130,36.0,Female,60638.97,Illinois,12.10.2024,Home & Kitchen,1, $48.23 USD ,15%,Cash
+ORD-10516,CUST_1259,32.0,Female,67722.94,WA,nan,CLOTHING,1,$205.82,20%,CC
+ORD-11349,CUST_1114,39.0,Female,"$75,544.90",California,2023-03-20,CLOTHING,1,FREE,25%,PAYPAL
+ORD-11016,CUST_1176,16.0,Male,$ 26804.04,NY,16.07.2023, Electronics ,2,TBD,nan,credit card
+ORD-10769,CUST_1399,35.0,Male,"$40,191.39",Texas,2024-04-15, Electronics ,1, $295.36 USD ,10%,Cash
+ORD-11858,CUST_1548,35.0,male,$ 40594.53,NY,2023-11-23,Books,1,0.00,10%,UPI / Wallet
+ORD-10762,CUST_1363,32.0,male,"32,753.02",NY,04.06.2023, Electronics ,2,$434.56,5%,debit_card
+ORD-11247,CUST_1258,32.0,Female,$ 70364.46,NY,2024-06-05, Electronics ,1,$195.15,0%,PayPal
+ORD-11204,CUST_1377,16.0,male,"49,463.53",Illinois,2023-99-99,Books,3,0.00,15%,Debit Card
+ORD-11564,CUST_1338,64.0,Female,null,nan,Invalid Date,CLOTHING,2,$220.46,10%,UPI / Wallet
+ORD-11124,CUST_1375,19.0,Male,"94,024.86",california,12/30/2023,Books,1,$342.83,15 %,nan
+ORD-10522,CUST_1105,,Male,"79,973.50",nan,"Dec 20, 2023",clothing,1,159.08,5%,nan
+ORD-10023,CUST_1453,64.0,Male,33921.38,texas,12/23/2023,clothing,3,$128.49,5%,Credit Card
+ORD-10357,CUST_1579,185.0,M,"54,205.24",nan,2024-01-31,Home & Kitchen,2,$61.20,15%,Cash
+ORD-11278,CUST_1466,37.0,male,unknown, CA ,nan,electronics,1, $271.23 USD ,5%,CC
+ORD-11313,CUST_1328,38.0,Female,"$64,402.61",IL,07.06.2024,clothing,1, $182.18 USD ,0%,Credit Card
+ORD-11789,CUST_1349,37.0,F,$ 24152.37,california,2023-03-22,clothing,2, $139.99 USD ,15%,CC
+ORD-10341,CUST_1214,24.0,Male,"60,707.48",New York,02/19/2024,Books,1,nan,0%,credit card
+ORD-10432,CUST_1088,35.0,female,"80,872.87",TX,27.09.2023,Home & Kitchen,3,TBD,5%,credit card
+ORD-10474,CUST_1230,39.0,Male,"$73,294.93",nan,2023-07-23,sports & outdoors,2, $44.58 USD ,20%,cash
+ORD-10218,CUST_1400,61.0,F,90717.04,California,07/27/2024,Beauty & Personal Care,2,TBD,20%,UPI / Wallet
+ORD-10912,CUST_1222,49.0,Female,42446.0,Illinois,2024-08-26,clothing,1, $225.56 USD ,0%,Cash
+ORD-11228,CUST_1561,23.0,Male,$ 38449.19,texas,"Mar 07, 2024",Home & Kitchen,2,$295.13,0%,UPI / Wallet
+ORD-11695,CUST_1434,67.0,Male,74675.11,Florida,06/07/2024, Electronics ,3,309.55,0%,CC
+ORD-11012,CUST_1039,36.0,Female,"$53,955.54",california,"Sep 21, 2023",clothing,1,nan,20%,Credit Card
+ORD-10958,CUST_1340,67.0,MALE,74443.62,California,Invalid Date,Books,2, $204.05 USD ,10%,UPI / Wallet
+ORD-10094,CUST_1334,999.0,Other,N/A,IL,nan,CLOTHING,1,$33.08,5%,PAYPAL
+ORD-11009,CUST_1514,35.0,Male,unknown,FL,03/31/2024,Books,1, $444.49 USD ,5%,PayPal
+ORD-11071,CUST_1261,23.0,Male,$ 66495.09,Illinois,"May 13, 2023",clothing,1,$369.78,20%,UPI / Wallet
+ORD-11093,CUST_1509,40.0,M,"$51,551.52",TX,"Feb 24, 2024",electronics,1,$227.37,20%,UPI / Wallet
+ORD-11684,CUST_1542,52.0,female,$ 50903.66,texas,nan,Books,1,FREE,0%,PAYPAL
+ORD-11309,CUST_1266,54.0,female,$ 68880.29,WA,nan, Electronics ,1,318.84,0%,debit_card
+ORD-10697,CUST_1549,73.0,MALE,"$54,160.61",FL,"Jul 23, 2023",sports & outdoors,2,nan,5%,CC
+ORD-11910,CUST_1453,34.0,Female,"44,501.67",Florida,"Jan 16, 2024", Electronics ,4,368.82,0%,Credit Card
+ORD-10997,CUST_1542,39.0,Female,null,california,2024-05-12, Electronics ,2,330.25,10%,nan
+ORD-11459,CUST_1579,54.0,Female,"$125,999.39",NY,03.02.2023,Beauty & Personal Care,2,$306.06,10%,PayPal
+ORD-10154,CUST_1266,33.0,Female,"$57,383.71",New York,"Nov 08, 2024",electronics,3,0.00,20%,cash
+ORD-11100,CUST_1266,52.0,Other,"43,117.23",NY,09/11/2023,Books,1,0.00,0%,credit card
+ORD-11827,CUST_1311,36.0,Female,nan,texas,09/17/2024,sports & outdoors,4,$57.46,15%,Cash
+ORD-10447,CUST_1253,39.0,male,nan,New York,2023-08-16,sports & outdoors,1,195.99,15 %,CC
+ORD-10790,CUST_1073,45.0,male,111114.55,Illinois,2023-12-04,sports & outdoors,1,nan,0%,Cash
+ORD-10581,CUST_1489,34.0,Female,"$31,760.88", CA ,08/05/2023,CLOTHING,1, $320.35 USD ,5%,debit_card
+ORD-11471,CUST_1056,54.0,Female,$ 93432.63,Florida,26.03.2023,Beauty & Personal Care,1,FREE,20%,Debit Card
+ORD-10704,CUST_1044,62.0,M,$ 16811.84,TX,"Jun 21, 2023",CLOTHING,1,$333.25,5%,CC
+ORD-11213,CUST_1054,49.0,female,"91,429.27",Washington,Invalid Date,Beauty & Personal Care,1,98.73,10%,cash
+ORD-11296,CUST_1278,35.0,F,"95,531.06",California,"Dec 13, 2023", Electronics ,4,114.7,20%,CC
+ORD-11772,CUST_1132,38.0,F,"80,832.20",Illinois,29.01.2023,Home & Kitchen,2,$91.66,nan,Credit Card
+ORD-11261,CUST_1550,51.0,Male,$ 74326.05,WA,19.12.2023,sports & outdoors,2,nan,25%,Debit Card
+ORD-10488,CUST_1408,16.0,M,52492.75, CA ,2023-07-22,electronics,1,FREE,0%,Cash
+ORD-10560,CUST_1044,30.0,male,"30,825.01",TX,04/19/2023,CLOTHING,1, $405.98 USD ,5%,CC
+ORD-11142,CUST_1212,44.0,Female,"$50,787.84",Florida,nan,Beauty & Personal Care,2, $311.87 USD ,10%,CC
+ORD-11120,CUST_1007,25.0,Female,100182.41,Washington,"Sep 11, 2024",sports & outdoors,1, $16.54 USD ,5%,PAYPAL
+ORD-10802,CUST_1460,27.0,M,"$71,435.15",Texas,2024-06-30,CLOTHING,5, $46.19 USD ,10%,UPI / Wallet
+ORD-10513,CUST_1051,26.0,Female,"71,593.71",nan,22.05.2023,Home & Kitchen,5,31.25,20%,PayPal
+ORD-10634,CUST_1273,44.0,Male,"100,195.83",Washington,15.06.2023, Electronics ,1,74.09,15%,credit card
+ORD-11576,CUST_1018,34.0,male,nan,WA,08/16/2023,Books,4,$373.52,20%,CC
+ORD-11904,CUST_1561,52.0,Male,"45,953.20",IL,07/28/2024,Books,1,$198.88,20%,paypal
+ORD-10936,CUST_1271,51.0,Female,$ 60005.03,TX,"Nov 22, 2024",Home & Kitchen,1,$378.32,20%,nan
+ORD-11151,CUST_1062,37.0,male,nan, CA ,25.07.2024, Electronics ,3,TBD,10%,Credit Card
+ORD-10791,CUST_1473,31.0,Male,60271.29,WA,nan,clothing,1,$38.04,0%,Debit Card
+ORD-10117,CUST_1308,32.0,Female,"$78,292.00",California,2023-99-99,clothing,3,430.57,0%,Credit Card
+ORD-11498,CUST_1541,30.0,Female,"86,851.81",nan,16.11.2023,Beauty & Personal Care,1,200.88,nan,Credit Card
+ORD-10741,CUST_1389,41.0,M,"$58,212.56",Washington,2023-99-99,electronics,1,$202.38,15%,nan
+ORD-11798,CUST_1484,74.0,FEMALE,"62,850.85",Florida,13.02.2024,Books,3,$294.12,5%,CC
+ORD-11082,CUST_1242,26.0,Female,77040.61,NY,25.01.2023,clothing,1,nan,0%,debit_card
+ORD-10831,CUST_1556,47.0,unknown,40357.79,Illinois,2023-03-15,Books,5,nan,20%,credit card
+ORD-10120,CUST_1320,56.0,Male,"69,176.45",Texas,11/25/2023,Books,1,$282.53,nan,cash
+ORD-10657,CUST_1120,64.0,M,"45,766.61",California,13.03.2023,Home & Kitchen,1,203.87,15%,paypal
+ORD-10255,CUST_1150,34.0,male,$ 66762.43,Texas,2023-09-27,clothing,4, $93.81 USD ,20%,Debit Card
+ORD-10636,CUST_1090,56.0,female,"31,363.28",New York,Invalid Date,clothing,1,$173.51,15%,Credit Card
+ORD-10370,CUST_1049,42.0,FEMALE,"47,173.40",Texas,10/03/2023,Home & Kitchen,2,0.00,15%,Cash
+ORD-10269,CUST_1452,41.0,Male,"$67,074.21",NY,Invalid Date,sports & outdoors,1, $376.71 USD ,20%,UPI / Wallet
+ORD-10656,CUST_1041,,Male,"85,842.66",IL,06/02/2024,Home & Kitchen,4,187.95,15 %,credit card
+ORD-10936,CUST_1271,51.0,Female,$ 60005.03,TX,"Nov 22, 2024",Home & Kitchen,1,$378.32,20%,nan
+ORD-10823,CUST_1081,38.0,Male,"$48,534.77",IL,nan, Electronics ,2,67.57,5%,PAYPAL
+ORD-10867,CUST_1064,46.0,Female,N/A,WA,"Jan 17, 2023",Home & Kitchen,1,287.71,0%,nan
+ORD-10047,CUST_1259,-5.0,M,"31,394.83",New York,03.10.2024, Electronics ,1, $65.76 USD ,10%,Credit Card
+ORD-11374,CUST_1329,31.0,nan,79891.04,TX,nan,Books,2,FREE,5%,PAYPAL
+ORD-11817,CUST_1124,37.0,Female,unknown,nan,06/04/2024,Home & Kitchen,1,$251.64,10%,Cash
+ORD-10992,CUST_1103,38.0,M,$ - ,Texas,09.09.2024,electronics,2, $274.99 USD ,0%,nan
+ORD-10877,CUST_1107,30.0,MALE,85921.39,texas,2024-01-06, Electronics ,2, $268.41 USD ,10%,credit card
+ORD-10774,CUST_1351,50.0,Female,$ 84086.98,FL,2024-03-22,Beauty & Personal Care,1,189.58,20%,debit_card
+ORD-11220,CUST_1215,54.0,male,"$49,928.91",Washington,2023-07-01,sports & outdoors,1,216.55,0%,Credit Card
+ORD-11127,CUST_1225,16.0,Female,$ 55617.80,texas,03/12/2023, Electronics ,1,FREE,10%,CC
+ORD-10005,CUST_1296,41.0,Female,"104,402.51", CA ,nan,Home & Kitchen,1,nan,10%,CC
+ORD-11004,CUST_1309,18.0,Female,$ 80578.24,TX,04.05.2023,electronics,1,$129.63,20%,paypal
+ORD-11775,CUST_1186,47.0,F,"$94,335.90",texas,2024-09-23,electronics,1,$407.55,20%,PAYPAL
+ORD-11833,CUST_1228,34.0,female,"$116,523.87",Florida,2024-05-04,CLOTHING,3,$233.07,15%,Cash
+ORD-10264,CUST_1004,16.0,Female,"44,211.31",IL,17.11.2023,Home & Kitchen,1,0.00,5%,UPI / Wallet
+ORD-11668,CUST_1286,21.0,Female,"$67,192.87",Texas,30.12.2023,Beauty & Personal Care,2, $310.40 USD ,0%,credit card
+ORD-11951,CUST_1357,50.0,male,"$62,392.98",New York,20.09.2023,Beauty & Personal Care,2, $168.43 USD ,10%,debit_card
+ORD-10444,CUST_1153,16.0,Female,nan,WA,06/14/2024,clothing,1,$185.88,0%,nan
+ORD-11003,CUST_1574,55.0,F,"97,001.61",california,23.04.2023,electronics,3, $141.17 USD ,15 %,PAYPAL
+ORD-11078,CUST_1277,31.0,Female,"35,296.57",IL,"Feb 03, 2023",clothing,2,0.00,0%,nan
+ORD-10838,CUST_1428,24.0,Female,null,Illinois,15.01.2023, Electronics ,2,0.00,20%,nan
+ORD-11907,CUST_1045,64.0,female,100749.35,IL,26.12.2023,Books,1,$226.87,0%,PAYPAL
+ORD-10305,CUST_1001,250.0,Female,$ 61599.93,TX,"Jul 03, 2024",sports & outdoors,1,$393.09,20%,debit_card
+ORD-11366,CUST_1179,30.0,Male,"$65,914.23",Illinois,28.01.2024,Books,1,320.82,15 %,debit_card
+ORD-11656,CUST_1002,32.0,male,$ 64582.78,Texas,13.04.2024,Beauty & Personal Care,2,$115.31,5%,Debit Card
+ORD-10314,CUST_1501,60.0,female,$ 48696.69,TX,07.04.2023,Home & Kitchen,1,$322.09,0%,paypal
+ORD-10150,CUST_1573,34.0,Male,"$15,371.49", CA ,nan,sports & outdoors,1,TBD,20%,debit_card
+ORD-11149,CUST_1401,56.0,Male,46388.42,TX,06/30/2024,CLOTHING,1, $63.66 USD ,0%,paypal
+ORD-11214,CUST_1128,26.0,Male,"86,911.79",Florida,18.10.2024,Home & Kitchen,1,$70.15,5%,nan
+ORD-10575,CUST_1239,16.0,male,"$31,343.14",IL,07.04.2023,clothing,-3, $318.68 USD ,15%,credit card
+ORD-10051,CUST_1289,,Female,$ 92450.10,Illinois,Invalid Date,Books,1,187.82,20%,Debit Card
+ORD-11651,CUST_1163,19.0,Male,$ 26129.04,Illinois,"May 26, 2023",Home & Kitchen,1,395.36,20%,cash
+ORD-10727,CUST_1301,80.0,F,$ 91534.42,New York,"Sep 19, 2023",sports & outdoors,1, $200.25 USD ,10%,debit_card
+ORD-10834,CUST_1034,48.0,Female,79852.65,California,09/30/2023,Books,1, $429.84 USD ,nan,cash
+ORD-11378,CUST_1355,46.0,Male,82002.29,Texas,"May 12, 2023",sports & outdoors,2,215.8,20%,Cash
+ORD-11116,CUST_1387,18.0,MALE,"101,534.70",texas,04/02/2023,CLOTHING,3, $292.59 USD ,15%,UPI / Wallet
+ORD-11167,CUST_1163,75.0,FEMALE,$ 84789.08,California,01.04.2023, Electronics ,2, $196.29 USD ,10%,PAYPAL
+ORD-10471,CUST_1560,26.0,female,"$110,351.23", CA ,2023-02-07,clothing,3,244.46,0%,PAYPAL
+ORD-10972,CUST_1311,,Male,83624.11,New York,nan,Books,2,$348.19,10%,nan
+ORD-10654,CUST_1148,39.0,male,"$23,823.00",Illinois,"Oct 20, 2024", Electronics ,1,$59.60,20%,PAYPAL
+ORD-10400,CUST_1141,63.0,Male,"$72,473.43",NY,2024-10-19,electronics,1,$378.85,10%,nan
+ORD-10512,CUST_1409,54.0,M,"$86,013.39",NY,2023-04-06,Home & Kitchen,1,$294.96,15%,PayPal
+ORD-10321,CUST_1567,36.0,?,"25,069.92",NY,2023-99-99,sports & outdoors,1,FREE,15%,PayPal
+ORD-10020,CUST_1570,,Male,"$43,565.11",Illinois,nan,Books,1, $246.14 USD ,15%,credit card
+ORD-10685,CUST_1071,20.0,male,$ 62993.80,NY,22.04.2024,CLOTHING,2,230.57,15%,Debit Card
+ORD-10036,CUST_1083,23.0,unknown,61582.89,California,2024-03-24,electronics,1,$64.40,10%,UPI / Wallet
+ORD-10903,CUST_1144,41.0,female,61440.27,IL,07/16/2023,sports & outdoors,0, $200.93 USD ,10%,CC
+ORD-11894,CUST_1215,54.0,Male,"71,314.47",Texas,Invalid Date,sports & outdoors,2, $324.00 USD ,0%,Credit Card
+ORD-10828,CUST_1270,41.0,nan,111646.0, CA ,2024-03-28,Home & Kitchen,3, $224.26 USD ,5%,Cash
+ORD-11915,CUST_1221,17.0,Male,51373.29,California,"Mar 30, 2023",Books,1,$385.35,5%,PayPal
+ORD-10408,CUST_1137,44.0,M,"$84,218.37", CA ,19.11.2023,sports & outdoors,2, $150.51 USD ,10%,CC
+ORD-10921,CUST_1287,39.0,Male,$ 22541.89,Illinois,25.06.2023, Electronics ,1, $32.51 USD ,5%,Cash
+ORD-10538,CUST_1311,45.0,Female,"$16,224.30",California,02.12.2023,Home & Kitchen,1,$338.80,20%,cash
+ORD-10759,CUST_1567,60.0,Male,"67,620.18", CA ,19.11.2023,clothing,-1,193.56,10%,cash
+ORD-10998,CUST_1080,,F,"81,987.00",IL,08.11.2024,Home & Kitchen,1,218.5,15%,credit card
+ORD-11063,CUST_1057,50.0,male,$ 79880.12,texas,12.11.2024,sports & outdoors,1,$45.85,0%,debit_card
+ORD-11200,CUST_1476,54.0,Male,"$128,385.72",texas,nan,clothing,2,64.48,10%,credit card
+ORD-10246,CUST_1180,,female,"$97,971.39",texas,Invalid Date,Home & Kitchen,5,108.39,5%,Credit Card
+ORD-11417,CUST_1531,,FEMALE,"$50,016.85",New York,"Nov 12, 2023", Electronics ,1, $314.22 USD ,20%,Cash
+ORD-11128,CUST_1024,40.0,Female,55010.78,texas,23.03.2024,Books,1,442.38,5%,paypal
+ORD-10785,CUST_1394,48.0,female,"36,247.48",FL,2023-06-26, Electronics ,1, $227.04 USD ,10%,PAYPAL
+ORD-11853,CUST_1563,26.0,Male,"$58,906.38",texas,14.08.2024,electronics,2,145.2,10%,credit card
+ORD-10490,CUST_1411,57.0,female,"68,021.63",NY,2024-08-05,Books,3,nan,5%,CC
+ORD-10155,CUST_1213,35.0,female,$ - ,California,"Mar 13, 2024",clothing,1,$251.00,15%,nan
+ORD-10962,CUST_1516,19.0,M,$ 46451.99,California,2024-11-22,sports & outdoors,1, $358.98 USD ,15%,cash
+ORD-10854,CUST_1237,31.0,Other,$ 78932.45,california,2023-07-22,sports & outdoors,2,258.03,5%,Credit Card
+ORD-11312,CUST_1116,60.0,female,$ 86103.38,NY,2023-99-99,Books,1, $132.77 USD ,20%,Cash
+ORD-10626,CUST_1044,51.0,M,"$81,904.07",nan,05/21/2024,sports & outdoors,2,$427.40,15%,credit card
+ORD-10686,CUST_1258,999.0,Male,"35,050.26",FL,"Sep 01, 2024",Home & Kitchen,1, $148.26 USD ,10%,UPI / Wallet
+ORD-11660,CUST_1395,31.0,female,$ 75589.18,california,"Jul 02, 2024",Home & Kitchen,5,81.1,5%,PAYPAL
+ORD-10570,CUST_1093,16.0,MALE,"69,072.70", CA ,29.03.2023,sports & outdoors,1,nan,10%,nan
+ORD-11006,CUST_1463,36.0,male,"$28,833.86",Texas,2023-09-20,sports & outdoors,1, $95.05 USD ,20%,PayPal
+ORD-10018,CUST_1288,19.0,male,"46,981.72",Florida,"Jan 28, 2024",sports & outdoors,1, $367.07 USD ,20%,nan
+ORD-10128,CUST_1319,33.0,Male,$ 81713.30,FL,2023-99-99,Books,1,176.57,10%,UPI / Wallet
+ORD-11347,CUST_1022,47.0,n/a,$ 26435.41,California,2023-99-99,Books,3,155.15,0%,credit card
+ORD-11280,CUST_1483,19.0,Female,66140.43,WA,27.04.2023,clothing,1,0.00,20%,credit card
+ORD-10607,CUST_1204,49.0,M,"39,594.36",California,"Feb 18, 2023",CLOTHING,2, $282.37 USD ,10%,cash
+ORD-10928,CUST_1339,42.0,male,63926.36,New York,2024-03-22,CLOTHING,1, $425.79 USD ,10%,nan
+ORD-10981,CUST_1208,42.0,Female,"101,142.32",nan,02.10.2023,clothing,-3, $53.17 USD ,0%,CC
+ORD-10253,CUST_1458,41.0,Male,37010.29,nan,2023-99-99,sports & outdoors,1,61.81,5%,credit card
+ORD-10191,CUST_1206,24.0,male,31958.49,IL,nan,electronics,1, $323.55 USD ,0%,Credit Card
+ORD-11140,CUST_1403,,Male,45391.11,Washington,Invalid Date,Books,1,nan,15 %,UPI / Wallet
+ORD-10993,CUST_1254,41.0,female,$ 43792.37,California,Invalid Date,clothing,1,nan,10%,debit_card
+ORD-10700,CUST_1192,28.0,unknown,"64,780.18",New York,2023-06-03,Beauty & Personal Care,1, $61.30 USD ,20%,CC
+ORD-11762,CUST_1353,36.0,Female,"$82,975.61", CA ,2023-99-99,electronics,1, $306.67 USD ,10%,Cash
+ORD-10607,CUST_1204,49.0,M,"39,594.36",California,"Feb 18, 2023",CLOTHING,2, $282.37 USD ,10%,cash
+ORD-10181,CUST_1223,,Male,"61,260.28",FL,"May 07, 2024",Beauty & Personal Care,5, $360.02 USD ,15%,PayPal
+ORD-10302,CUST_1035,36.0,Male,N/A,nan,"Jan 01, 2023",electronics,1, $88.20 USD ,0%,credit card
+ORD-10497,CUST_1210,59.0,nan,N/A,TX,01.08.2024,CLOTHING,2,$232.17,0%,nan
+ORD-11804,CUST_1551,22.0,Male,"$36,610.89",Texas,07/08/2024, Electronics ,1,FREE,15%,Debit Card
+ORD-11818,CUST_1451,58.0,Male,$ 48168.13,FL,08.07.2024,sports & outdoors,3, $156.99 USD ,15%,Cash
+ORD-11767,CUST_1461,,Male,$ 68206.24,california,08/12/2023,Beauty & Personal Care,4,$442.27,15%,cash
+ORD-11741,CUST_1211,33.0,Male,"$41,423.88",Illinois,"May 10, 2024",clothing,1, $52.08 USD ,15%,PAYPAL
+ORD-10518,CUST_1273,48.0,Female,"45,547.31",nan,2024-10-03,sports & outdoors,2,$111.24,5%,PayPal
+ORD-11397,CUST_1249,47.0,Male,null,New York,07/12/2024,Beauty & Personal Care,1,$81.37,15%,nan
+ORD-11070,CUST_1246,33.0,nan,$ 66154.03,Texas,Invalid Date,clothing,1,$298.39,5%,Cash
+ORD-10477,CUST_1081,52.0,Male,"55,147.56",Florida,2023-99-99, Electronics ,1, $387.20 USD ,10%,credit card
+ORD-10158,CUST_1443,28.0,Male,22584.86,Illinois,2023-99-99,clothing,1,430.82,15%,credit card
+ORD-11244,CUST_1399,51.0,unknown,"$55,379.23",WA,09/10/2023,Books,1, $33.46 USD ,15%,Cash
+ORD-11196,CUST_1574,33.0,n/a,"96,800.96",nan,nan,sports & outdoors,1,nan,10%,CC
+ORD-10017,CUST_1037,44.0,nan,$ 63252.11,Washington,Invalid Date, Electronics ,1, $257.21 USD ,10%,PAYPAL
+ORD-11536,CUST_1538,54.0,Male,82414.37,Illinois,nan,sports & outdoors,2,166.14,10%,debit_card
+ORD-11073,CUST_1297,40.0,Female,77339.49,IL,18.03.2024,CLOTHING,1, $173.53 USD ,15%,debit_card
+ORD-10183,CUST_1571,26.0,unknown,"102,997.41",texas,05/21/2023,electronics,1, $115.94 USD ,10%,Debit Card
+ORD-10547,CUST_1552,42.0,female,$ 55253.81,TX,"Jun 24, 2023",sports & outdoors,1,nan,10%,cash
+ORD-11540,CUST_1043,,male,"97,420.33",texas,"Sep 18, 2024",CLOTHING,1,$406.56,10%,CC
+ORD-10659,CUST_1378,24.0,M,"$89,425.16",NY,15.05.2023,CLOTHING,3,89.19,20%,Credit Card
+ORD-11969,CUST_1289,30.0,female,61173.86,FL,2024-09-21,Books,1,$304.80,15%,PayPal
+ORD-11020,CUST_1340,44.0,Female,"37,998.82",Texas,07/19/2024,Books,2, $411.23 USD ,5%,Debit Card
+ORD-11768,CUST_1260,32.0,nan,null,New York,nan,clothing,3,436.99,0%,Debit Card
+ORD-11505,CUST_1529,40.0,nan,$ 50013.96,NY,16.12.2023,Books,2,nan,10%,cash
+ORD-10960,CUST_1456,17.0,F,$ 84674.43,Texas,"Jul 28, 2023",electronics,1,$315.24,5%,Credit Card
+ORD-11038,CUST_1290,42.0,M,"$95,809.26",NY,15.12.2023,sports & outdoors,1, $127.88 USD ,15%,paypal
+ORD-10284,CUST_1433,26.0,Male,$ - ,Illinois,Invalid Date,clothing,1, $287.02 USD ,10%,cash
+ORD-11633,CUST_1300,39.0,Female,77731.76,WA,2024-05-21, Electronics ,1,76.06,10%,credit card
+ORD-10798,CUST_1353,43.0,Male,$ 100064.61,FL,Invalid Date,CLOTHING,3,44.17,15%,debit_card
+ORD-11727,CUST_1079,60.0,male,$ 99370.96,NY,2023-99-99,sports & outdoors,4,$87.99,15%,Credit Card
+ORD-10226,CUST_1093,20.0,Male,"17,162.75",TX,"Aug 10, 2023",Beauty & Personal Care,1,81.86,5%,Debit Card
+ORD-10027,CUST_1525,29.0,Female,"$32,791.82",Florida,Invalid Date,CLOTHING,1,nan,15%,CC
+ORD-11886,CUST_1210,30.0,Female,46793.97,IL,12.01.2023, Electronics ,4,53.16,15%,UPI / Wallet
+ORD-10438,CUST_1162,23.0,Male,$ 41570.09,Illinois,2023-99-99,sports & outdoors,2,TBD,15%,PayPal
+ORD-10904,CUST_1572,44.0,Female,nan, CA ,2024-04-13,Home & Kitchen,1,nan,15%,nan
+ORD-11389,CUST_1548,46.0,female,$ 67209.82,IL,09/28/2023,Beauty & Personal Care,1,201.22,20%,debit_card
+ORD-10230,CUST_1296,,Male,"97,814.55",TX,03.04.2023,clothing,1,TBD,15%,credit card
+ORD-10038,CUST_1308,50.0,male,"$62,514.17",WA,2023-99-99,electronics,2,43.81,20%,credit card
+ORD-11694,CUST_1221,185.0,female,"47,005.38",TX,02/02/2023,CLOTHING,2,$357.53,15%,cash
+ORD-10750,CUST_1446,43.0,female,$ 75655.66,WA,"Mar 10, 2023",clothing,1,0.00,20%,debit_card
+ORD-11046,CUST_1068,16.0,M,101101.11,Illinois,10/28/2024,clothing,1,299.2,20%,Cash
+ORD-11399,CUST_1056,32.0,Female,"$70,339.16",IL,01/23/2024,CLOTHING,2,$84.10,0%,PayPal
+ORD-10470,CUST_1574,51.0,M,$ 51845.89,Florida,"Nov 17, 2024",clothing,1,$404.61,5%,paypal
+ORD-11800,CUST_1346,999.0,male,"53,304.49",nan,"Feb 23, 2024",Books,3,417.59,nan,CC
+ORD-10417,CUST_1392,19.0,female,"$64,284.40",california,15.05.2024,sports & outdoors,2, $64.91 USD ,10%,Debit Card
+ORD-10688,CUST_1431,23.0,Male,"$74,501.94",Illinois,"Nov 24, 2024",Books,1,263.76,0%,cash
+ORD-11965,CUST_1367,41.0,F,"$9,999,999.00", CA ,01/08/2024,CLOTHING,1,$24.68,15%,PAYPAL
+ORD-10640,CUST_1592,26.0,Female,"51,292.60",FL,11/30/2023,CLOTHING,2,$58.60,5%,nan
+ORD-11821,CUST_1513,32.0,nan,66748.2,IL,2023-12-07, Electronics ,1, $72.58 USD ,15%,PAYPAL
+ORD-11219,CUST_1304,25.0,Female,$ 15000.00,Texas,25.04.2024,CLOTHING,3,FREE,5%,UPI / Wallet
+ORD-11159,CUST_1325,30.0,Female,$ 70587.75,NY,2023-08-26,Books,1,nan,5%,Debit Card
+ORD-11416,CUST_1229,32.0,M,65351.65,IL,2024-07-14,Beauty & Personal Care,3,430.88,0%,Credit Card
+ORD-11528,CUST_1374,39.0,F,"$80,333.59",california,2023-99-99,electronics,1,220.8,10%,PAYPAL
+ORD-11839,CUST_1002,25.0,Female,83924.75,TX,2023-99-99,electronics,2,341.95,15 %,PAYPAL
+ORD-11301,CUST_1472,55.0,Female,$ 54449.21,TX,06.08.2024, Electronics ,1,$376.86,0%,Cash
+ORD-11943,CUST_1355,37.0,female,"$37,143.43",california,2024-03-22,CLOTHING,5,FREE,15%,paypal
+ORD-10801,CUST_1495,56.0,Female,"$15,000.00",Florida,2024-08-26, Electronics ,4,$128.45,0%,Cash
+ORD-11604,CUST_1271,40.0,Male,null,New York,2024-06-03,Books,1,302.45,25%,debit_card
+ORD-10161,CUST_1435,25.0,male,$ 90455.43,WA,nan, Electronics ,3, $72.58 USD ,10%,PayPal
+ORD-11705,CUST_1493,59.0,Female,$ 72699.59,TX,"Dec 15, 2023", Electronics ,1,$201.74,0%,cash
+ORD-10957,CUST_1118,35.0,Female,"33,196.23",Washington,02/28/2024,CLOTHING,1,TBD,0%,Debit Card
+ORD-11187,CUST_1398,27.0,Male,76428.18,FL,2024-03-03,CLOTHING,3, $271.20 USD ,15%,Debit Card
+ORD-10822,CUST_1584,37.0,male,37878.94,TX,09/11/2023,CLOTHING,1, $361.81 USD ,5%,cash
+ORD-11730,CUST_1423,16.0,F,"116,407.58",New York,"Mar 14, 2024",Home & Kitchen,1, $260.45 USD ,10%,PAYPAL
+ORD-11788,CUST_1011,40.0,male,"69,303.64",NY,2024-08-15,Beauty & Personal Care,1, $183.49 USD ,0%,PAYPAL
+ORD-10878,CUST_1092,46.0,M,"$50,834.73",Texas,29.10.2024,electronics,2,335.99,10%,paypal
+ORD-10914,CUST_1045,38.0,male,$ 60858.77, CA ,10.04.2023,electronics,1,109.08,0%,PayPal
+ORD-10153,CUST_1324,16.0,Male,"47,740.32",california,2023-04-23,Beauty & Personal Care,1, $424.65 USD ,5%,credit card
+ORD-11958,CUST_1369,35.0,M,63953.7,Illinois,"Oct 16, 2024", Electronics ,3,92.15,0%,debit_card
+ORD-11892,CUST_1412,18.0,Female,62694.68, CA ,03.02.2024,electronics,2,nan,15%,Debit Card
+ORD-10510,CUST_1004,59.0,Male,$ 52507.68,Texas,2023-99-99,CLOTHING,1,FREE,0%,UPI / Wallet
+ORD-11136,CUST_1137,26.0,Other,$ 42734.86,California,21.07.2023,clothing,-3,331.64,5%,CC
+ORD-11251,CUST_1279,45.0,female,$ 57676.10,Illinois,nan,clothing,1,nan,20%,UPI / Wallet
+ORD-11770,CUST_1180,25.0,Male,"$81,758.37",california,2023-99-99,sports & outdoors,3,0.00,0%,Credit Card
+ORD-10104,CUST_1060,46.0,Male,"$81,344.15",Texas,2024-11-17,CLOTHING,1,$247.88,10%,nan
+ORD-11446,CUST_1189,32.0,male,"62,645.95", CA ,"Feb 26, 2023",sports & outdoors,3,$183.43,10%,nan
+ORD-11444,CUST_1091,41.0,F,"$58,551.52",FL,nan,clothing,1, $72.16 USD ,5%,Credit Card
+ORD-11849,CUST_1240,34.0,female,43168.3,FL,"Feb 09, 2023",Books,3, $281.05 USD ,20%,Cash
+ORD-10587,CUST_1447,45.0,female,$ 15000.00, CA ,17.10.2023,Books,4,$321.89,5%,CC
+ORD-11884,CUST_1229,40.0,male,"90,904.47",Washington,2023-99-99,electronics,1, $423.29 USD ,5%,credit card
+ORD-11697,CUST_1172,16.0,Male,"$63,908.66",texas,04/14/2023,electronics,2, $392.31 USD ,15%,Debit Card
+ORD-11144,CUST_1231,31.0,Male,"115,074.12",nan,Invalid Date,CLOTHING,2,21.74,5%,paypal
+ORD-10054,CUST_1407,48.0,Male,"$75,052.15",FL,"Jul 20, 2024",electronics,1,$338.75,20%,cash
+ORD-10152,CUST_1019,41.0,Female,"$77,209.40",California,24.08.2024,clothing,3,$15.92,0%,Debit Card
+ORD-10404,CUST_1490,49.0,M,$ 67703.78,Washington,01/02/2024,clothing,2, $298.07 USD ,20%,paypal
+ORD-11155,CUST_1490,45.0,Male,"$103,445.57",Florida,2023-99-99,electronics,4,$66.80,15%,UPI / Wallet
+ORD-10208,CUST_1319,39.0,Male,"$68,016.80",Texas,07/01/2024, Electronics ,4,396.2,10%,CC
+ORD-10166,CUST_1127,45.0,Female,101950.56,WA,19.01.2024,sports & outdoors,0, $166.74 USD ,20%,credit card
+ORD-11683,CUST_1394,18.0,Male,"81,933.07", CA ,2024-05-12,Beauty & Personal Care,2,TBD,0%,Debit Card
+ORD-11123,CUST_1006,57.0,MALE,$ 48269.86,Illinois,20.05.2024,Books,2,$163.78,5%,nan
+ORD-11913,CUST_1135,43.0,Male,"$62,891.21",TX,Invalid Date,Beauty & Personal Care,2,43.29,10%,CC
+ORD-10009,CUST_1225,19.0,Male,40542.25,Washington,2024-11-07,CLOTHING,1,TBD,15%,Credit Card
+ORD-11015,CUST_1505,49.0,male,"34,305.66",nan,06/19/2024,CLOTHING,1, $233.03 USD ,0%,cash
+ORD-11914,CUST_1468,47.0,Male,"$97,474.05",Illinois,20.01.2023, Electronics ,3,$163.58,0%,PAYPAL
+ORD-11061,CUST_1289,44.0,M,58753.84,Florida,Invalid Date,Books,1,nan,20%,cash
+ORD-10453,CUST_1176,26.0,female,"44,394.14",New York,2024-05-09,clothing,1, $285.36 USD ,10%,Credit Card
+ORD-11676,CUST_1374,22.0,Male,"32,501.09",TX,21.10.2023,Home & Kitchen,1,422.24,10%,CC
+ORD-10254,CUST_1424,16.0,male,$ 73110.41, CA ,"Apr 16, 2023",CLOTHING,4,186.89,10%,PayPal
+ORD-11328,CUST_1021,35.0,Male,$ 52127.70,IL,Invalid Date,sports & outdoors,1,$267.05,10%,PAYPAL
+ORD-10897,CUST_1469,29.0,M,"$79,228.02",IL,"Jun 17, 2023",clothing,1, $149.71 USD ,5%,PAYPAL
+ORD-11844,CUST_1171,30.0,M,"87,659.65",california,22.06.2023,Beauty & Personal Care,5,357.74,15%,Cash
+ORD-10881,CUST_1392,32.0,Male,$ 64838.33,WA,01/17/2024,CLOTHING,2, $401.54 USD ,15%,nan
+ORD-11596,CUST_1288,39.0,Female,94631.41,California,03/01/2024,sports & outdoors,4,nan,0%,PAYPAL
+ORD-10163,CUST_1587,29.0,Female,97986.51,nan,"Apr 09, 2024",Home & Kitchen,1, $374.97 USD ,20%,CC
+ORD-10624,CUST_1579,40.0,female,"82,994.90",New York,01/17/2023,clothing,1,0.00,20%,debit_card
+ORD-10346,CUST_1436,24.0,F,"$46,430.60",NY,2024-05-11, Electronics ,4,$310.67,5%,UPI / Wallet
+ORD-11811,CUST_1359,26.0,Male,$ 41570.90,WA,nan,Beauty & Personal Care,3,$180.74,20%,PayPal
+ORD-10263,CUST_1189,56.0,?,24567.18,New York,2023-11-12,electronics,1, $421.48 USD ,10%,paypal
+ORD-11635,CUST_1012,52.0,Male,null,nan,nan,Books,2,FREE,0%,UPI / Wallet
+ORD-11322,CUST_1420,30.0,FEMALE,"66,826.00",California,2023-08-31,clothing,1,$154.82,0%,PAYPAL
+ORD-11439,CUST_1030,66.0,female,"81,214.29",NY,nan,CLOTHING,2,173.2,0%,Cash
+ORD-10151,CUST_1318,29.0,female,$ 85489.11,texas,2023-07-02,Books,2,446.88,20%,Credit Card
+ORD-10473,CUST_1420,36.0,Female,unknown,NY,"Oct 04, 2024", Electronics ,1,$80.88,10%,paypal
+ORD-10641,CUST_1077,27.0,M,"15,000.00",California,22.07.2024,electronics,1,FREE,0%,cash
+ORD-10872,CUST_1424,44.0,Male,$ - ,FL,2024-09-14,clothing,3,TBD,20%,nan
+ORD-11940,CUST_1079,33.0,Female,"$104,864.55",TX,15.06.2024,Home & Kitchen,1,FREE,0%,Cash
+ORD-10551,CUST_1455,52.0,Male,"81,431.87",California,Invalid Date, Electronics ,2,nan,20%,Debit Card
+ORD-11895,CUST_1163,,Male,"53,177.53",California,04.02.2024,Books,3,$388.98,nan,UPI / Wallet
+ORD-10929,CUST_1503,43.0,male,$ 54851.52,FL,18.03.2024,Home & Kitchen,4, $269.96 USD ,5%,PAYPAL
+ORD-10489,CUST_1258,59.0,unknown,"$52,878.21",WA,30.04.2024,sports & outdoors,1,TBD,0%,debit_card
+ORD-11735,CUST_1401,55.0,M,"$79,185.21",FL,"Mar 22, 2024",Home & Kitchen,3,0.00,0%,nan
+ORD-11931,CUST_1115,49.0,M,"$61,154.64",FL,2024-04-06,Home & Kitchen,1,$443.56,10%,PayPal
+ORD-11172,CUST_1414,19.0,Female,"$39,307.80",Texas,nan,electronics,1,$74.81,20%,debit_card
+ORD-10147,CUST_1068,33.0,male,$ 84065.20,NY,2023-99-99, Electronics ,1,$131.48,20%,debit_card
+ORD-11813,CUST_1219,40.0,Male,"$44,447.39",nan,06/07/2023,CLOTHING,4,FREE,5%,PayPal
+ORD-11370,CUST_1071,40.0,Male,"$38,663.01",Texas,2023-99-99,Home & Kitchen,1, $319.32 USD ,10%,PAYPAL
+ORD-10403,CUST_1475,51.0,Male,129626.2,NY,2023-99-99,Books,1,0.00,5%,PayPal
+ORD-10955,CUST_1388,37.0,nan,41535.48,Washington,04/05/2024, Electronics ,4,213.19,15%,paypal
+ORD-11565,CUST_1568,27.0,Female,"$42,550.47",IL,01/31/2023,CLOTHING,1,nan,10%,Debit Card
+ORD-10660,CUST_1520,16.0,MALE,$ 84679.77,NY,09.04.2023,CLOTHING,1, $104.25 USD ,20%,debit_card
+ORD-11795,CUST_1506,43.0,male,"79,032.02",TX,09.06.2024,CLOTHING,1, $19.84 USD ,15 %,Credit Card
+ORD-11373,CUST_1457,,male,53862.78,California,21.03.2024,sports & outdoors,2,$239.02,10%,Cash
+ORD-10464,CUST_1585,29.0,Female,"$102,636.38",IL,Invalid Date,sports & outdoors,1, $408.66 USD ,10%,debit_card
+ORD-11350,CUST_1549,42.0,male,"61,207.41",NY,2023-01-14,Beauty & Personal Care,4,0.00,15%,nan
+ORD-10187,CUST_1278,16.0,Female,112601.27,nan,Invalid Date,Books,3,$189.41,5%,Debit Card
+ORD-11148,CUST_1482,42.0,Female,"72,545.81",nan,25.01.2024,sports & outdoors,3,127.46,10%,cash
+ORD-11225,CUST_1532,28.0,F,"65,590.81",texas,2023-99-99,sports & outdoors,1,nan,0%,CC
+ORD-10609,CUST_1309,58.0,Male,"$80,160.89",New York,01/03/2023,electronics,3,0.00,0%,Cash
+ORD-10144,CUST_1207,65.0,FEMALE,"41,808.50",texas,11.07.2024,Home & Kitchen,1,$439.91,0%,Cash
+ORD-10752,CUST_1259,58.0,female,"75,869.98",Texas,03/27/2023,electronics,2,TBD,25%,cash
+ORD-11535,CUST_1005,23.0,Male,"$9,999,999.00",texas,nan,Books,1,TBD,5%,PayPal
+ORD-10982,CUST_1277,24.0,male,45507.93,california,01.07.2024,clothing,1,227.38,20%,CC
+ORD-10198,CUST_1084,21.0,M,"77,503.24",Florida,2023-99-99,Books,5,44.36,5%,PayPal
+ORD-11634,CUST_1452,16.0,F,31566.67,WA,2023-99-99,sports & outdoors,1,220.22,0%,PayPal
+ORD-10884,CUST_1561,16.0,Male,"$57,620.94",Washington,29.01.2023,Home & Kitchen,1, $385.98 USD ,20%,Debit Card
+ORD-10280,CUST_1304,42.0,MALE,50034.17,Texas,18.04.2023,sports & outdoors,1,99.91,5%,cash
+ORD-10294,CUST_1531,24.0,Female,"88,001.26",TX,nan,Beauty & Personal Care,2,152.49,10%,Cash
+ORD-11944,CUST_1070,55.0,Male,"84,713.61",FL,2023-07-26,Beauty & Personal Care,3,$218.25,15 %,debit_card
+ORD-10401,CUST_1012,18.0,male,"57,435.13",texas,15.10.2024,sports & outdoors,2,$144.29,20%,PAYPAL
+ORD-10123,CUST_1235,53.0,Female,"72,739.78",texas,10/10/2023,Books,1,$163.94,20%,Credit Card
+ORD-11208,CUST_1495,16.0,F,"45,432.53",Texas,08/25/2024, Electronics ,3,157.63,10%,UPI / Wallet
+ORD-10203,CUST_1212,52.0,Male,"77,299.20", CA ,2024-07-28, Electronics ,0,0.00,10%,cash
+ORD-11463,CUST_1596,58.0,Male,"$50,540.15",WA,"Feb 18, 2023",Books,1, $237.03 USD ,25%,cash
+ORD-10836,CUST_1537,45.0,F,"79,354.44",New York,10/10/2024,electronics,3,0.00,20%,PayPal
+ORD-10247,CUST_1030,44.0,female,"57,253.98",nan,2023-99-99,Beauty & Personal Care,1,436.83,5%,paypal
+ORD-11440,CUST_1268,16.0,F,"99,929.83",IL,24.05.2024,clothing,3,TBD,0%,Cash
+ORD-11734,CUST_1501,54.0,Male,60393.04,New York,06/20/2024,Books,1,$76.73,20%,UPI / Wallet
+ORD-11866,CUST_1131,39.0,Male,$ 98107.06,Washington,25.04.2023, Electronics ,1, $413.30 USD ,5%,CC
+ORD-11189,CUST_1244,41.0,Female,null, CA ,Invalid Date,Beauty & Personal Care,3, $272.71 USD ,15%,nan
+ORD-11708,CUST_1387,36.0,Male,61262.96,IL,2023-05-21,electronics,1,0.00,20%,PAYPAL
+ORD-11944,CUST_1070,55.0,Male,"84,713.61",FL,2023-07-26,Beauty & Personal Care,3,$218.25,15 %,debit_card
+ORD-11154,CUST_1010,41.0,Male,27297.98,california,06/29/2023,Books,3,0.00,5%,debit_card
+ORD-11662,CUST_1563,45.0,Male,$ 50949.93,nan,07/10/2023,CLOTHING,1,$392.71,15%,Cash
+ORD-11427,CUST_1292,33.0,Male,"$46,630.79",WA,Invalid Date,Books,1, $132.16 USD ,5%,Cash
+ORD-10385,CUST_1293,50.0,Male,92125.27,Texas,16.10.2024,Books,1,TBD,5%,PAYPAL
+ORD-11873,CUST_1243,33.0,female,"$110,080.96",Washington,15.08.2024,Books,3, $25.83 USD ,20%,paypal
+ORD-11760,CUST_1346,,Female,"$61,662.44",Washington,12/27/2023,Home & Kitchen,1,FREE,20%,nan
+ORD-10855,CUST_1293,25.0,male,$ 69312.40,Illinois,02.10.2023,sports & outdoors,1,$387.07,0%,Cash
+ORD-11590,CUST_1589,38.0,male,$ 59683.20,Washington,2024-08-28,sports & outdoors,1, $117.47 USD ,10%,credit card
+ORD-10220,CUST_1378,52.0,Male,$ 76919.95,california,23.01.2024,clothing,1,203.07,20%,debit_card
+ORD-10642,CUST_1078,16.0,F,"$53,003.85", CA ,03/16/2024,CLOTHING,1,449.78,15%,nan
+ORD-10002,CUST_1192,58.0,Male,N/A,NY,02/28/2023,electronics,1, $213.39 USD ,15%,paypal
+ORD-10113,CUST_1012,16.0,Female,"49,483.29",California,Invalid Date,sports & outdoors,1,183.11,5%,Cash
+ORD-10699,CUST_1406,34.0,male,52858.33,texas,Invalid Date,clothing,1, $125.76 USD ,10%,debit_card
+ORD-10117,CUST_1308,32.0,Female,"$78,292.00",California,2023-99-99,clothing,3,430.57,0%,Credit Card
+ORD-10952,CUST_1521,32.0,Male,65758.14,california,2023-06-26,Home & Kitchen,4, $122.76 USD ,20%,paypal
+ORD-11649,CUST_1184,,Male,85775.22,Illinois,04/06/2024,Beauty & Personal Care,2,$415.88,5%,PayPal
+ORD-11637,CUST_1127,31.0,Male,"45,804.78",NY,"Sep 14, 2023",Home & Kitchen,1,0.00,15%,Credit Card
+ORD-11861,CUST_1370,23.0,male,$ 52279.73,NY,2024-11-20,CLOTHING,1,136.48,0%,CC
+ORD-11411,CUST_1380,35.0,M,"$15,000.00",NY,06.05.2024,sports & outdoors,2,386.67,15%,debit_card
+ORD-11410,CUST_1446,31.0,female,$ 27248.78,california,16.10.2023, Electronics ,2,$396.07,10%,paypal
+ORD-11831,CUST_1492,38.0,Female,$ 80557.25,Texas,2023-99-99, Electronics ,3,$159.67,10%,Debit Card
+ORD-11534,CUST_1007,55.0,female,"$51,865.09",Illinois,05.11.2023, Electronics ,1, $135.81 USD ,10%,nan
+ORD-11292,CUST_1026,54.0,male,$ 60878.34,IL,nan,Home & Kitchen,1,229.31,nan,CC
+ORD-11928,CUST_1168,40.0,Male,$ 55023.10,WA,24.08.2023, Electronics ,1, $118.50 USD ,0%,cash
+ORD-10442,CUST_1043,27.0,female,"65,683.18",New York,2023-99-99,Home & Kitchen,1,421.79,10%,UPI / Wallet
+ORD-11521,CUST_1177,31.0,Other,null,california,"Jan 20, 2023",Books,1,$360.78,0%,Debit Card
+ORD-11854,CUST_1100,55.0,Female,117654.2, CA ,nan,Beauty & Personal Care,4, $247.34 USD ,0%,PAYPAL
+ORD-11137,CUST_1213,40.0,Female,79528.37,california,Invalid Date, Electronics ,1,$65.57,5%,paypal
+ORD-11716,CUST_1381,23.0,Female,"90,732.46",IL,nan, Electronics ,3, $72.90 USD ,10%,Debit Card
+ORD-11257,CUST_1168,30.0,female,"49,719.34",New York,2024-07-31,sports & outdoors,1,185.71,0%,Cash
+ORD-11986,CUST_1276,,Female,"77,625.74",california,"May 13, 2024",Books,2, $332.47 USD ,5%,paypal
+ORD-11632,CUST_1310,35.0,M,"$9,999,999.00",Washington,06.02.2024,Home & Kitchen,1,286.19,15%,Cash
+ORD-11696,CUST_1187,52.0,unknown,$ 83107.18, CA ,"Jun 03, 2024",clothing,1,370.59,5%,Cash
+ORD-11398,CUST_1302,54.0,Female,"$76,547.24",nan,"Oct 07, 2023",sports & outdoors,4,$92.71,5%,Credit Card
+ORD-11851,CUST_1187,56.0,Male,"$81,412.41",Illinois,2023-11-13,electronics,1,$216.15,10%,PAYPAL
+ORD-10664,CUST_1354,62.0,Male,$ 90937.29,FL,15.08.2024,Home & Kitchen,2,$424.92,15 %,debit_card
+ORD-11957,CUST_1204,63.0,male,"$58,756.24",NY,11/18/2024,sports & outdoors,2,0.00,15%,nan
+ORD-11258,CUST_1205,34.0,female,$ 49066.65,nan,06/13/2023, Electronics ,3,137.5,0%,credit card
+ORD-11843,CUST_1038,35.0,MALE,115959.69,texas,2024-01-23,Books,4,81.04,5%,Debit Card
+ORD-11889,CUST_1468,39.0,Male,$ 48584.76,california,2024-01-31,CLOTHING,3, $406.81 USD ,5%,CC
+ORD-11701,CUST_1316,53.0,M,101440.76,Texas,08.08.2023,Books,2,0.00,20%,debit_card
+ORD-10318,CUST_1366,49.0,Male,64830.92,Texas,10.10.2024, Electronics ,2,$267.98,20%,credit card
+ORD-10649,CUST_1361,19.0,male,$ 73603.94,Illinois,2024-09-12,clothing,3,$141.81,20%,Credit Card
+ORD-11435,CUST_1538,27.0,Male,78873.69,California,25.02.2024,Home & Kitchen,2,397.74,0%,paypal
+ORD-11480,CUST_1440,56.0,Male,"$79,097.16",Washington,2024-01-05, Electronics ,1,TBD,20%,nan
+ORD-10710,CUST_1420,78.0,M,57809.18,FL,2024-02-24,Home & Kitchen,1,TBD,10%,cash
+ORD-11383,CUST_1339,42.0,Male,"$72,833.08",california,03.05.2024,Books,2,nan,20%,Credit Card
+ORD-11283,CUST_1092,38.0,Male,"$79,858.84",New York,04/19/2023,clothing,1, $245.49 USD ,0%,UPI / Wallet
+ORD-11769,CUST_1245,42.0,Female,"42,125.35",IL,"Mar 20, 2023", Electronics ,4,nan,0%,Cash
+ORD-10973,CUST_1307,61.0,Male,"60,344.12",Florida,2024-05-28,clothing,0,173.19,5%,PAYPAL
+ORD-10628,CUST_1552,66.0,Male,"50,633.91",TX,"Feb 21, 2023",CLOTHING,1,16.14,20%,credit card
+ORD-10633,CUST_1147,16.0,Male,"67,405.81", CA ,nan,clothing,1,56.56,10%,PAYPAL
+ORD-11307,CUST_1103,37.0,M,44780.4,texas,10.11.2023,CLOTHING,1,$414.18,15%,nan
+ORD-11401,CUST_1414,21.0,nan,"$48,052.11", CA ,17.07.2023,Beauty & Personal Care,1,127.75,10%,credit card
+ORD-11409,CUST_1129,26.0,Male,null,California,"Aug 19, 2023",clothing,2,$262.43,15%,Debit Card
+ORD-11249,CUST_1494,56.0,Male,"$46,025.62",texas,2024-04-09, Electronics ,2,120.63,20%,Credit Card
+ORD-11651,CUST_1163,19.0,Male,$ 26129.04,Illinois,"May 26, 2023",Home & Kitchen,1,395.36,20%,cash
+ORD-11255,CUST_1196,16.0,male,"78,505.28",Texas,04/20/2024,CLOTHING,1,$229.80,0%,PayPal
+ORD-11497,CUST_1436,35.0,female,"$74,778.03",IL,24.11.2024,CLOTHING,3,nan,5%,PAYPAL
+ORD-11372,CUST_1206,26.0,Male,$ 112184.82,Washington,03/03/2024,clothing,2,$19.66,5%,debit_card
+ORD-11530,CUST_1431,47.0,?,89275.65,New York,2023-99-99,Beauty & Personal Care,1,nan,15%,cash
+ORD-11664,CUST_1280,28.0,Male,"93,087.58",Washington,Invalid Date,Beauty & Personal Care,1,$404.38,5%,PayPal
+ORD-11355,CUST_1219,35.0,male,"73,714.93",california,2023-01-26,sports & outdoors,3,0.00,10%,Cash
+ORD-11822,CUST_1296,45.0,Male,null,Florida,nan,CLOTHING,1,$144.22,20%,paypal
+ORD-11830,CUST_1498,,female,"74,642.60",TX,2023-09-15,sports & outdoors,1, $114.60 USD ,0%,PAYPAL
+ORD-10629,CUST_1178,29.0,Male,77786.8,Illinois,10/12/2023,clothing,1,TBD,5%,PayPal
+ORD-11644,CUST_1595,36.0,F,"$66,710.85",Washington,Invalid Date,CLOTHING,1,$404.98,5%,Credit Card
+ORD-11971,CUST_1006,55.0,female,"$59,822.09",NY,2023-99-99, Electronics ,2,TBD,5%,Debit Card
+ORD-10796,CUST_1414,48.0,male,"$70,490.56",Texas,11/05/2023,electronics,3,$387.88,20%,CC
+ORD-10646,CUST_1162,39.0,male,"76,406.21",Washington,2024-11-24,CLOTHING,1, $223.46 USD ,nan,CC
+ORD-11013,CUST_1568,36.0,Female,53091.06,Texas,"Jul 18, 2023",clothing,2,101.03,20%,PAYPAL
+ORD-11961,CUST_1278,48.0,M,$ 83841.13,Washington,2023-09-27,Books,1,TBD,20%,paypal
+ORD-10557,CUST_1047,29.0,M,59800.36,California,10/13/2024,CLOTHING,2,0.00,10%,CC
+ORD-10682,CUST_1112,39.0,female,"76,963.22",nan,16.09.2024, Electronics ,1, $429.59 USD ,10%,paypal
+ORD-10578,CUST_1491,47.0,Male,90110.17,california,nan,clothing,4,$64.83,20%,paypal
+ORD-11820,CUST_1468,41.0,nan,"69,429.17",texas,09.07.2023, Electronics ,2, $228.25 USD ,15%,UPI / Wallet
+ORD-11110,CUST_1327,30.0,M,"29,335.65",NY,11/29/2023,CLOTHING,2,$177.23,5%,PayPal
+ORD-11267,CUST_1275,35.0,MALE,53142.46,WA,11/07/2024,Books,1,40.45,20%,Credit Card
+ORD-11723,CUST_1319,51.0,Male,"60,309.49",nan,13.03.2024,Books,5,TBD,20%,UPI / Wallet
+ORD-11991,CUST_1449,43.0,M,"$38,281.21",Texas,08.05.2024,Beauty & Personal Care,1,54.71,15%,paypal
+ORD-11184,CUST_1429,45.0,Male,"$9,999,999.00",Texas,2023-03-25, Electronics ,1,nan,10%,paypal
+ORD-10525,CUST_1526,16.0,female,$ 59928.86,Florida,02/13/2024,Books,1,299.9,20%,UPI / Wallet
+ORD-11060,CUST_1066,40.0,Female,48038.16,New York,06/29/2023,Beauty & Personal Care,2, $165.14 USD ,5%,PayPal
+ORD-10541,CUST_1482,28.0,MALE,"$63,007.05",WA,"Apr 10, 2024",clothing,1, $113.67 USD ,10%,credit card
+ORD-11195,CUST_1062,43.0,male,$ 45998.62, CA ,2024-03-27,Books,1,249.68,15%,debit_card
+ORD-11679,CUST_1356,19.0,male,"82,651.24",New York,04/11/2024,clothing,3,$433.13,0%,UPI / Wallet
+ORD-10749,CUST_1374,,Male,$ 34905.48,WA,03/26/2023,Books,1, $139.70 USD ,5%,Cash
+ORD-11974,CUST_1578,32.0,male,91800.39,IL,08/12/2024,electronics,5,$249.72,5%,PAYPAL
+ORD-11431,CUST_1019,32.0,Female,$ - ,california,04/06/2024,Beauty & Personal Care,2,411.11,20%,PAYPAL
+ORD-10485,CUST_1074,38.0,Male,"$63,739.72",texas,Invalid Date,Home & Kitchen,1,187.82,15%,credit card
+ORD-11758,CUST_1488,23.0,Female,"47,588.46",Illinois,2023-99-99,Home & Kitchen,1,$69.90,0%,nan
+ORD-11924,CUST_1262,46.0,Female,37331.21,WA,"Jul 09, 2024",Home & Kitchen,0, $16.32 USD ,15%,paypal
+ORD-10096,CUST_1352,36.0,male,$ 64356.94,FL,"Aug 10, 2024",electronics,3, $276.27 USD ,20%,debit_card
+ORD-11021,CUST_1150,23.0,Female,$ 65768.39,NY,01.12.2023, Electronics ,1,163.57,5%,Cash
+ORD-10564,CUST_1364,26.0,F,"$109,313.50",Illinois,nan,electronics,1, $342.84 USD ,15%,nan
+ORD-11265,CUST_1538,44.0,MALE,$ 64101.24,California,nan,clothing,3,TBD,5%,cash
+ORD-10743,CUST_1220,62.0,Male,$ 51142.35,IL,nan,Books,1,0.00,5%,Debit Card
+ORD-10864,CUST_1488,,Male,59492.04,NY,2024-04-03,sports & outdoors,3,0.00,5%,Credit Card
+ORD-11599,CUST_1438,,Female,"$81,599.33",Florida,05.06.2024,Home & Kitchen,1,nan,20%,Debit Card
+ORD-11715,CUST_1249,53.0,FEMALE,"56,612.69",FL,10/08/2024,clothing,2,nan,5%,Credit Card
+ORD-11485,CUST_1231,51.0,Female,$ 50195.47,Florida,31.03.2024,clothing,3, $57.82 USD ,10%,UPI / Wallet
+ORD-10892,CUST_1544,26.0,Male,48210.77,NY,2024-07-15, Electronics ,1, $337.60 USD ,15 %,Cash
+ORD-11578,CUST_1259,30.0,Male,unknown, CA ,11.05.2024,electronics,2, $121.17 USD ,5%,UPI / Wallet
+ORD-11882,CUST_1116,67.0,Male,88596.71,IL,"Feb 11, 2024",Beauty & Personal Care,1,437.13,15%,Debit Card
+ORD-11039,CUST_1442,56.0,female,"$80,631.94",FL,"Jun 20, 2024",clothing,3,FREE,5%,Cash
+ORD-10207,CUST_1038,58.0,Other,$ 67046.75,WA,12.09.2024,CLOTHING,1,0.00,0%,debit_card
+ORD-10393,CUST_1359,30.0,Male,"$90,804.33",New York,"Jan 17, 2023",CLOTHING,2,244.58,5%,PAYPAL
+ORD-10795,CUST_1158,37.0,M,59750.29,IL,"May 04, 2024",electronics,1, $275.64 USD ,20%,PAYPAL
+ORD-10871,CUST_1283,16.0,Male,$ 92518.71,NY,Invalid Date,Beauty & Personal Care,1,$284.13,10%,PAYPAL
+ORD-10398,CUST_1364,,Male,69484.63,FL,05/18/2024,CLOTHING,1,$344.09,5%,CC
+ORD-10767,CUST_1074,29.0,F,"79,621.73",FL,13.01.2024,Books,1, $260.49 USD ,0%,Credit Card
+ORD-11963,CUST_1429,46.0,female,"$66,866.82",Washington,05.06.2024,Home & Kitchen,2,201.82,0%,nan
+ORD-11242,CUST_1425,36.0,M,$ - ,Florida,2023-09-23,Beauty & Personal Care,1,FREE,5%,Credit Card
+ORD-11029,CUST_1188,,Male,15000.0, CA ,13.06.2024,electronics,1,71.82,0%,nan
+ORD-11793,CUST_1266,39.0,unknown,114424.21,Washington,23.05.2023,sports & outdoors,2, $97.90 USD ,15%,credit card
+ORD-10643,CUST_1161,56.0,Female,"$9,999,999.00",TX,2023-99-99, Electronics ,1,379.1,20%,Debit Card
+ORD-10894,CUST_1334,44.0,M,75910.34,NY,2024-08-17,electronics,3, $68.19 USD ,15%,Cash
+ORD-10613,CUST_1584,55.0,Male,$ 106534.43,Texas,2024-07-16, Electronics ,2,FREE,10%,PayPal
+ORD-11763,CUST_1173,50.0,Female,82590.54,FL,Invalid Date,Books,1, $270.62 USD ,0%,cash
+ORD-10961,CUST_1158,61.0,M,$ 21650.64,New York,"Feb 21, 2024",Home & Kitchen,0,TBD,0%,Cash
+ORD-11571,CUST_1049,22.0,female,$ 61995.80,California,24.08.2024,Home & Kitchen,2,$65.47,20%,nan
+ORD-10726,CUST_1382,35.0,female,"49,084.05",WA,02/24/2023,Home & Kitchen,1,FREE,0%,paypal
+ORD-10377,CUST_1172,48.0,Female,68280.12,Florida,16.04.2023,clothing,1,172.13,10%,CC
+ORD-10684,CUST_1393,16.0,male,$ 43396.77,Illinois,10/21/2023,electronics,1,FREE,15%,Credit Card
+ORD-10099,CUST_1102,60.0,Female,$ 89235.61,New York,03/26/2023,electronics,1,$26.15,20%,credit card
+ORD-10805,CUST_1066,38.0,Female,"39,364.73",IL,02.01.2024,Home & Kitchen,1, $396.43 USD ,15%,credit card
+ORD-11752,CUST_1021,999.0,Female,23988.09,California,01/28/2024,sports & outdoors,1, $47.08 USD ,10%,PayPal
+ORD-11598,CUST_1549,23.0,Other,unknown,California,04.04.2023,CLOTHING,1,$246.12,0%,Cash
+ORD-10407,CUST_1236,55.0,male,"55,743.86",California,"Apr 24, 2024", Electronics ,1,262.43,0%,cash
+ORD-10503,CUST_1529,45.0,Female,75495.77,California,2024-06-24,Home & Kitchen,1, $26.20 USD ,10%,cash
+ORD-11072,CUST_1096,,M,72840.26,IL,05/29/2024,Home & Kitchen,1,$404.70,0%,credit card
+ORD-11057,CUST_1110,48.0,Male,"67,511.50",NY,2023-99-99,CLOTHING,2,$339.93,5%,Debit Card
+ORD-10930,CUST_1391,19.0,male,null, CA ,18.07.2023, Electronics ,1,TBD,20%,nan
+ORD-10780,CUST_1419,27.0,Female,20735.32,TX,"Sep 18, 2024", Electronics ,3,$97.37,20%,PAYPAL
+ORD-11864,CUST_1451,43.0,Male,"66,500.41",WA,nan,Home & Kitchen,2,$136.77,20%,cash
+ORD-10201,CUST_1059,34.0,Female,"$71,643.04",WA,2023-10-11, Electronics ,4, $250.77 USD ,15%,Cash
+ORD-10135,CUST_1043,43.0,Male,"$108,476.12",nan,05/31/2024,sports & outdoors,2,0.00,15%,PAYPAL
+ORD-11052,CUST_1187,35.0,Male,"$57,294.09",california,"Jul 05, 2024", Electronics ,1,0.00,5%,PayPal
+ORD-10041,CUST_1239,32.0,Male,"39,570.10",Washington,"Sep 16, 2024",Home & Kitchen,1,$416.96,5%,cash
+ORD-11018,CUST_1206,39.0,male,15000.0,New York,04/05/2023,Home & Kitchen,1, $249.90 USD ,20%,UPI / Wallet
+ORD-10231,CUST_1383,31.0,female,58317.61,Texas,2023-99-99,clothing,1,TBD,0%,Credit Card
+ORD-11514,CUST_1260,61.0,Male,59828.2,IL,"Mar 30, 2024",Books,1,61.73,5%,paypal
+ORD-11797,CUST_1281,40.0,F,"$82,301.72",Washington,14.05.2023,sports & outdoors,1,204.15,20%,UPI / Wallet
+ORD-10379,CUST_1491,38.0,Male,"16,521.74",Washington,2024-05-02,CLOTHING,2, $77.59 USD ,5%,UPI / Wallet
+ORD-10289,CUST_1147,35.0,male,"$53,094.74", CA ,"Jul 16, 2024",Books,1,0.00,15%,UPI / Wallet
+ORD-10419,CUST_1212,38.0,male,$ 46595.26,New York,26.06.2023,Books,3, $296.67 USD ,5%,Debit Card
+ORD-11699,CUST_1378,28.0,male,$ 85291.05,New York,nan,CLOTHING,-1,321.18,0%,Cash
+ORD-10392,CUST_1060,23.0,M,$ 61920.82,New York,2024-03-08, Electronics ,1,$172.25,15%,CC
+ORD-10593,CUST_1454,80.0,female,"$58,830.74",nan,Invalid Date,sports & outdoors,1,48.1,20%,cash
+ORD-11523,CUST_1030,42.0,?,$ 83158.26,IL,"Nov 23, 2024",CLOTHING,1,264.76,10%,Cash
+ORD-11163,CUST_1488,26.0,MALE,"$56,103.25",New York,10/24/2023,Books,2, $445.98 USD ,15%,Credit Card
+ORD-11087,CUST_1558,27.0,nan,"$69,949.02",New York,nan,Beauty & Personal Care,1,TBD,0%,PayPal
+ORD-11496,CUST_1084,53.0,Male,$ 105039.34,Illinois,05.07.2023,Home & Kitchen,2,$171.65,15%,UPI / Wallet
+ORD-10648,CUST_1580,42.0,Other,$ 78554.94,nan,nan,sports & outdoors,1,TBD,0%,UPI / Wallet
+ORD-11153,CUST_1285,,nan,"$51,520.15",Texas,"Nov 26, 2024",Beauty & Personal Care,2,nan,5%,PayPal
+ORD-11368,CUST_1228,41.0,unknown,"$89,932.15",NY,2023-99-99,Beauty & Personal Care,1,321.14,15%,Cash
+ORD-10521,CUST_1229,50.0,Male,"$88,360.78",New York,10.03.2024,Home & Kitchen,2,TBD,10%,debit_card
+ORD-11863,CUST_1174,21.0,F,"$33,292.92",WA,29.07.2024,sports & outdoors,1,355.16,0%,UPI / Wallet
+ORD-11881,CUST_1589,26.0,female,$ 64014.31,New York,"Sep 24, 2024",clothing,2,433.33,10%,Debit Card
+ORD-10065,CUST_1244,185.0,Female,"$56,547.85",Illinois,2023-10-23, Electronics ,2, $204.15 USD ,0%,debit_card
+ORD-11837,CUST_1238,24.0,M,33639.7, CA ,19.02.2023,Home & Kitchen,1,$17.03,15%,CC
+ORD-10015,CUST_1580,54.0,Female,"$45,303.62",TX,2024-10-01,electronics,1,$130.36,20%,CC
+ORD-11181,CUST_1329,35.0,male,48351.71,texas,"Nov 03, 2024",Beauty & Personal Care,5,FREE,20%,Cash
+ORD-11065,CUST_1330,34.0,female,67575.8,TX,"Dec 30, 2023",electronics,1, $332.31 USD ,5%,PAYPAL
+ORD-10493,CUST_1437,35.0,male,"85,091.71", CA ,2024-08-10,Home & Kitchen,1,389.55,10%,CC
+ORD-10380,CUST_1083,37.0,Female,$ 62460.35,nan,08/31/2024,electronics,1,288.19,20%,PayPal
+ORD-10188,CUST_1109,30.0,F,"$40,370.73",California,19.04.2024,clothing,1,0.00,20%,Debit Card
+ORD-10764,CUST_1275,52.0,MALE,61887.85,IL,2023-07-15, Electronics ,1,305.24,20%,CC
+ORD-10217,CUST_1250,16.0,Female,$ 72311.27, CA ,"Apr 29, 2024",electronics,1, $303.18 USD ,20%,cash
+ORD-11946,CUST_1519,68.0,male,45723.38,Florida,19.07.2024,CLOTHING,1,276.83,0%,UPI / Wallet
+ORD-10792,CUST_1127,40.0,Male,$ 47565.17,Texas,2023-03-06,Books,1,$316.75,15%,paypal
+ORD-11077,CUST_1004,60.0,female,83914.05,IL,"Dec 03, 2023", Electronics ,1,91.41,20%,PAYPAL
+ORD-10879,CUST_1466,59.0,Female,"47,399.09",NY,09.12.2023,CLOTHING,1,$447.90,20%,credit card
+ORD-10338,CUST_1281,47.0,Female,$ 33342.47,Illinois,2024-05-24,Books,2, $227.81 USD ,15%,cash
+ORD-11773,CUST_1259,,male,71356.71,New York,2024-03-31,CLOTHING,3, $248.34 USD ,15%,nan
+ORD-10720,CUST_1307,36.0,Male,"97,565.83",California,2024-11-28,sports & outdoors,2,$427.80,15%,debit_card
+ORD-11749,CUST_1091,24.0,Female,$ 48400.92,New York,Invalid Date,sports & outdoors,1,0.00,0%,Credit Card
+ORD-10296,CUST_1274,30.0,M,"90,641.10",Florida,"Jul 28, 2023", Electronics ,1,$260.60,20%,Debit Card
+ORD-11726,CUST_1150,16.0,Male,"$56,033.49",california,05/28/2024,Home & Kitchen,3,409.14,10%,Debit Card
+ORD-11017,CUST_1208,53.0,Male,89547.27,California,"Mar 22, 2024", Electronics ,2,$264.94,5%,cash
+ORD-11276,CUST_1291,73.0,male,"$56,294.29", CA ,12.07.2024,Home & Kitchen,1,$64.04,0%,CC
+ORD-11751,CUST_1010,,Other,$ 74595.89,california,"May 26, 2023",CLOTHING,1, $390.82 USD ,5%,nan
+ORD-11486,CUST_1189,49.0,male,"$53,145.16",TX,01/08/2024, Electronics ,1,$285.29,10%,Debit Card
+ORD-10456,CUST_1402,56.0,Male,$ 79418.91,IL,2023-11-16,sports & outdoors,1,nan,0%,Cash
+ORD-11858,CUST_1548,35.0,male,$ 40594.53,NY,2023-11-23,Books,1,0.00,10%,UPI / Wallet
+ORD-10816,CUST_1142,33.0,Male,"57,349.67",NY,2024-10-11,Home & Kitchen,3,nan,5%,Cash
+ORD-11887,CUST_1588,32.0,male,"46,425.54",nan,08/03/2023, Electronics ,1, $122.11 USD ,20%,Credit Card
+ORD-10270,CUST_1206,35.0,Male,33859.77,Illinois,Invalid Date,Beauty & Personal Care,1,52.0,5%,debit_card
+ORD-10996,CUST_1143,21.0,female,"$38,389.64",California,"Aug 13, 2024",CLOTHING,1,$225.03,10%,Credit Card
+ORD-11982,CUST_1058,28.0,Male,"44,910.20",nan,20.07.2023,CLOTHING,1,49.25,15%,cash
+ORD-10202,CUST_1046,25.0,female,"61,617.73",California,02.01.2024,Home & Kitchen,1,nan,0%,cash
+ORD-10162,CUST_1559,42.0,Male,"55,600.43",TX,07/11/2024,Beauty & Personal Care,4,TBD,5%,Debit Card
+ORD-11580,CUST_1546,51.0,male,$ 49564.74,Florida,nan, Electronics ,2, $189.32 USD ,20%,PayPal
+ORD-10730,CUST_1519,25.0,nan,unknown,California,23.07.2024,clothing,2,113.13,20%,UPI / Wallet
+ORD-10402,CUST_1290,34.0,Male,66284.98,texas,05.11.2024,Home & Kitchen,1,TBD,20%,debit_card
+ORD-10703,CUST_1210,,female,"42,354.32",WA,11/02/2023,clothing,2,$137.18,10%,CC
+ORD-11501,CUST_1566,,Female,$ 48399.32, CA ,nan,Home & Kitchen,1,nan,5%,PayPal
+ORD-11846,CUST_1462,,F,"$53,986.28",WA,08/08/2024,sports & outdoors,1, $244.29 USD ,15 %,PayPal
+ORD-11796,CUST_1261,16.0,Male,"$40,752.87", CA ,10.12.2023,Beauty & Personal Care,1,42.65,0%,debit_card
+ORD-11130,CUST_1394,18.0,F,57497.92,california,12.03.2024,Home & Kitchen,2,FREE,0%,Cash
+ORD-10566,CUST_1535,48.0,Male,"43,875.94",TX,"Nov 21, 2023", Electronics ,2,$100.47,15%,UPI / Wallet
+ORD-11414,CUST_1268,,Female,"$63,440.43",California,"Aug 19, 2024",Home & Kitchen,5,0.00,5%,nan
+ORD-11022,CUST_1123,45.0,F,"$33,460.95",nan,23.12.2023,Home & Kitchen,3, $92.49 USD ,15%,nan
+ORD-11026,CUST_1103,23.0,Male,"$58,164.39",California,"Oct 27, 2023", Electronics ,5,nan,15%,nan
+ORD-11412,CUST_1389,,Female,"$56,273.36",Washington,26.05.2024,CLOTHING,1,93.66,15%,credit card
+ORD-11896,CUST_1589,,F,"$91,460.65", CA ,"May 01, 2023",clothing,1,0.00,20%,Credit Card
+ORD-11586,CUST_1433,28.0,female,"95,801.26",Illinois,"Oct 16, 2023",clothing,5,$436.10,15 %,CC
+ORD-11956,CUST_1412,,male,unknown,WA,2023-06-11,electronics,1,$421.18,5%,CC
+ORD-11105,CUST_1540,16.0,Female,"50,371.03",NY,2024-11-20,Home & Kitchen,2,75.04,15%,UPI / Wallet
+ORD-10206,CUST_1549,38.0,female,"$15,000.00", CA ,Invalid Date,sports & outdoors,999, $60.85 USD ,5%,Cash
+ORD-10035,CUST_1217,41.0,MALE,"$71,689.35",Florida,09.02.2024, Electronics ,2, $412.23 USD ,20%,cash
+ORD-11967,CUST_1385,51.0,nan,"$64,541.14",FL,"Jul 06, 2024",Beauty & Personal Care,1,139.0,15%,CC
+ORD-10776,CUST_1360,25.0,?,"66,753.43", CA ,02/03/2024,CLOTHING,1,nan,20%,UPI / Wallet
+ORD-10509,CUST_1232,17.0,nan,89540.31,NY,2024-09-30,Books,2,0.00,20%,credit card
+ORD-11452,CUST_1259,49.0,female,"$112,153.78",texas,2023-02-20,Beauty & Personal Care,1,309.82,25%,PayPal
+ORD-11479,CUST_1528,41.0,Female,$ 77791.46,Washington,04/03/2023,clothing,2,$69.18,20%,cash
+ORD-11391,CUST_1343,40.0,Male,$ 42408.96,New York,"Mar 29, 2024", Electronics ,1,$84.38,15%,debit_card
+ORD-11364,CUST_1453,18.0,Female,"$85,751.91",Texas,03/11/2024,Home & Kitchen,2,0.00,0%,credit card
+ORD-10688,CUST_1431,23.0,Male,"$74,501.94",Illinois,"Nov 24, 2024",Books,1,263.76,0%,cash
+ORD-10242,CUST_1252,36.0,male,"45,815.64",Texas,31.08.2024,electronics,1, $101.34 USD ,15 %,PAYPAL
+ORD-10601,CUST_1318,41.0,female,93278.07,WA,12.09.2023,clothing,1,249.17,0%,debit_card
+ORD-11298,CUST_1328,18.0,Female,$ 75435.19,California,10/06/2023,sports & outdoors,-1, $233.78 USD ,15%,cash
+ORD-10647,CUST_1042,44.0,M,$ 46525.06,Illinois,02.07.2023,clothing,2, $222.33 USD ,0%,CC
+ORD-11529,CUST_1579,30.0,male,"$79,942.46",IL,"Jul 01, 2024",Books,5,284.82,20%,PayPal
+ORD-11268,CUST_1139,49.0,Male,unknown,TX,2023-09-19,Home & Kitchen,1,361.69,0%,PAYPAL
+ORD-11900,CUST_1496,185.0,male,"62,863.99",TX,2023-99-99,Home & Kitchen,1,TBD,5%,Cash
+ORD-10563,CUST_1455,73.0,Other,"41,153.77",New York,2023-04-12, Electronics ,1, $338.66 USD ,10%,PAYPAL
+ORD-10190,CUST_1391,56.0,Male,$ 50748.91,california,25.05.2024,Books,2,$280.19,0%,UPI / Wallet
+ORD-11807,CUST_1183,43.0,F,"$66,518.65",TX,"Aug 07, 2024",Beauty & Personal Care,2,$186.72,20%,Credit Card
+ORD-10976,CUST_1576,41.0,Male,$ 37653.26,california,10/14/2024,CLOTHING,1,221.47,5%,Credit Card
+ORD-11710,CUST_1189,57.0,Other,"$83,508.61",FL,2024-06-10,Home & Kitchen,2,nan,20%,Debit Card
+ORD-11083,CUST_1493,30.0,Male,$ 50329.95,FL,"May 21, 2024",clothing,1,$120.62,20%,CC
+ORD-10475,CUST_1219,58.0,Male,$ - ,TX,2023-99-99,electronics,1, $299.59 USD ,15%,Debit Card
+ORD-10748,CUST_1434,40.0,Female,"90,779.95",WA,2024-09-15,Books,1,0.00,0%,CC
+ORD-10022,CUST_1488,36.0,Female,"$46,097.55",Washington,"Sep 04, 2023",Beauty & Personal Care,1,67.27,20%,Credit Card
+ORD-10460,CUST_1204,40.0,unknown,60483.14,NY,04/15/2023,clothing,1, $328.35 USD ,10%,debit_card
+ORD-11185,CUST_1130,42.0,Female,$ 97818.54,Florida,"Sep 22, 2023",electronics,2,FREE,10%,PAYPAL
+ORD-10956,CUST_1171,33.0,Male,$ 83815.56,texas,2023-99-99,CLOTHING,1,45.96,25%,PayPal
+ORD-11216,CUST_1470,48.0,Other,"65,123.33",NY,25.04.2023,sports & outdoors,1,176.24,0%,Cash
+ORD-11516,CUST_1312,25.0,Female,"93,710.26",New York,03/28/2024,Books,1,nan,nan,Credit Card
+ORD-10770,CUST_1149,36.0,Male,"47,643.96",IL,28.09.2024,clothing,2,$354.28,15%,debit_card
+ORD-11686,CUST_1395,,Male,"51,712.48",WA,2024-11-10,Books,1,FREE,20%,UPI / Wallet
+ORD-10131,CUST_1313,,Male,"77,689.97",california,2023-07-07,Books,1,TBD,15 %,paypal
+ORD-11483,CUST_1010,44.0,Female,"$32,279.75", CA ,"Feb 28, 2024",clothing,1,383.63,0%,Cash
+ORD-10331,CUST_1232,54.0,male,59898.11,Florida,"Aug 18, 2024",CLOTHING,2,TBD,15%,debit_card
+ORD-11239,CUST_1305,44.0,Male,"$71,396.52",Washington,Invalid Date,Beauty & Personal Care,2, $251.33 USD ,0%,PayPal
+ORD-10467,CUST_1261,16.0,female,"$32,080.53",nan,2023-99-99,sports & outdoors,1,61.73,10%,Cash
+ORD-11639,CUST_1287,51.0,Female,N/A,IL,27.04.2023,sports & outdoors,1, $138.36 USD ,10%,paypal
+ORD-11096,CUST_1239,52.0,F,22760.53,Texas,"Aug 24, 2023",Books,1,0.00,10%,cash
+ORD-11131,CUST_1258,32.0,Female,15000.0,Texas,"Jun 18, 2024",CLOTHING,1,$134.20,0%,paypal
+ORD-11295,CUST_1168,45.0,Male,48671.97,FL,"Mar 03, 2023",electronics,1,102.79,0%,credit card
+ORD-10861,CUST_1079,40.0,Male,27327.84,texas,07/25/2023, Electronics ,5,FREE,nan,Cash
