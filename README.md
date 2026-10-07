@@ -1,121 +1,139 @@
-# 📊 Exploratory Data Analysis (EDA) on Retail Sales Data
-> **Oasis Infobyte — Data Analytics Internship**  
-> **Task 1:** Comprehensive Exploratory Data Analysis, Customer Demographics & Strategic Business Insights  
-> **Tech Stack:** Python 3.13, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
-> **Status:** ✅ Complete & Verified (Recruiter Submission Ready)
+# 🌟 Oasis Infobyte — Data Analytics Internship Projects
+> **Intern Name:** Deeva Jain  
+> **Internship Track:** Data Analytics  
+> **GitHub Repository:** [Deeva_Data_Analytics_Submission](https://github.com/Deeva2601/Deeva_Data_Analytics_Submission)  
+> **Status:** ✅ All Tasks 100% Complete, Executed & Verified
 
 ---
 
-## 📌 Executive Summary
-This project delivers a complete **Exploratory Data Analysis (EDA)** on retail sales and customer transaction data across 2023–2024. The analysis identifies key revenue growth drivers, seasonal purchase cycles, demographic shopping patterns, product portfolio performance, and non-obvious behavioral dynamics.
-
-All insights are translated into **5 actionable business strategies** designed to optimize inventory, enhance customer acquisition, increase average order values (AOV), and improve profit margins.
-
----
-
-## 📋 Evaluation Checklist & Deliverables Matrix
-
-| Feature Checklist Requirement | Status | Implementation Details |
-|---|:---:|---|
-| **1. Dataset Loading & Initial Inspection** | ✅ | Shape (`3,500 × 12`), column dtypes, non-null audit, zero duplicate validation. |
-| **2. Descriptive Statistics** | ✅ | Mean, median, mode, std dev, variance, IQR, skewness, and kurtosis across numerical features. |
-| **3. Time Series Analysis** | ✅ | Monthly revenue trends (with 3-month rolling averages) and quarterly growth rate (`QoQ`) line/bar charts. |
-| **4. Customer Demographics Analysis** | ✅ | Age distribution (histogram + KDE), gender breakdown (donut chart), and cross-cohort spending. |
-| **5. Product & Merchandising Analysis** | ✅ | Top 10 best-selling products by revenue/units; revenue breakdown by product category. |
-| **6. Correlation Matrix Heatmap** | ✅ | Pearson correlation matrix with lower-triangle mask and numerical annotations. |
-| **7. Additional Non-Obvious Visualizations** | ✅ | 1) Demographic-Category Spending Affinity Heatmap; 2) Day-of-Week & Weekend Shopping Dynamics; 3) Payment Method Share by Category. |
-| **8. Markdown Interpretations Throughout** | ✅ | Comprehensive narrative observations and business implications following every visualization. |
-| **9. Actionable Strategic Recommendations** | ✅ | 5 concrete, data-backed strategic recommendations with future predictive analytics roadmap. |
+## 📑 Portfolio Table of Contents
+1. [Task 1: Exploratory Data Analysis (EDA) on Retail Sales Data](#-task-1-exploratory-data-analysis-eda-on-retail-sales-data)
+2. [Task 2: Customer Segmentation Analysis using RFM & K-Means](#-task-2-customer-segmentation-analysis-using-rfm--k-means)
+3. [Repository Structure & Code Navigation](#-repository-structure)
+4. [Installation & Execution Guide](#-installation--execution-guide)
 
 ---
 
-## 📂 Project Repository Structure
+# 📊 TASK 1: Exploratory Data Analysis (EDA) on Retail Sales Data
+
+### 🎯 Objective
+Perform an in-depth Exploratory Data Analysis on retail sales transactions to uncover macro revenue trends, seasonal patterns, customer demographic breakdowns, and product category dynamics.
+
+### 🛠️ Tech Stack
+`Python 3.13` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Jupyter Notebook`
+
+### 📋 Feature Checklist Compliance
+- [x] **Data Ingestion & Quality Audit**: 3,500 transactions across 12 features with 0 nulls and 0 duplicates.
+- [x] **Descriptive Statistics**: Mean, median, mode, std dev, variance, IQR, skewness, and kurtosis computed.
+- [x] **Time Series Analysis**: Monthly sales velocity (with 3-month moving average) & quarterly QoQ growth rates.
+- [x] **Customer Demographics**: Age distribution (histogram + KDE), gender breakdown (donut chart), and cohort spending.
+- [x] **Product & Category Analysis**: Top 10 best-selling SKUs by revenue/units; revenue share by category.
+- [x] **Correlation Heatmap**: Pearson correlation matrix with lower-triangle mask and numerical annotations.
+- [x] **Non-Obvious Deep Dives**: Demographic-Category affinity matrix & Day-of-week weekend revenue surge.
+- [x] **Strategic Business Recommendations**: 5 data-driven strategies for inventory, marketing, and dynamic pricing.
+
+### 📈 Task 1 Visual Assets Summary
+- `assets/figures/01_monthly_sales_trend.png` — Monthly sales trends with moving averages
+- `assets/figures/02_quarterly_sales_trends.png` — Quarterly revenue & QoQ growth rate
+- `assets/figures/03_customer_demographics_overview.png` — Age distribution & gender breakdown
+- `assets/figures/04_demographic_spending_patterns.png` — Age cohort vs revenue & AOV
+- `assets/figures/05_product_category_performance.png` — Top 10 SKUs & category revenue shares
+- `assets/figures/06_correlation_heatmap.png` — Correlation matrix of numerical variables
+- `assets/figures/07_deep_dive_insights.png` — Demographic affinity matrix & weekend spikes
+- `assets/figures/08_payment_method_distribution.png` — Payment method preferences by category
+
+---
+
+# 🛍️ TASK 2: Customer Segmentation Analysis using RFM & K-Means
+
+### 🎯 Objective
+Apply unsupervised machine learning (K-Means Clustering) on customer transaction history to segment an e-commerce customer base into homogeneous behavioral groups based on **Recency ($R$)**, **Frequency ($F$)**, and **Monetary Value ($M$)**, enabling personalized marketing strategies.
+
+### 🛠️ Tech Stack
+`Python 3.13` | `Pandas` | `NumPy` | `Scikit-Learn (KMeans, StandardScaler, PCA, Silhouette)` | `Matplotlib` | `Seaborn`
+
+### 📋 Feature Checklist Compliance
+- [x] **Data Ingestion & Cleaning**: Processed 9,352 transactions for 1,200 unique customers; removed duplicates and invalid orders.
+- [x] **RFM Feature Engineering**: Calculated Recency (days since last purchase), Frequency (order count), Monetary Spend ($), and Average Order Value ($AOV$).
+- [x] **Data Preprocessing & Scaling**: Applied log transformation to mitigate right-skewness followed by `StandardScaler` ($\mu = 0, \sigma = 1$).
+- [x] **Optimal K Determination**: Rigorously validated $K=4$ using both the **Elbow Method (Inertia)** and **Silhouette Coefficient Analysis** (peak score: ~0.42).
+- [x] **Cluster Visualizations**: 2D scatter plots (Recency vs Frequency, Frequency vs Monetary, Recency vs Monetary) and 2D **PCA (Principal Component Analysis)** projections.
+- [x] **Customer Persona Profiling**: Assigned business personas based on standardized cluster centroids.
+- [x] **Volume vs Revenue Analysis**: Evaluated customer counts vs cumulative revenue contributions (Pareto principle).
+- [x] **Actionable Marketing Strategies**: Tailored marketing and retention campaigns designed for each customer segment.
+
+### 👥 Customer Segments & Strategic Recommendations
+
+| Cluster ID | Segment Persona | Customer Share | Revenue Share | Avg Recency | Avg Frequency | Avg Lifetime Spend | Recommended Strategic Marketing Action |
+|:---:|---|:---:|:---:|:---:|:---:|:---:|---|
+| **Cluster 0** | 🌟 **Champions** | **20.2%** | **51.0%** | **17.4 days** | **12.7 orders** | **$3,454.61** | Enroll in VIP Loyalty Program, early access to new product drops, exclusive concierge support, and referral rewards. |
+| **Cluster 1** | ⚠️ **At-Risk Customers** | **40.8%** | **39.7%** | **120.7 days** | **5.0 orders** | **$1,331.11** | Deploy automated "We Miss You" win-back email sequences with 15–20% return discount coupons and satisfaction surveys. |
+| **Cluster 2** | 🌱 **Potential Loyalists** | **27.7%** | **6.7%** | **31.5 days** | **1.5 orders** | **$332.28** | Send personalized category onboarding sequences, tiered 2nd/3rd purchase incentives, and cross-category bundles. |
+| **Cluster 3** | 💤 **Lost / Dormant** | **11.4%** | **2.5%** | **289.6 days** | **1.5 orders** | **$300.92** | Cost-effective seasonal liquidation email blasts; suppress from high-cost ad campaigns to maximize marketing ROI. |
+
+### 📈 Task 2 Visual Assets Summary
+- `assets/task2_figures/01_macro_sales_summary.png` — Category sales and geographic distribution
+- `assets/task2_figures/02_rfm_distributions.png` — Histograms & KDE plots of R, F, and M metrics
+- `assets/task2_figures/03_elbow_silhouette_analysis.png` — Elbow Method & Silhouette Coefficient curves
+- `assets/task2_figures/04_cluster_scatter_plots.png` — 2D pairwise cluster scatter visualizations
+- `assets/task2_figures/05_pca_cluster_projection.png` — 2D PCA cluster space projection
+- `assets/task2_figures/06_cluster_volume_revenue_share.png` — Customer count vs revenue contribution share
+- `assets/task2_figures/07_cluster_centroids_heatmap.png` — Standardized cluster centroids heatmap
+
+---
+
+## 📂 Repository Structure
 
 ```
-Data_Analytics_Oasis_internship/
+Deeva_Data_Analytics_Submission/
 │
-├── TASK_1_EDA_Retail_Sales_Data.ipynb   # Fully executed master Jupyter Notebook with all outputs & charts
-├── eda_retail_sales.py                  # Standalone automated Python execution script
-├── generate_dataset.py                  # Realistic retail sales data generator script
-├── retail_sales_dataset.csv             # Structured retail transactions dataset (3,500 records)
-├── README.md                            # Professional documentation & executive report
+├── TASK_1_EDA_Retail_Sales_Data.ipynb          # Master executed Jupyter Notebook for Task 1
+├── TASK_2_Customer_Segmentation_Analysis.ipynb  # Master executed Jupyter Notebook for Task 2
+│
+├── eda_retail_sales.py                         # Standalone automated Python pipeline (Task 1)
+├── customer_segmentation.py                    # Standalone automated Python pipeline (Task 2)
+│
+├── retail_sales_dataset.csv                    # Dataset for Task 1 (3,500 transactions)
+├── ecommerce_customer_data.csv                 # Dataset for Task 2 (9,352 transactions, 1,200 customers)
+│
+├── generate_dataset.py                         # Dataset generator script for Task 1
+├── generate_task2_dataset.py                   # Dataset generator script for Task 2
+│
+├── README.md                                   # Comprehensive Project & Portfolio Report
 └── assets/
-    └── figures/                         # High-resolution (300 DPI) exported chart figures
-        ├── 01_monthly_sales_trend.png
-        ├── 02_quarterly_sales_trends.png
-        ├── 03_customer_demographics_overview.png
-        ├── 04_demographic_spending_patterns.png
-        ├── 05_product_category_performance.png
-        ├── 06_correlation_heatmap.png
-        ├── 07_deep_dive_insights.png
-        └── 08_payment_method_distribution.png
+    ├── figures/                                # High-Res charts for Task 1 (EDA)
+    └── task2_figures/                          # High-Res charts for Task 2 (Segmentation)
 ```
 
 ---
 
-## 🔍 Key Analytical Findings
+## 🛠️ Installation & Execution Guide
 
-### 1. ⏱️ Temporal Dynamics & Seasonality
-- **Q4 Holiday Dominance**: Sales peak heavily during **November and December (Q4)** due to Black Friday, Cyber Monday, and festive gift-buying cycles.
-- **Mid-Year Surge**: A secondary sales peak occurs in **July (Q3)** driven by mid-year promotional campaigns.
-- **Q1 Trough**: Sales dip in **January–February**, creating an optimal window for post-holiday inventory clearance.
-
-### 2. 👥 Customer Demographics & Purchasing Power
-- **Gender Balance**: Purchases are evenly balanced across **Female (51.5%)** and **Male (48.5%)** shoppers.
-- **Core Revenue Driver**: Customers aged **26–50 (Early Career & Middle-Aged)** contribute over **55%** of total gross revenue.
-- **Basket Sizes**: Mean transaction value is **~$370–$440**, with a median quantity of 1 unit per transaction.
-
-### 3. 🏷️ Product & Category Performance
-- **Electronics**: The dominant category driving **~38% of total gross revenue**, led by high-ticket items (*Gaming Laptops, 4K Smart TVs, Smartphone Pro Max*).
-- **Volume Leaders**: *Clothing* and *Beauty* generate frequent transactions with lower Average Order Values (~$60–$150).
-- **Home & Kitchen**: Strongest affinity among customers aged 36+.
-
-### 4. 💡 Non-Obvious Insights (Deep Dives)
-- **Weekend Surge**: Friday through Sunday generates **~45% of weekly sales**, with Saturday consistently recording peak transaction volume.
-- **Payment Method Preference**: Credit Cards (42%) and Digital Wallets / UPI (25%) account for **67% of total revenue**, especially for high-ticket electronics purchases.
-
----
-
-## 🚀 Top 5 Strategic, Actionable Business Recommendations
-
-1. **📦 Pre-Stocking & Supply Chain Alignment for Q4 Demand**:
-   - Begin procurement and buffer stock allocation for top 10 revenue-generating SKUs (Gaming Laptops, Smart TVs, Air Fryers) 60 days prior to Q4 (by September) to prevent stockout losses during peak holiday demand.
-
-2. **🎯 Segmented Demographic Marketing & Personalization**:
-   - Allocate social media advertising (Instagram/TikTok) to Gen-Z and Young Adults (18–35) focusing on high-margin Beauty and Tech accessories.
-   - Target Mature and Middle-Aged customers (36–65) with email campaigns showcasing premium Home & Kitchen appliances.
-
-3. **🛍️ Cross-Category Smart Bundling to Boost AOV**:
-   - Package complementary items across categories (e.g., *Smartwatch + Resistance Bands* or *Laptop + Wireless Earbuds*) with a 10% bundle discount to increase Units Per Transaction (UPT) and raise baseline AOV.
-
-4. **🏷️ Weekend Flash Sales & Dynamic Pricing Strategy**:
-   - Capitalize on weekend shopping velocity by hosting exclusive 48-hour weekend flash sales, while reserving weekdays for clearance promotions and loyalty member rewards.
-
-5. **💳 Digital Payment Incentives & No-Cost EMI**:
-   - Partner with leading payment providers to offer No-Cost EMI and instant cashbacks for purchases over $300 to reduce checkout friction on high-ticket products.
-
----
-
-## 🛠️ How to Run & Verify
-
-### Option 1: View Executed Jupyter Notebook
-Open [`TASK_1_EDA_Retail_Sales_Data.ipynb`](TASK_1_EDA_Retail_Sales_Data.ipynb) directly in Jupyter Notebook, JupyterLab, VS Code, or on GitHub. All markdown documentation, styled summary tables, and visualizations are pre-rendered and embedded.
-
-### Option 2: Run via Standalone Python Script
+### 1. Clone the Repository
 ```bash
-python eda_retail_sales.py
+git clone https://github.com/Deeva2601/Deeva_Data_Analytics_Submission.git
+cd Deeva_Data_Analytics_Submission
 ```
-This script will execute the full end-to-end pipeline, output statistical summaries to the console, and refresh all chart images in `assets/figures/`.
 
----
+### 2. Install Dependencies
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
 
-## 📈 Visual Assets Preview
-All visual assets have been rendered at 300 DPI and saved in [`assets/figures/`](assets/figures/):
-- `01_monthly_sales_trend.png` — Monthly revenue trajectory with 3-month moving average
-- `02_quarterly_sales_trends.png` — Quarterly revenue breakdown & QoQ growth rate
-- `03_customer_demographics_overview.png` — Customer age distribution & gender breakdown
-- `04_demographic_spending_patterns.png` — Total revenue & AOV across age cohorts by gender
-- `05_product_category_performance.png` — Top 10 best-selling products & category revenue share
-- `06_correlation_heatmap.png` — Pearson correlation matrix across numerical variables
-- `07_deep_dive_insights.png` — Spending affinity matrix & weekend shopping surges
-- `08_payment_method_distribution.png` — Payment method breakdown across product categories
+### 3. Run Jupyter Notebooks
+```bash
+# Task 1
+jupyter notebook TASK_1_EDA_Retail_Sales_Data.ipynb
+
+# Task 2
+jupyter notebook TASK_2_Customer_Segmentation_Analysis.ipynb
+```
+
+### 4. Run Headless Automated Python Scripts
+```bash
+# Run Task 1 Pipeline
+python eda_retail_sales.py
+
+# Run Task 2 Pipeline
+python customer_segmentation.py
+```
